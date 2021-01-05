@@ -2,7 +2,7 @@ altgraph==0.10.2
 aniso8601==8.1.0
 asn1crypto==0.24.0
 bdist-mpkg==0.5.0
-bonjour-py==0.3
+
 cachetools==3.1.1
 certifi==2020.12.5
 cffi==1.14.3
@@ -14,7 +14,7 @@ Flask==1.1.2
 Flask-Cors==3.0.9
 Flask-RESTful==0.3.8
 future==0.17.1
-futures==3.3.0
+
 google-api-core==1.24.1
 google-api-python-client==1.12.8
 google-auth==1.24.0
