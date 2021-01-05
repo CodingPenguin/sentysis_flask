@@ -1,12 +1,9 @@
 from flask import Flask, jsonify, request
-from flask_cors import CORS, cross_origin
 
 
-app = Flask(__name__)
-cors = CORS(app)
-app.config['CORS_HEADERS'] = 'Content-Type'
+sentysis= Flask(__name__)
 
-ytUrls = [
+ytUrls= [
     {
     # should look like this
     # "ytUrl": {
@@ -17,17 +14,14 @@ ytUrls = [
 
 
 
-@app.route('/')
+@sentysis.route('/')
 def create_UI():
     return "<h1>WHAT'S UP LOSER</h1>"
 
-@app.route('/api/ytUrls', methods=['GET', 'POST'])
-@cross_origin()
+@sentysis.route('/api/ytUrls', methods=['POST'])
 def create_youtube_url():
 
-
-    if request.method == 'POST':
-        if not request.json or not 'youtube_url' in request.json:
+    if not request.json or not 'youtube_url' in request.json:
             abort(400)
             ytUrl = {
             'youtube_url': request.json['youtube_url']

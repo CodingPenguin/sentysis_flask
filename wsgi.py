@@ -1,4 +1,4 @@
-from sentysis_flask import sentysis
+from sentysis.sentysis import sentysis
 
 if __name__ == "__main__":
     sentysis.run()
