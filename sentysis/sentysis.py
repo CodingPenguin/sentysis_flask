@@ -16,7 +16,7 @@ ytUrls= [
 
 @sentysis.route('/')
 def create_UI():
-    return "<h1>WHAT'S UP LOSER</h1>"
+    return "<h1>WHAT'S UP</h1>"
 
 @sentysis.route('/api/ytUrls', methods=['POST'])
 def create_youtube_url():
