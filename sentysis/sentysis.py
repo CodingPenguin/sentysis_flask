@@ -1,7 +1,7 @@
 from flask import Flask, jsonify, request
 
 
-sentysis= Flask(__name__)
+app= Flask(__name__)
 
 ytUrls= [
     {
@@ -14,11 +14,11 @@ ytUrls= [
 
 
 
-@sentysis.route('/')
+@app.route('/')
 def create_UI():
     return "<h1>WHAT'S UP</h1>"
 
-@sentysis.route('/api/ytUrls', methods=['POST'])
+@app.route('/api/ytUrls', methods=['POST'])
 def create_youtube_url():
 
     if not request.json or not 'youtube_url' in request.json:
