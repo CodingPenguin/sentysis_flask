@@ -1,1 +1,1 @@
-web: gunicorn wsgi:sentysis
+web: gunicorn wsgi: sentysis
