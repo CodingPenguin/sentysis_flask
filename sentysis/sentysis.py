@@ -1,7 +1,7 @@
 from flask import Flask, jsonify, request
 
 
-app= Flask(__name__)
+app = Flask(__name__)
 
 ytUrls= [
     {
@@ -33,5 +33,5 @@ def create_youtube_url():
 
 
 
-#if __name__ == '__main__':
-#    app.run(debug=True)
+if __name__ == '__main__':
+    app.run(debug=True)
