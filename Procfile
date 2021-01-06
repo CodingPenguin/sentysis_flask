@@ -1,1 +1,1 @@
-web: gunicorn --bind 0.0.0.0:$PORT sentysis:app wsgi: sentysis
+web: gunicorn sentysis:app
