@@ -3,11 +3,11 @@ from flask import Flask, jsonify, request
 
 app = Flask(__name__)
 
-ytUrls= [
+ytVideoIds= [
     {
     # should look like this
-    # "ytUrl": {
-    #   "youtube_url": "https://www.youtube.com/watch\?v\=1ecG3MT0lAw"
+    # "ytVideoId": {
+    #   "videoId": "1ecG3MT0lAw"
     #   }
     }
 ]
@@ -16,20 +16,20 @@ ytUrls= [
 
 @app.route('/')
 def create_UI():
-    return "<h1>WHAT'S UP</h1>"
+    return "<h1>WHAT'S UP LOSER</h1>"
 
-@app.route('/api/ytUrls', methods=['POST'])
-def create_youtube_url():
+@app.route('/api/ytVideoIds', methods=['POST'])
+def create_ytVideoId():
 
-    if not request.json or not 'youtube_url' in request.json:
+    if not request.json or not 'videoId' in request.json:
             abort(400)
-            ytUrl = {
-            'youtube_url': request.json['youtube_url']
-            }
-            ytUrls.append(ytUrl)
-            return jsonify({'ytUrl': ytUrl}), 201
-    else: # 'GET' http method
-        return ytUrls[0], 201
+
+    ytVideoId = {
+        'videoId': request.json['videoId']
+    }
+    ytVideoIds.append(ytVideoId)
+    return jsonify({'ytVideoId': ytVideoId}), 201
+
 
 
 
