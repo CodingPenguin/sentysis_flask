@@ -30,7 +30,7 @@ def create_ytVideoId():
             request.get_json('videoId')
         }
         ytVideoIds.append(ytVideoId)
-        return jsonify({ytVideoId}), 201
+        return jsonify({'ytVideoId': ytVideoId}), 201
     return jsonify(ytVideoIds)
 
 
