@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, request
+from flask import Flask, jsonify, request, abort
 from flask_cors import CORS
 
 
@@ -24,10 +24,10 @@ def create_UI():
 def create_ytVideoId():
 
     if not request.json or not 'videoId' in request.json:
-            abort(400)
+        abort(400)
 
     ytVideoId = {
-        'videoId': request.json['videoId']
+        'videoId': request.get_json('videoId')
     }
     ytVideoIds.append(ytVideoId)
     return jsonify({'ytVideoId': ytVideoId}), 201
