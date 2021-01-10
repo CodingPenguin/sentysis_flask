@@ -6,12 +6,11 @@ app = Flask(__name__)
 CORS(app)
 
 ytVideoIds= [
-    {
+
     # should look like this
     # "ytVideoId": {
     #   "videoId": "1ecG3MT0lAw"
     #   }
-    }
 ]
 
 
@@ -27,7 +26,7 @@ def create_ytVideoId():
             abort(400)
 
         ytVideoId = {
-            'videoId': request.get_json('videoId')
+            'ytVideoIds': request.get_json('videoId')
         }
         ytVideoIds.append(ytVideoId)
         return jsonify({'ytVideoId': ytVideoId}), 201
