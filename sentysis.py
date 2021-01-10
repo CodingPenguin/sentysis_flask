@@ -20,17 +20,18 @@ ytVideoIds= [
 def create_UI():
     return "<h1>WHAT'S UP LOSER</h1>"
 
-@app.route('/api/ytVideoIds', methods=['POST'])
+@app.route('/api/ytVideoIds', methods=['GET', 'POST'])
 def create_ytVideoId():
+    if request.method == 'POST':
+        if not request.json or not 'videoId' in request.json:
+            abort(400)
 
-    if not request.json or not 'videoId' in request.json:
-        abort(400)
-
-    ytVideoId = {
-        'videoId': request.get_json('videoId')
-    }
-    ytVideoIds.append(ytVideoId)
-    return jsonify({'ytVideoId': ytVideoId}), 201
+        ytVideoId = {
+            'videoId': request.get_json('videoId')
+        }
+        ytVideoIds.append(ytVideoId)
+        return jsonify({'ytVideoId': ytVideoId}), 201
+    return jsonify(ytVideoIds)
 
 
 
