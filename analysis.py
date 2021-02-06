@@ -1,6 +1,8 @@
-import json, commentData
+import json
 
-commentData = json.loads(commentData.commentData_json)
+with open('./commentData.json') as f:
+    commentData = json.load(f)
+
 commentList = []
 
 if "items" in commentData:
