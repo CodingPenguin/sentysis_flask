@@ -18,6 +18,8 @@ def getComments(videoId):
         order="relevance"
     )
     response = request.execute()
-    
+
 
     return response
+
+commentData = getComments("Bh_uMYaykyQ")
