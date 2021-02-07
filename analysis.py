@@ -1,28 +1,28 @@
 import json
 
-with open('./commentData.json') as f:
-    commentData = json.load(f)
+with open('./comment_data.json') as f:
+    comment_data = json.load(f)
 
-commentList = []
+comment_list = []
 
-if "items" in commentData:
-    commentData_items = commentData["items"]
-    for comment in commentData_items:
+if "items" in comment_data:
+    comment_data_items = comment_data["items"]
+    for comment in comment_data_items:
         if "snippet" not in comment:
             break
-        comment_snippet0 = comment["snippet"]
-        if "topLevelComment" not in comment_snippet0:
+        comment_snippet = comment["snippet"]
+        if "topLevelComment" not in comment_snippet:
             break
-        comment_topLevelComment = comment_snippet0["topLevelComment"]
-        if "snippet" not in comment_topLevelComment:
+        comment_top_level_comment = comment_snippet["topLevelComment"]
+        if "snippet" not in comment_top_level_comment:
             break
-        comment_snippet1 = comment_topLevelComment["snippet"]
-        if "textDisplay" not in comment_snippet1:
+        comment_snippet_1 = comment_top_level_comment["snippet"]
+        if "textDisplay" not in comment_snippet_1:
             break
-        comment_textDisplay = comment_snippet1["textDisplay"]
-        commentList.append(comment_textDisplay)
+        comment_text_display = comment_snippet_1["textDisplay"]
+        comment_list.append(comment_text_display)
 else:
     ""
 
-for comment in commentList:
+for comment in comment_list:
     print(comment + "\n")
