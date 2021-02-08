@@ -24,5 +24,5 @@ if "items" in comment_data:
 else:
     ""
 
-for comment in comment_list:
-    print(comment + "\n")
+# for comment in comment_list:
+#     print(comment + "\n")
