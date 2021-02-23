@@ -6,7 +6,7 @@ import googleapiclient.discovery, os, config, comments
 app = Flask(__name__)
 CORS(app)
 
-ytVideoIds= [
+yt_video_ids= [
     # should look like this
     # {
     #     "videoId":"Bh_uMYaykyQ"
@@ -14,7 +14,7 @@ ytVideoIds= [
 ]
 
 # importing methods basically
-getComments = comments.getComments
+get_comments = comments.get_comments
 
 
 @app.route('/')
@@ -27,13 +27,13 @@ def create_ytVideoId():
         if not request.json or not 'videoId' in request.json:
             abort(400)
 
-        ytVideoId = request.get_json('videoId')
+        yt_video_id = request.get_json('videoId')
 
-        ytVideoIds.append(ytVideoId)
-        commentData = getComments(ytVideoIds[0]["videoId"]) # from line 12, it gets "Bh_uMYaykyQ"
+        yt_video_ids.append(yt_video_id)
+        comment_data = get_comments(yt_video_ids[0]["videoId"]) # from line 12, it gets "Bh_uMYaykyQ"
 
-        return jsonify({'ytVideoId': ytVideoId}), 201
-    return jsonify(ytVideoIds)
+        return jsonify({'ytVideoId': yt_video_id}), 201
+    return jsonify(yt_video_ids)
 
 
 

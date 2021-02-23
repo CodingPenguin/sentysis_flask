@@ -1,6 +1,6 @@
 import os, config
 
-def getComments(videoId):
+def get_comments(video_id):
     # Disable OAuthlib's HTTPS verification when running locally.
     # *DO NOT* leave this option enabled in production.
     os.environ["OAUTHLIB_INSECURE_TRANSPORT"] = "1"
@@ -15,12 +15,10 @@ def getComments(videoId):
 
     request = youtube.commentThreads().list(
         part="snippet",
-        videoId=videoId,
+        video_id=videoId,
         order="relevance"
     )
     response = request.execute()
 
 
     return response
-
-commentData = getComments("")
