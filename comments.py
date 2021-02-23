@@ -10,7 +10,8 @@ def getComments(videoId):
     DEVELOPER_KEY = config.API_KEY
 
     youtube = googleapiclient.discovery.build(
-        api_service_name, api_version, developerKey = DEVELOPER_KEY)
+        api_service_name, api_version, developerKey = DEVELOPER_KEY
+    )
 
     request = youtube.commentThreads().list(
         part="snippet",
@@ -22,4 +23,4 @@ def getComments(videoId):
 
     return response
 
-commentData = getComments("Bh_uMYaykyQ")
+commentData = getComments("")
