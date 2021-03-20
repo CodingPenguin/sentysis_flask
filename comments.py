@@ -20,5 +20,4 @@ def get_comments(video_id):
     )
     response = request.execute()
 
-
     return response

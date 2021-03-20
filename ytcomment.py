@@ -5,27 +5,16 @@ class YTComment:
         self.likes = 0
         self.sentiment = 0
         #
-        # if "items" in data:
-        #
-        #     for comment in data["items"]:
-
         if "snippet" in data:
-
-            if "topLevelComment" in comment["snippet"]:
-
-                if "snippet" in comment["snippet"]["topLevelComment"]:
-
-                    real_data = comment["snippet"]["topLevelComment"]["snippet"]
-                    print(real_data["textDisplay"])
+            if "topLevelComment" in data["snippet"]:
+                if "snippet" in data["snippet"]["topLevelComment"]:
+                    real_data = data["snippet"]["topLevelComment"]["snippet"]
                     if "textDisplay" in real_data:
                         self.value = real_data["textDisplay"]
-
                     if "likeCount" in real_data:
                         self.likes = real_data["likeCount"]
 
         self.sentiment = calc_sentiment(self.value)
-
-
 
 #
 # ### backend

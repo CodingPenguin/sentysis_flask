@@ -29,7 +29,6 @@ def calc_sentiment(c):
 def find_quartiles(list):
     first_quartile = round(numpy.percentile(list, 25, interpolation = 'midpoint'), 3)
     third_quartile = round(numpy.percentile(list, 75, interpolation = 'midpoint'), 3)
-    print(list)
     avg_sentiment = round(numpy.median(list), 3)
     output = "The median sentiment is " + str(avg_sentiment) + " with the middle 50% of the sentiment varying from " + str(first_quartile) + " to " + str(third_quartile) + "."
     return output
