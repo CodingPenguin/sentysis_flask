@@ -13,8 +13,8 @@ class YTComment:
                         self.value = real_data["textDisplay"]
                     if "likeCount" in real_data:
                         self.likes = real_data["likeCount"]
-
-        self.sentiment = calc_sentiment(self.value)
+        if self.value:
+            self.sentiment = calc_sentiment(self.value)
 
 #
 # ### backend

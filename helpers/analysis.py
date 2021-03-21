@@ -7,24 +7,19 @@ analysis = SentimentIntensityAnalyzer().polarity_scores
 
 def calc_sentiment(c):
     vader_sentiment = analysis(c)["pos"] - analysis(c)["neg"]
-    return vader_sentiment
+    afinn_sentiment = afinn_score(c)
+    return round(((vader_sentiment + afinn_sentiment) / 2), 3)
 
+def afinn_score(c):
+    word_count = len(c.split())
+    score = ((afinn.score(c) / word_count) / 5)
+    return score
 
-#uncomment the following 2 methods if I want to normalize data
-# def word_count(text_string):
-#     # '''Calculate the number of words in a string'''
-#     return len(text_string.split())
 
 # def normalize_data(sentiment_score, sentiment_data): # https://medium.com/@rrfd/standardize-or-normalize-examples-in-python-e3f174b65dfc
-#     normalized_score = (2 * ((sentiment_score - numpy.min(sentiment_data)) / (numpy.max(sentiment_data) - numpy.min(sentiment_data)))) - 1
-#     return normalized_score # sentiment between -1 and 1
+#      normalized_score = (2 * ((sentiment_score - numpy.min(sentiment_data)) / (numpy.max(sentiment_data) - numpy.min(sentiment_data)))) - 1
+#      return normalized_score # sentiment between -1 and 1
 
-# sentiment_list = list(map(calc_sentiment, comment_value_list))
-
-
-# TODO: split this in half or something and then implement the above thing boi put this up commentThreadListResponse?
-
-# sort sentiment_list
 
 def find_quartiles(list):
     first_quartile = round(numpy.percentile(list, 25, interpolation = 'midpoint'), 3)

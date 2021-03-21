@@ -1,22 +1,18 @@
 import json
 from ytcomment import YTComment
 from helpers.analysis import calc_sentiment, find_quartiles
-from helpers.sentiment_sort import sort
+from helpers.sentiment_sort import sentiment_sort
 
 with open('./comment_data.json') as f:
     comment_data = json.load(f)
 
 comment_list = []
 
+for c in comment_data["items"]:
+    comment = YTComment(c)
+    comment_list.append(comment)
 
-def sanitize(data):
-    sanitized_data = YTComment(data)
-    return sanitized_data
-
-for comment in comment_data["items"]:
-    comment_list.append(sanitize(comment))
-
-comment_list = sort(comment_list)
+comment_list.sort(key=lambda c: c.sentiment)
 
 print([c.sentiment for c in comment_list])
 

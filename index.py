@@ -1,8 +1,12 @@
 from flask import Flask, jsonify, request, abort
 from flask_cors import CORS
 
-import googleapiclient.discovery, os, config
+import config, googleapiclient.discovery, json, os
+
 from comments import get_comments
+from ytcomment import YTComment
+from helpers.analysis import calc_sentiment, find_quartiles
+
 
 
 app = Flask(__name__)
@@ -15,7 +19,7 @@ def create_UI():
     return "<h1 style='color:red;'>loser</h1>"
 
 @app.route('/api/ytVideoIds', methods=['POST'])
-def create_ytVideoId():
+def process_video_id():
 
     if not request.json or not 'videoId' in request.json:
         abort(400)
@@ -23,21 +27,17 @@ def create_ytVideoId():
     yt_video_id = request.get_json('videoId')
     comment_data = get_comments(yt_video_id) # from line 12, it gets "Bh_uMYaykyQ"
 
-    return jsonify({'ytVideoId': yt_video_id}), 201
+    for c in comment_data["items"]:
+        comment = YTComment(c)
+        comment_list.append(comment)
 
-def sanitize(data):
-    sanitized_data = YTComment(data)
-    return sanitized_data
+    comment_list.sort(key=lambda c: c.sentiment)
 
-for comment in comment_data["items"]:
-    comment_list.append(sanitize(comment))
+    quartiles = find_quartiles([c.sentiment for c in comment_list])
 
-comment_list = sort(comment_list)
+    return jsonify({'yt_video_id': yt_video_id}), 201
 
-print([c.sentiment for c in comment_list])
 
-quartiles = find_quartiles([c.sentiment for c in comment_list])
-print(quartiles)
 
 if __name__ == '__main__':
     app.run(debug=True)
