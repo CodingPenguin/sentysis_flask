@@ -5,21 +5,15 @@ import numpy
 afinn = Afinn(language="en")
 analysis = SentimentIntensityAnalyzer().polarity_scores
 
-def calc_sentiment(c):
-    vader_sentiment = analysis(c)["pos"] - analysis(c)["neg"]
-    afinn_sentiment = afinn_score(c)
-    return round(((vader_sentiment + afinn_sentiment) / 2), 3)
-
 def afinn_score(c):
     word_count = len(c.split())
     score = ((afinn.score(c) / word_count) / 5)
     return score
-
-
-# def normalize_data(sentiment_score, sentiment_data): # https://medium.com/@rrfd/standardize-or-normalize-examples-in-python-e3f174b65dfc
-#      normalized_score = (2 * ((sentiment_score - numpy.min(sentiment_data)) / (numpy.max(sentiment_data) - numpy.min(sentiment_data)))) - 1
-#      return normalized_score # sentiment between -1 and 1
-
+    
+def calc_sentiment(c):
+    vader_sentiment = analysis(c)["pos"] - analysis(c)["neg"]
+    afinn_sentiment = afinn_score(c)
+    return round(((vader_sentiment + afinn_sentiment) / 2), 3)
 
 def find_quartiles(list):
     first_quartile = round(numpy.percentile(list, 25, interpolation = 'midpoint'), 3)
