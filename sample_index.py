@@ -1,7 +1,6 @@
 import json
 from ytcomment import YTComment
 from helpers.analysis import calc_sentiment, find_quartiles
-from helpers.sentiment_sort import sentiment_sort
 
 with open('./comment_data.json') as f:
     comment_data = json.load(f)
