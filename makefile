@@ -4,7 +4,7 @@ install:
 
 # Main command to run the app locally
 run:
-	python3 comments.py
+	python3 index.py
 
 # Save everything that is installed into the requirements.txt
 save:
