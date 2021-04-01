@@ -1,6 +1,6 @@
 from afinn import Afinn
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
-import numpy
+import numpy, math
 
 afinn = Afinn(language="en")
 analysis = SentimentIntensityAnalyzer().polarity_scores
@@ -14,6 +14,11 @@ def calc_sentiment(c):
     vader_sentiment = analysis(c)["pos"] - analysis(c)["neg"]
     afinn_sentiment = afinn_score(c)
     return round(((vader_sentiment + afinn_sentiment) / 2), 3)
+
+def weighted_stats(sentiments, likes):
+    weighted_mean = round(numpy.average(sentiments, weights=likes), 3)
+    weighted_std = round(math.sqrt(numpy.average((sentiments-weighted_mean)**2, weights=likes)), 3)
+    return {"weighted_mean": weighted_mean, "weighted_std": weighted_std}
 
 def find_quartiles(list):
     first_quartile = round(numpy.percentile(list, 25, interpolation = 'midpoint'), 3)

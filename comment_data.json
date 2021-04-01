@@ -1,196 +1,133 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "LOb6v_YbhSP3rUbLQwsBJklHkxI",
+  "etag": "ttftLDRaS4IXik604dzgSg2X-rk",
+  "nextPageToken": "QURTSl9pMmJQcWRKbmlCYkNtSjZ3WDJFR0Noa1NWZERsWmhUM0NVRWVQaUk4aHc1bC04VXVLNGU3WllTMC00Tll1Y2o2ZUd6TUdMZk82Q1hsUlhpa0txcmg4cE1Na0ZXS2RGSzNRRzU5TEkyVXE5TWNFSjNudGdVdmNLSDV0UHBIcEc2eHhYSThEQUFOTXdVUlNPOEN1STFYbDBabXVEUWFodFBDVW05VEpIT0x2TGNVQmVqUG9fbnZwZ2NnUU5lTXpOYzlvMHAxb2xBQTE1aTZEVEZvNFFucUxoSXBoSG5OWEtGY3J6V0gweU9xZjM1QzlxRmNyN3JKVF9RcXluZGpDLVJzN3ZIMW0xLXRVQWVqMlBNdnZNaVIyTnVndVJmU3VPamwwQi00ZGNkNzZBYXNaZ2NkS3RBRWhrV21tNHNNT04zQm1Z",
   "pageInfo": {
-    "totalResults": 10,
-    "resultsPerPage": 20
+    "totalResults": 50,
+    "resultsPerPage": 50
   },
   "items": [
     {
       "kind": "youtube#commentThread",
-      "etag": "tlDsIXPHH4_axjIQM_pxUx0lvzM",
-      "id": "Ugwy42kJyWeBp1EFVAl4AaABAg",
+      "etag": "p-VhZFBtVv0obbnc0OAU_zinUpg",
+      "id": "Ugg2V_n-r99JZHgCoAEC",
       "snippet": {
-        "videoId": "qF9PpfBatBo",
+        "videoId": "y2euBvdP28c",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "xcRXhTtQP3SUDFMf8Cvjww8EXys",
-          "id": "Ugwy42kJyWeBp1EFVAl4AaABAg",
+          "etag": "jPkaN-3w64VbOBtuIf_owEVF_UQ",
+          "id": "Ugg2V_n-r99JZHgCoAEC",
           "snippet": {
-            "videoId": "qF9PpfBatBo",
-            "textDisplay": "It’s phase four level illness already and we are at denial phase as civilization of earth... so sad but inevitable at the same time...",
-            "textOriginal": "It’s phase four level illness already and we are at denial phase as civilization of earth... so sad but inevitable at the same time...",
-            "authorDisplayName": "Salih Elmaagacli",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwniZR9ehGYtvSzx6SqsrQbQNUKfMT8Ey_FZInunLug=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCzIsg5r5DHwuRX7O28MRwvQ",
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "How the heck did climate science even become a political issue?",
+            "textOriginal": "How the heck did climate science even become a political issue?",
+            "authorDisplayName": "Sawtooth Waves",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjIs7m5oPMcIoD05R-r0NbDYoiZk5cd1Qrs-4lHuw=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCD_VOth7RmckN6DbmFJa__A",
             "authorChannelId": {
-              "value": "UCzIsg5r5DHwuRX7O28MRwvQ"
+              "value": "UCD_VOth7RmckN6DbmFJa__A"
             },
             "canRate": true,
             "viewerRating": "none",
-            "likeCount": 5,
-            "publishedAt": "2020-12-24T22:01:16Z",
-            "updatedAt": "2020-12-24T22:02:10Z"
+            "likeCount": 4202,
+            "publishedAt": "2016-10-03T17:33:25Z",
+            "updatedAt": "2016-10-03T17:33:25Z"
           }
         },
         "canReply": true,
-        "totalReplyCount": 2,
+        "totalReplyCount": 464,
         "isPublic": true
       }
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "r04fsPCDUghp6RS10o_4bsdcnfA",
-      "id": "UgwErqXskUYhuw8xjnl4AaABAg",
+      "etag": "1n6_QFbWufCGumPG7H7chzgt7XE",
+      "id": "UgwleII4ukeniwgiya94AaABAg",
       "snippet": {
-        "videoId": "qF9PpfBatBo",
+        "videoId": "y2euBvdP28c",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "e0fqHzmTl8EmIDibsitEtf5L12o",
-          "id": "UgwErqXskUYhuw8xjnl4AaABAg",
+          "etag": "37cBb6yJ5Kj0cU8rP4oIYjRUw4g",
+          "id": "UgwleII4ukeniwgiya94AaABAg",
           "snippet": {
-            "videoId": "qF9PpfBatBo",
-            "textDisplay": "Mangrove trees prevent flooding.",
-            "textOriginal": "Mangrove trees prevent flooding.",
-            "authorDisplayName": "Randall Bermudez",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhLD_z-pcxG09ichbLkR7QnNoeov1Hmq2DxcQ=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCtc6heuBDJxI1_3dKaqkG8w",
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "Well a new fact says 4 out of 10 Americans are wrong about something.",
+            "textOriginal": "Well a new fact says 4 out of 10 Americans are wrong about something.",
+            "authorDisplayName": "Jarid Gaming",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjJFbAxPM_IravoVLJ3T2s7LtmhRwH1CI-WPiMT=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCHKF0JiVfOm1jAUfhlKS0Cg",
             "authorChannelId": {
-              "value": "UCtc6heuBDJxI1_3dKaqkG8w"
+              "value": "UCHKF0JiVfOm1jAUfhlKS0Cg"
             },
             "canRate": true,
             "viewerRating": "none",
-            "likeCount": 2,
-            "publishedAt": "2020-12-25T01:19:34Z",
-            "updatedAt": "2020-12-25T01:19:34Z"
+            "likeCount": 143,
+            "publishedAt": "2019-07-18T06:49:27Z",
+            "updatedAt": "2019-07-18T06:49:27Z"
           }
         },
         "canReply": true,
-        "totalReplyCount": 0,
+        "totalReplyCount": 12,
         "isPublic": true
       }
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "EQ2QTCZ-g93iObjx4oYjMmmAPp4",
-      "id": "Ugy461gJEC02SkiAAiB4AaABAg",
+      "etag": "7rsD6yeOnHfpigFq5alxN5BC5RQ",
+      "id": "Ugxs-CnaPHlrvBkCnV94AaABAg",
       "snippet": {
-        "videoId": "qF9PpfBatBo",
+        "videoId": "y2euBvdP28c",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "Fb8M9HTZSHx07ops0fYd7HY5UAQ",
-          "id": "Ugy461gJEC02SkiAAiB4AaABAg",
+          "etag": "lkjB4LVx6hNqdbo8QoxDAvCohFU",
+          "id": "Ugxs-CnaPHlrvBkCnV94AaABAg",
           "snippet": {
-            "videoId": "qF9PpfBatBo",
-            "textDisplay": "When do we force economists to admit that they have been ignoring the depreciation of Durable Consumer Goods since WWII? How much CO2 is the result of planned obsolescence?",
-            "textOriginal": "When do we force economists to admit that they have been ignoring the depreciation of Durable Consumer Goods since WWII? How much CO2 is the result of planned obsolescence?",
-            "authorDisplayName": "psikeyhackr",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngpXjSTPZLu_CBbSRhcR7YblOqap8z7V4hdeA=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UC9hQ1TpvgxUlwtnRNegVP1Q",
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "&quot;The future is uncertain and the end is always near&quot; -The Doors",
+            "textOriginal": "\"The future is uncertain and the end is always near\" -The Doors",
+            "authorDisplayName": "Etyere Petyere",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjkyqiRQ8VsVteYUd_VycNx0nGS-MqSSXmWJ6_G=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCAZZBAnQ71NBMp7TPzbMNIw",
             "authorChannelId": {
-              "value": "UC9hQ1TpvgxUlwtnRNegVP1Q"
+              "value": "UCAZZBAnQ71NBMp7TPzbMNIw"
             },
             "canRate": true,
             "viewerRating": "none",
-            "likeCount": 2,
-            "publishedAt": "2021-01-08T10:14:02Z",
-            "updatedAt": "2021-01-08T10:14:02Z"
+            "likeCount": 277,
+            "publishedAt": "2019-10-13T21:01:07Z",
+            "updatedAt": "2019-10-13T21:01:07Z"
           }
         },
         "canReply": true,
-        "totalReplyCount": 0,
+        "totalReplyCount": 9,
         "isPublic": true
       }
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "-CHauN_IjR4FshqrDvPBwS01TmI",
-      "id": "UgzLsHMHAjApgdGqPnR4AaABAg",
+      "etag": "LWhpbCOklDBL7IzwaoffxZw1vDE",
+      "id": "Ugz17FGgwfnbfXwYYp14AaABAg",
       "snippet": {
-        "videoId": "qF9PpfBatBo",
+        "videoId": "y2euBvdP28c",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "C1VHlDnm5p8HmhSMd4vdLz1Uk-A",
-          "id": "UgzLsHMHAjApgdGqPnR4AaABAg",
+          "etag": "eVpQFHG3UxhGdz8nLddRZv9-K4o",
+          "id": "Ugz17FGgwfnbfXwYYp14AaABAg",
           "snippet": {
-            "videoId": "qF9PpfBatBo",
-            "textDisplay": "Let’s fight climate change by flying with private jets to a summit somewhere in the world",
-            "textOriginal": "Let’s fight climate change by flying with private jets to a summit somewhere in the world",
-            "authorDisplayName": "TheTruth76",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhezO4imOH1CzQeHBY0t--8p6IO4ThlJBEmPw=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCL5pPdGA2id7eSjxiad2lNw",
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "The problem is that every one tells everybody what to do but nobody does anything. And those who do something good are not acknowledged because we all are too busy seeing cat videos. Our existence now poses a threat to our existence.",
+            "textOriginal": "The problem is that every one tells everybody what to do but nobody does anything. And those who do something good are not acknowledged because we all are too busy seeing cat videos. Our existence now poses a threat to our existence.",
+            "authorDisplayName": "Aryan Chaudhary",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngIZ4-X8tq-ZITTZkhpwSIrFk8capfggqqsJQ=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UChfUMJXFXqVe9WVVhMOtKIw",
             "authorChannelId": {
-              "value": "UCL5pPdGA2id7eSjxiad2lNw"
+              "value": "UChfUMJXFXqVe9WVVhMOtKIw"
             },
             "canRate": true,
             "viewerRating": "none",
-            "likeCount": 1,
-            "publishedAt": "2021-01-25T08:04:32Z",
-            "updatedAt": "2021-01-25T08:04:32Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "LWEx0L-O7sT4F48WTX2s3-JCcsg",
-      "id": "UgzukeUbDr6kVjbw9Vl4AaABAg",
-      "snippet": {
-        "videoId": "qF9PpfBatBo",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "yno2NecFUg5lGOhz634PBEYCvF8",
-          "id": "UgzukeUbDr6kVjbw9Vl4AaABAg",
-          "snippet": {
-            "videoId": "qF9PpfBatBo",
-            "textDisplay": "Global warming the problem but we in a deep freeze in US. Ha haaaaahaaaahhhh Bullish",
-            "textOriginal": "Global warming the problem but we in a deep freeze in US. Ha haaaaahaaaahhhh Bullish",
-            "authorDisplayName": "James Ford",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngWiunZvLKBmLWFvhld8wvJYbkjEfHjfq-A_Vzi=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCgTi38k_etR8hc-EwD9UuQw",
-            "authorChannelId": {
-              "value": "UCgTi38k_etR8hc-EwD9UuQw"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-19T13:35:04Z",
-            "updatedAt": "2021-02-19T13:35:04Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "tHzQ8MCImQzjygDH0Rs0ia8fxRs",
-      "id": "Ugyzq90ObWqixjK_a4d4AaABAg",
-      "snippet": {
-        "videoId": "qF9PpfBatBo",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "nOjdHEBJtQzf-vYrkw6fxraHXxs",
-          "id": "Ugyzq90ObWqixjK_a4d4AaABAg",
-          "snippet": {
-            "videoId": "qF9PpfBatBo",
-            "textDisplay": "Between 12/9/20 and 12/23/20 CDC logged 30,227 deaths attributed to C-19. There were 148,206 deaths due to all causes. The 65+ demographic was accountable for 85% of those C-19 deaths.\r\u003cbr /\u003e\u003cbr /\u003e85.6% of C-19 CASES are among those UNDER 65 years of age. (CDC)\r\u003cbr /\u003e80.7% of C-19 DEATHS are among those OVER 65 years of age. (16% of population)\r\u003cbr /\u003e24.8% of C-19 deaths occurred in nursing homes and hospice care.\r\u003cbr /\u003eOver half of the CASES never see a doctor, hospital or morgue.\r\u003cbr /\u003e\r\u003cbr /\u003eIf you are 65+ w multiple health issues in a crowded nursing home and the staff brings in C-19 you are screwed, but then you were screwed anyway. \r\u003cbr /\u003eIn other words: If you are already seriously ill, C-19 will probably finish you off, i.e. no different from the seasonal flu or pneumonia\r\u003cbr /\u003e\r\u003cbr /\u003eC-19 is not a problem for the young and healthy herd. Mother Nature and her buddy Grim Reaper are just doing their jobs, culling the herd of the too many, too old, too sick warehoused too close together as Medicare/Medicaid cash cows in poorly run contagious lethal elder care facilities.\r\u003cbr /\u003e\r\u003cbr /\u003eJapan has the highest percentage of 65+, 27%, yet still under 3,000 deaths. (WHO)\r\u003cbr /\u003eWhat do they know/do the rest of the world does not?\r\u003cbr /\u003e\r\u003cbr /\u003eIf C-19 is mostly killing off old sick people why are our elected morons suspending civil liberties, due process, bankrupting the country with lockdowns, distancing and masked clown shows? \r\u003cbr /\u003eGuess they can&#39;t impose the NWO Grand Reset with actual facts. \r\u003cbr /\u003eAnd the lying, fact free, fake news MSM left-wing propaganda coup machine has betrayed its responsibility to democracy and an informed public.",
-            "textOriginal": "Between 12/9/20 and 12/23/20 CDC logged 30,227 deaths attributed to C-19. There were 148,206 deaths due to all causes. The 65+ demographic was accountable for 85% of those C-19 deaths.\r\n\n85.6% of C-19 CASES are among those UNDER 65 years of age. (CDC)\r\n80.7% of C-19 DEATHS are among those OVER 65 years of age. (16% of population)\r\n24.8% of C-19 deaths occurred in nursing homes and hospice care.\r\nOver half of the CASES never see a doctor, hospital or morgue.\r\n\r\nIf you are 65+ w multiple health issues in a crowded nursing home and the staff brings in C-19 you are screwed, but then you were screwed anyway. \r\nIn other words: If you are already seriously ill, C-19 will probably finish you off, i.e. no different from the seasonal flu or pneumonia\r\n\r\nC-19 is not a problem for the young and healthy herd. Mother Nature and her buddy Grim Reaper are just doing their jobs, culling the herd of the too many, too old, too sick warehoused too close together as Medicare/Medicaid cash cows in poorly run contagious lethal elder care facilities.\r\n\r\nJapan has the highest percentage of 65+, 27%, yet still under 3,000 deaths. (WHO)\r\nWhat do they know/do the rest of the world does not?\r\n\r\nIf C-19 is mostly killing off old sick people why are our elected morons suspending civil liberties, due process, bankrupting the country with lockdowns, distancing and masked clown shows? \r\nGuess they can't impose the NWO Grand Reset with actual facts. \r\nAnd the lying, fact free, fake news MSM left-wing propaganda coup machine has betrayed its responsibility to democracy and an informed public.",
-            "authorDisplayName": "Nick Schroeder",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnipZxMEgUrREGfa2kWiI8N3t8fVKx336dWNlg=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UC6YM_zNbkXJ_ZBhC3MyjmPw",
-            "authorChannelId": {
-              "value": "UC6YM_zNbkXJ_ZBhC3MyjmPw"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 2,
-            "publishedAt": "2020-12-25T15:31:51Z",
-            "updatedAt": "2020-12-25T15:31:51Z"
+            "likeCount": 14,
+            "publishedAt": "2020-06-09T12:44:27Z",
+            "updatedAt": "2020-06-09T12:44:27Z"
           }
         },
         "canReply": true,
@@ -200,29 +137,285 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "MRoLW_6NfQD54BtapgoBrezCQro",
-      "id": "UgzJaHnl3lZwnl885EV4AaABAg",
+      "etag": "oIpw15xRzqHEarsvUsJY27COm7Q",
+      "id": "UgwiO1k34b9pSkDGy6N4AaABAg",
       "snippet": {
-        "videoId": "qF9PpfBatBo",
+        "videoId": "y2euBvdP28c",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "C5jBDcdYwBOQAA6j4lIV6AF4Gsc",
-          "id": "UgzJaHnl3lZwnl885EV4AaABAg",
+          "etag": "kHVS1u-eHuat8rUDppP26ik6YSo",
+          "id": "UgwiO1k34b9pSkDGy6N4AaABAg",
           "snippet": {
-            "videoId": "qF9PpfBatBo",
-            "textDisplay": "Where’s the white guy",
-            "textOriginal": "Where’s the white guy",
-            "authorDisplayName": "Giorgios Botis",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhf90DHKC5oHyWGmrUL_xwzNEMz_8lTzpVifgan=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UChHAEWUWU0HQeWUr9ZFJK6A",
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "&quot;we are the first generation to feel climate change and last to do something about it&quot;\u003cbr /\u003e                                                                                                                         -Barack Obama",
+            "textOriginal": "\"we are the first generation to feel climate change and last to do something about it\"\n                                                                                                                         -Barack Obama",
+            "authorDisplayName": "Dhruvin Vekariya",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwni2EfjxoELEojOXEd8xTmYNssNVZq1U3c8yQLxf=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCy2OeLH8AsDiWYFtrpMViyw",
             "authorChannelId": {
-              "value": "UChHAEWUWU0HQeWUr9ZFJK6A"
+              "value": "UCy2OeLH8AsDiWYFtrpMViyw"
             },
             "canRate": true,
             "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-01-11T21:24:03Z",
-            "updatedAt": "2021-01-11T21:24:03Z"
+            "likeCount": 11,
+            "publishedAt": "2021-02-05T18:13:16Z",
+            "updatedAt": "2021-02-05T18:13:16Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "zsZ7oQkeaBlqzyM4vEzgHSd3R_U",
+      "id": "UgweE9vn7fsHYsdLsxZ4AaABAg",
+      "snippet": {
+        "videoId": "y2euBvdP28c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Ce_hOU-rqrRFdq9MhpLst_xs8ek",
+          "id": "UgweE9vn7fsHYsdLsxZ4AaABAg",
+          "snippet": {
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "Politics will be the end of us all.",
+            "textOriginal": "Politics will be the end of us all.",
+            "authorDisplayName": "bobbycone2",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwniWF7E5iSoleoKcna76jtzbIjevqdiwkyeZaA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCWZHDlcHYPOf89iBTZM36fw",
+            "authorChannelId": {
+              "value": "UCWZHDlcHYPOf89iBTZM36fw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 752,
+            "publishedAt": "2018-10-11T08:05:17Z",
+            "updatedAt": "2018-10-11T08:05:17Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 69,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "dY38TSfL8qqCl7U-NzkWbfWBT20",
+      "id": "UgykxUzag86jCc-EFLp4AaABAg",
+      "snippet": {
+        "videoId": "y2euBvdP28c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "9pXb0baJo4j9qe_E-LQHQTqM_BU",
+          "id": "UgykxUzag86jCc-EFLp4AaABAg",
+          "snippet": {
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "From the front, his hair looks like someone took Nutella and spread it across his head",
+            "textOriginal": "From the front, his hair looks like someone took Nutella and spread it across his head",
+            "authorDisplayName": "Tai",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjwuLpNX5RozV2ppYXtbPSkLBQY45GNlM-F0w=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCPsC61p2LibyIaUZsxvOyGQ",
+            "authorChannelId": {
+              "value": "UCPsC61p2LibyIaUZsxvOyGQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 672,
+            "publishedAt": "2019-09-24T22:48:27Z",
+            "updatedAt": "2019-09-24T22:48:27Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 19,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "OuwTl0pPA04tOs3r_vnWE73opa0",
+      "id": "UgwwK6pVYT1TrEMIMVd4AaABAg",
+      "snippet": {
+        "videoId": "y2euBvdP28c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "NAG5R9XBKM-gqTxygV7MfGZouoM",
+          "id": "UgwwK6pVYT1TrEMIMVd4AaABAg",
+          "snippet": {
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "So basically everyone will act once it&#39;s toooo late",
+            "textOriginal": "So basically everyone will act once it's toooo late",
+            "authorDisplayName": "betty r",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnja4JXdi3wIT46pA5qK747dwIeNXuf7DkDgElrDcQ=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC-y6ViSoamhmvSOqkOsQXXw",
+            "authorChannelId": {
+              "value": "UC-y6ViSoamhmvSOqkOsQXXw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 33,
+            "publishedAt": "2019-07-10T19:54:39Z",
+            "updatedAt": "2019-07-10T19:54:48Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 8,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Rs81RgbUKivwdhPaham90VNjEuo",
+      "id": "UgzwuxupTpPYIjkq4ex4AaABAg",
+      "snippet": {
+        "videoId": "y2euBvdP28c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "9yZ3qXep7P_yt1U5RjecbJ2KBcM",
+          "id": "UgzwuxupTpPYIjkq4ex4AaABAg",
+          "snippet": {
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "How about giving people a list of things that they CAN do to help reduce climate change? I&#39;ve switched lightbulbs to low wattage LED bulbs,  recycle as much as I can,  and am planting more trees where I live. But what else can I do? I&#39;ve reduced water and power usage as much as I can, only drive when I  must, and yet it seems never to be enough.",
+            "textOriginal": "How about giving people a list of things that they CAN do to help reduce climate change? I've switched lightbulbs to low wattage LED bulbs,  recycle as much as I can,  and am planting more trees where I live. But what else can I do? I've reduced water and power usage as much as I can, only drive when I  must, and yet it seems never to be enough.",
+            "authorDisplayName": "Roarke Griffon",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwniL7NKSy0soje0DhEkSMAlciaFi68S0e1fL8xVZ=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCJO07dmFxvSE7y4daQcLWMQ",
+            "authorChannelId": {
+              "value": "UCJO07dmFxvSE7y4daQcLWMQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 65,
+            "publishedAt": "2020-02-19T21:48:40Z",
+            "updatedAt": "2020-02-19T21:48:40Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 50,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "9DkFX3bqqIzbWsJ_p6JODP2S5oU",
+      "id": "UgyBp_b-afAguRvlgcl4AaABAg",
+      "snippet": {
+        "videoId": "y2euBvdP28c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "l2DhZfKLe9P3JZL5P7MOW8C2ka4",
+          "id": "UgyBp_b-afAguRvlgcl4AaABAg",
+          "snippet": {
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "Rationality Rules brought me here!",
+            "textOriginal": "Rationality Rules brought me here!",
+            "authorDisplayName": "kerkireos",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngbiyOb0WcRXd5WwLPBwS8-4Oyu2hzfAD8P6Q=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC7fwc03IzxEBlKRPGz_ooxw",
+            "authorChannelId": {
+              "value": "UC7fwc03IzxEBlKRPGz_ooxw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 87,
+            "publishedAt": "2019-10-11T04:32:07Z",
+            "updatedAt": "2019-10-11T04:32:07Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 5,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "fSNCRkJ0xP-fjCTq7urbdxPofLk",
+      "id": "UgwiiKHTrnmrs8TtQzB4AaABAg",
+      "snippet": {
+        "videoId": "y2euBvdP28c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "5ohl4urZ74WQWEPQIU_PQqrQ8Q4",
+          "id": "UgwiiKHTrnmrs8TtQzB4AaABAg",
+          "snippet": {
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "My grandma always says “but we had summers hotter than this that lasted months” ok grandma but you don’t remember any of the Cold War or the collapse of segregation despite living through both so you’re not exactly a reliable source. Also trying to explain to you that global warming is global and it’s effects can’t always be seen directly in one location is a nightmare. Ps grandma if summers were soooo different when you were a kid surely that should be a fat old alarm for drastic climate change, it’s not just about global warming it’s also about irregularity in weather patterns and so much more.",
+            "textOriginal": "My grandma always says “but we had summers hotter than this that lasted months” ok grandma but you don’t remember any of the Cold War or the collapse of segregation despite living through both so you’re not exactly a reliable source. Also trying to explain to you that global warming is global and it’s effects can’t always be seen directly in one location is a nightmare. Ps grandma if summers were soooo different when you were a kid surely that should be a fat old alarm for drastic climate change, it’s not just about global warming it’s also about irregularity in weather patterns and so much more.",
+            "authorDisplayName": "Jay",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjkYiv4g47biqU-lmXmOc3iPgA_dPBFLdtpOg=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCmOd92Yb4pGvd3JTAGJFSBA",
+            "authorChannelId": {
+              "value": "UCmOd92Yb4pGvd3JTAGJFSBA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 9,
+            "publishedAt": "2020-06-28T21:25:32Z",
+            "updatedAt": "2020-06-28T21:25:32Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 15,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "H0iMSzHIyHb9qUzW1KR5NnS6WzQ",
+      "id": "Ugx5uegENwec-0A8t1B4AaABAg",
+      "snippet": {
+        "videoId": "y2euBvdP28c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "xAw-VJ6Ys4UgE5Y17rdNVf7_DBQ",
+          "id": "Ugx5uegENwec-0A8t1B4AaABAg",
+          "snippet": {
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "I don&#39;t care to write my paper until it&#39;s due tomorrow, duh.",
+            "textOriginal": "I don't care to write my paper until it's due tomorrow, duh.",
+            "authorDisplayName": "Awesome man troll #10",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhyAFC0vbiHXd0GPw6VKH6-yT5ZTlm_N-CWeQ=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCCIpInmsxvOSb7QVDu4FL7Q",
+            "authorChannelId": {
+              "value": "UCCIpInmsxvOSb7QVDu4FL7Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 8,
+            "publishedAt": "2020-03-19T21:04:37Z",
+            "updatedAt": "2020-03-19T21:04:37Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "htHpsn0bNt-QKieSA5G32FGEIXE",
+      "id": "UgwoHMfmjWIt_azSNUx4AaABAg",
+      "snippet": {
+        "videoId": "y2euBvdP28c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "AiyrasBmud7jka5F3E7AuyzfP2k",
+          "id": "UgwoHMfmjWIt_azSNUx4AaABAg",
+          "snippet": {
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "\u003ca href=\"https://www.youtube.com/watch?v=y2euBvdP28c&amp;t=2m33s\"\u003e2:33\u003c/a\u003e I&#39;m aware I might end up in a car accident, but when&#39;s the last time a hurricane came to the UK? \u003cbr /\u003e\u003cbr /\u003eEdit: Google says 1987 so yeah, I&#39;m not worried.",
+            "textOriginal": "2:33 I'm aware I might end up in a car accident, but when's the last time a hurricane came to the UK? \n\nEdit: Google says 1987 so yeah, I'm not worried.",
+            "authorDisplayName": "Conlon",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhpaa9qjhOd9egFnBMILSis9EcNcsdWUYSX0Q=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCsXZU2-uWezxkm_cgPp-1hg",
+            "authorChannelId": {
+              "value": "UCsXZU2-uWezxkm_cgPp-1hg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 3,
+            "publishedAt": "2020-12-30T17:16:54Z",
+            "updatedAt": "2020-12-30T17:18:49Z"
           }
         },
         "canReply": true,
@@ -232,29 +425,29 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "gqowBI2yM83o59z7UWCCmQ4tIgo",
-      "id": "UgwjQQ_xCkX6PH1ifBp4AaABAg",
+      "etag": "aWb2j5K4mmiEfPa2_x4klf1mv90",
+      "id": "UgwsTmDxYOJDSZOJNcB4AaABAg",
       "snippet": {
-        "videoId": "qF9PpfBatBo",
+        "videoId": "y2euBvdP28c",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "Vr4mJG-z5yiTSrEP0OTMf9W6wUM",
-          "id": "UgwjQQ_xCkX6PH1ifBp4AaABAg",
+          "etag": "AL45V1swKVnabcUV5gc4hkMU26M",
+          "id": "UgwsTmDxYOJDSZOJNcB4AaABAg",
           "snippet": {
-            "videoId": "qF9PpfBatBo",
-            "textDisplay": "Hi guys! if u care for the environment, please use Ecosia as your search engine. For every 45 searches u make,  a tree will be planted somewhere. If you think this is fake, u can always check out their YouTube channel. Stay safe guys :) bai bai",
-            "textOriginal": "Hi guys! if u care for the environment, please use Ecosia as your search engine. For every 45 searches u make,  a tree will be planted somewhere. If you think this is fake, u can always check out their YouTube channel. Stay safe guys :) bai bai",
-            "authorDisplayName": "Allysandra Ilagan",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjwkmCmFBbrlTEdSe6oNf6a9wX-ncgefP1kqvyBFQ=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCBKt3KZO4gq1qkf-tXFEcPA",
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "I knew it, I just knew it. Wrestling is real!!!",
+            "textOriginal": "I knew it, I just knew it. Wrestling is real!!!",
+            "authorDisplayName": "Daniel Meeks",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjFGHV0iMY_NdTTM5PLg-qwIjQZ_Qh9pOY-BA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCrqzlLNeBogk4kxVfw-jsxg",
             "authorChannelId": {
-              "value": "UCBKt3KZO4gq1qkf-tXFEcPA"
+              "value": "UCrqzlLNeBogk4kxVfw-jsxg"
             },
             "canRate": true,
             "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-01-01T05:15:27Z",
-            "updatedAt": "2021-01-01T05:15:27Z"
+            "likeCount": 37,
+            "publishedAt": "2019-08-25T23:51:02Z",
+            "updatedAt": "2019-08-25T23:51:02Z"
           }
         },
         "canReply": true,
@@ -264,29 +457,317 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "0ZMXztmjhgSrgjYS-GuGxNUgYno",
-      "id": "Ugyp2tqIkN9EJ-Z0-jh4AaABAg",
+      "etag": "om46ZsMOghOoqY-RbAkUzEF2WOU",
+      "id": "UgyGA463acciqCh84CJ4AaABAg",
       "snippet": {
-        "videoId": "qF9PpfBatBo",
+        "videoId": "y2euBvdP28c",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "p5OokdyyxkFZ3tVHQSs54hVt4w8",
-          "id": "Ugyp2tqIkN9EJ-Z0-jh4AaABAg",
+          "etag": "QpAISmdMxCceATtqv3rlvtukviU",
+          "id": "UgyGA463acciqCh84CJ4AaABAg",
           "snippet": {
-            "videoId": "qF9PpfBatBo",
-            "textDisplay": "If you are looking for a way to help the environment you can use ecosia they are a search engine that plants trees with their profits",
-            "textOriginal": "If you are looking for a way to help the environment you can use ecosia they are a search engine that plants trees with their profits",
-            "authorDisplayName": "Aaron Oneal",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwniNYdsNfz5UryrIICo3vkZcaNmjDpI0KhZDWw=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCY7F_1S11P0JkIoaTCxSHcg",
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "That wasn&#39;t about why people don&#39;t believe in climate science, it was about why people don&#39;t respond to threatening messages about climate change they hear in media.",
+            "textOriginal": "That wasn't about why people don't believe in climate science, it was about why people don't respond to threatening messages about climate change they hear in media.",
+            "authorDisplayName": "David Armstrong",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhv_n4lTn7ZwCTVpvLBDD5PnpkZ5M24GVQUyQ=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCEdw8I5yhlP-kysnFn1ISVw",
             "authorChannelId": {
-              "value": "UCY7F_1S11P0JkIoaTCxSHcg"
+              "value": "UCEdw8I5yhlP-kysnFn1ISVw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 263,
+            "publishedAt": "2018-12-17T06:28:12Z",
+            "updatedAt": "2018-12-17T06:28:12Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 26,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "vfIGpcrNbdNG8WAP3z9sLWQu3wY",
+      "id": "UgzTSxXLR9eu-6DYRVx4AaABAg",
+      "snippet": {
+        "videoId": "y2euBvdP28c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "EVJg0fBDZnDsjTFGkfvh7czQgow",
+          "id": "UgzTSxXLR9eu-6DYRVx4AaABAg",
+          "snippet": {
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "There’s also a perception of sensationalism by political “sides” - and right now a political line is already drawn on so many issues it’s difficult to overcome it for the most important one of all",
+            "textOriginal": "There’s also a perception of sensationalism by political “sides” - and right now a political line is already drawn on so many issues it’s difficult to overcome it for the most important one of all",
+            "authorDisplayName": "Travis Hightower",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjvClNj4STIBBDAcgmRjTrCVAKKGzlvZRdSzLb27g=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCMY9dmsPOVkcfY316vYa33g",
+            "authorChannelId": {
+              "value": "UCMY9dmsPOVkcfY316vYa33g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 9,
+            "publishedAt": "2019-10-03T14:20:46Z",
+            "updatedAt": "2019-10-03T14:20:46Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "oLbJZ1wQT9bfr65kPyNZS47uS18",
+      "id": "UgzCtYYjerHl0eKwVaR4AaABAg",
+      "snippet": {
+        "videoId": "y2euBvdP28c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "xRA2VMC7ZdqBwA3suD3dDI93haA",
+          "id": "UgzCtYYjerHl0eKwVaR4AaABAg",
+          "snippet": {
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "I am actually the opposite I have abandoned the in group.",
+            "textOriginal": "I am actually the opposite I have abandoned the in group.",
+            "authorDisplayName": "Aniken",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngCKLgDzL7nNhaKVBOTtCJZM-cazl4_pSlVubYOXg=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC6UNOJCcRuflz2tAcGEb3XA",
+            "authorChannelId": {
+              "value": "UC6UNOJCcRuflz2tAcGEb3XA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 12,
+            "publishedAt": "2019-08-04T18:20:25Z",
+            "updatedAt": "2019-08-04T18:20:25Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "-b1T0RTTHrZ0xLtkACx-iaIg-z4",
+      "id": "UgxqPs_xOGsDFqE4w-F4AaABAg",
+      "snippet": {
+        "videoId": "y2euBvdP28c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "VDJ-tIv8f1paHNuACMqbWgGSUZc",
+          "id": "UgxqPs_xOGsDFqE4w-F4AaABAg",
+          "snippet": {
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "Great video, especially the point about not rocking the in-group boat.",
+            "textOriginal": "Great video, especially the point about not rocking the in-group boat.",
+            "authorDisplayName": "Gregory Rowlerson",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnj09qs6c1BqLoPWsbZCFT4OSQnrc7a76t95hg=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCH6G_zAlLnEiJyqilwRiQBw",
+            "authorChannelId": {
+              "value": "UCH6G_zAlLnEiJyqilwRiQBw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 4,
+            "publishedAt": "2019-10-30T12:02:08Z",
+            "updatedAt": "2019-10-30T12:02:08Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "HDgiWrZ3zaX0HkjB1PAPYlAAvyM",
+      "id": "UgyetoGDS78BjYV8AYh4AaABAg",
+      "snippet": {
+        "videoId": "y2euBvdP28c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "r2UP5TcwOzUzTHcfXlfYOcvtp_0",
+          "id": "UgyetoGDS78BjYV8AYh4AaABAg",
+          "snippet": {
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "When I see the top politicians, rich stars and yourself and people like your lot start doing something personally I&#39;ll believe it. All I hear is talk and same people living wasteful polluting lives.",
+            "textOriginal": "When I see the top politicians, rich stars and yourself and people like your lot start doing something personally I'll believe it. All I hear is talk and same people living wasteful polluting lives.",
+            "authorDisplayName": "aranos",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngWHduzsSO-SXF72KTQlXinwFatw_SgYyoF=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCcpMNujey5Wb6jg8ITpBofQ",
+            "authorChannelId": {
+              "value": "UCcpMNujey5Wb6jg8ITpBofQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 21,
+            "publishedAt": "2020-09-18T17:56:46Z",
+            "updatedAt": "2020-09-18T17:56:46Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 10,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "3ri1lqQENGvqCKR3Q_1W3TJ4090",
+      "id": "Ugzm27qMxWupGGT0ar14AaABAg",
+      "snippet": {
+        "videoId": "y2euBvdP28c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "AlJ5uQBI91zDOiAd-mFNqziK8jY",
+          "id": "Ugzm27qMxWupGGT0ar14AaABAg",
+          "snippet": {
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "You are spot on sometimes even me and I know I do it but we don’t want to be corrected even if you know it’s right usually when it’s something you’ve spent time on and will refuse to be wrong because you don’t want to start over",
+            "textOriginal": "You are spot on sometimes even me and I know I do it but we don’t want to be corrected even if you know it’s right usually when it’s something you’ve spent time on and will refuse to be wrong because you don’t want to start over",
+            "authorDisplayName": "Jack Hanson",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhlcCdHjlob8eIpaJkyU7RkLHEQ-aBFQXdDgmwjsg=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCIH4zZHfBMen_HNBwQLpXwQ",
+            "authorChannelId": {
+              "value": "UCIH4zZHfBMen_HNBwQLpXwQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2019-08-13T14:56:18Z",
+            "updatedAt": "2019-08-13T14:56:18Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "tubtMqZGAIs0UPRsKbfTi8EnU7o",
+      "id": "UgwhMWuGc7f18k5sxpV4AaABAg",
+      "snippet": {
+        "videoId": "y2euBvdP28c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "I4duMXcTQkG7bgKbQ5akVuuNkFA",
+          "id": "UgwhMWuGc7f18k5sxpV4AaABAg",
+          "snippet": {
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "The XPrize Foundation is doing really brilliant work to help create solutions for climate change",
+            "textOriginal": "The XPrize Foundation is doing really brilliant work to help create solutions for climate change",
+            "authorDisplayName": "Nicolas Azlon",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwniS9JwyJtTDefRcmjOj1c_Y3KYk6lcL12fUwRNhhw=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UChLqLMhnidZCn0ZyIUHCeOQ",
+            "authorChannelId": {
+              "value": "UChLqLMhnidZCn0ZyIUHCeOQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 5,
+            "publishedAt": "2019-08-08T05:55:39Z",
+            "updatedAt": "2019-08-08T05:55:39Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "NHkKsVHDpOeHmIyI7TX95q9YsxI",
+      "id": "UgxnYuGalPadloLPyqt4AaABAg",
+      "snippet": {
+        "videoId": "y2euBvdP28c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "mFy1OffFzCT_CwVN7l2GzX0MGvo",
+          "id": "UgxnYuGalPadloLPyqt4AaABAg",
+          "snippet": {
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "The truth is, climate change is happening, but there’s no real hope unless you get China, India, SE Asia,  South America, and Africa to not burn gas for the next 50 years. As far as I know there is no solution to that problem and time will only tell how fast the climate really is changing.",
+            "textOriginal": "The truth is, climate change is happening, but there’s no real hope unless you get China, India, SE Asia,  South America, and Africa to not burn gas for the next 50 years. As far as I know there is no solution to that problem and time will only tell how fast the climate really is changing.",
+            "authorDisplayName": "lizard_man69",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjzh7UTuU2S8gvItP91lPEMe4YlLCW8jATfWEsQ=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCbcRmicq6GrGoSXygaez5-w",
+            "authorChannelId": {
+              "value": "UCbcRmicq6GrGoSXygaez5-w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 16,
+            "publishedAt": "2019-09-25T00:34:02Z",
+            "updatedAt": "2019-09-25T00:34:02Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 10,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "_0lFEAFRZHvl9am34P6MtMi9R_E",
+      "id": "UgzIlN9KRVTLUrDohRt4AaABAg",
+      "snippet": {
+        "videoId": "y2euBvdP28c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "h2wJ38hV2GiS7GPs_5RzkMdbZCg",
+          "id": "UgzIlN9KRVTLUrDohRt4AaABAg",
+          "snippet": {
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "2019..when the non believer dont shut up then you just ban em from the news..like the BBC has done..and im sure more has done it too by now.",
+            "textOriginal": "2019..when the non believer dont shut up then you just ban em from the news..like the BBC has done..and im sure more has done it too by now.",
+            "authorDisplayName": "MorelCultivation",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhEXygOzFNV-Dos85lL6dJK0yvRKBsk5CA0RDuF=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCFr1C_lAWEzK5Oco2joKzGQ",
+            "authorChannelId": {
+              "value": "UCFr1C_lAWEzK5Oco2joKzGQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 3,
+            "publishedAt": "2019-07-24T10:54:02Z",
+            "updatedAt": "2019-07-24T10:54:02Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "gOB9X8BihMreZVZb9hae3-wdEEw",
+      "id": "UgyEBlnL3DI5XQoL3oJ4AaABAg",
+      "snippet": {
+        "videoId": "y2euBvdP28c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "-kHJs8zP7Lcst5GqZF4hTa0NdMg",
+          "id": "UgyEBlnL3DI5XQoL3oJ4AaABAg",
+          "snippet": {
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "We have a finite &quot;pool of worry&quot;. For me, this pool is filled with climate change. Probably because I already live below sea level xD",
+            "textOriginal": "We have a finite \"pool of worry\". For me, this pool is filled with climate change. Probably because I already live below sea level xD",
+            "authorDisplayName": "Animiles",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwng-sl15Ljd40X8-vF7aE9YblCSdEy5n-KNXA0dl=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCtoTqGgqXENenVTd78hXZpQ",
+            "authorChannelId": {
+              "value": "UCtoTqGgqXENenVTd78hXZpQ"
             },
             "canRate": true,
             "viewerRating": "none",
             "likeCount": 1,
-            "publishedAt": "2021-01-09T19:02:19Z",
-            "updatedAt": "2021-01-09T19:02:19Z"
+            "publishedAt": "2021-03-22T13:51:02Z",
+            "updatedAt": "2021-03-22T13:51:02Z"
           }
         },
         "canReply": true,
@@ -296,29 +777,829 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "iobLRDmOgmyMw_6fLklwFqQXBPc",
-      "id": "UgwCQHaJCawzZnPSC8N4AaABAg",
+      "etag": "qyEoCcVXWorSM8uJKAKkAF-CNss",
+      "id": "Ugw2ct7QI4kyO78veCl4AaABAg",
       "snippet": {
-        "videoId": "qF9PpfBatBo",
+        "videoId": "y2euBvdP28c",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "0uoIvkO_qaApxKQsOeyIpNEcaJ0",
-          "id": "UgwCQHaJCawzZnPSC8N4AaABAg",
+          "etag": "vsxjgLxWBt7YvQfCFJPVSOkJbaw",
+          "id": "Ugw2ct7QI4kyO78veCl4AaABAg",
           "snippet": {
-            "videoId": "qF9PpfBatBo",
-            "textDisplay": "Imagine this... Stimulus for solar, wind and battery programs results in $0 monthly utility bills (and auto fuel bills) for residential and commercial customers. This increases profits, makes us more competitive against other nations, and increases disposable income to spend on businesses, increases savings and investments in markets, and decreases amount governments have to provide in welfare when people need public assistance, unemployment, stimulus, which helps decrease taxes. Please debate.",
-            "textOriginal": "Imagine this... Stimulus for solar, wind and battery programs results in $0 monthly utility bills (and auto fuel bills) for residential and commercial customers. This increases profits, makes us more competitive against other nations, and increases disposable income to spend on businesses, increases savings and investments in markets, and decreases amount governments have to provide in welfare when people need public assistance, unemployment, stimulus, which helps decrease taxes. Please debate.",
-            "authorDisplayName": "Ben Bethel",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnh1rZ8Iw5MPS6-Tf_Y36xUwRRzb_XgUnoHa42J-mOg=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCoR50HOF8gW6hOUH72Hugug",
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "Thatast bkt about polar bear had me dying lpl",
+            "textOriginal": "Thatast bkt about polar bear had me dying lpl",
+            "authorDisplayName": "Tomas Heredia",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwniTd4F52gqbF2UI0CMiwiRozrdxepL3b4IXPw=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCszNjOUHAJfLPElpzy3gX1w",
             "authorChannelId": {
-              "value": "UCoR50HOF8gW6hOUH72Hugug"
+              "value": "UCszNjOUHAJfLPElpzy3gX1w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 3,
+            "publishedAt": "2019-09-25T17:53:24Z",
+            "updatedAt": "2019-09-25T17:53:24Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "F9-mmxuP4wW1JILYpocb8pXUTig",
+      "id": "UgwJ3kmYe1rmRaPyB8l4AaABAg",
+      "snippet": {
+        "videoId": "y2euBvdP28c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "WtcAYteR8vxLhD530NmYbHylZ2Q",
+          "id": "UgwJ3kmYe1rmRaPyB8l4AaABAg",
+          "snippet": {
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "Actually the thumbnail confused me for a moment because I wasn&#39;t sure which direction I&#39;d normally point the red arrow. I think I normally point it to the empty space as if to say this word is going there. I&#39;ve never seen it the other way. Neat though.",
+            "textOriginal": "Actually the thumbnail confused me for a moment because I wasn't sure which direction I'd normally point the red arrow. I think I normally point it to the empty space as if to say this word is going there. I've never seen it the other way. Neat though.",
+            "authorDisplayName": "Moises Pagan",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwniNYXvO4F-F0xX8_XtGfoSa0AFylnDRPwe7tcgM8w=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCPeYQGVWb8-NrYfKdnJgaEw",
+            "authorChannelId": {
+              "value": "UCPeYQGVWb8-NrYfKdnJgaEw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2020-06-24T21:22:19Z",
+            "updatedAt": "2020-06-24T21:22:19Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "j7LJS9oatUD10oifFkr_5RBssrg",
+      "id": "UgxZNhpUiTl5TwmFE_p4AaABAg",
+      "snippet": {
+        "videoId": "y2euBvdP28c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "rXbV0p2gfco1wACL7rYPbJ_p1Hg",
+          "id": "UgxZNhpUiTl5TwmFE_p4AaABAg",
+          "snippet": {
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "\u003ca href=\"https://www.youtube.com/watch?v=y2euBvdP28c&amp;t=5m28s\"\u003e5:28\u003c/a\u003e my brain: LMAO i did a huge burp at the roller rink tonight. I thought the manager was gonna tell me off but he decided it to just give me 3 slow claps lol. 3 other people gave me the thumbs up and 5 others started laughing.",
+            "textOriginal": "5:28 my brain: LMAO i did a huge burp at the roller rink tonight. I thought the manager was gonna tell me off but he decided it to just give me 3 slow claps lol. 3 other people gave me the thumbs up and 5 others started laughing.",
+            "authorDisplayName": "Jorgen Vids",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhO7XVoRx3IZQs-de14CUzTi2mnMmA4t4m1TA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCxx6b0Ky4Y2dTejEhEkI4-A",
+            "authorChannelId": {
+              "value": "UCxx6b0Ky4Y2dTejEhEkI4-A"
             },
             "canRate": true,
             "viewerRating": "none",
             "likeCount": 0,
-            "publishedAt": "2021-01-11T21:19:17Z",
-            "updatedAt": "2021-01-11T21:19:17Z"
+            "publishedAt": "2020-09-26T05:42:48Z",
+            "updatedAt": "2020-09-26T05:42:48Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "-xrltTbHaZU0l7hKaD_3aR4blK0",
+      "id": "UgxY58OuqXbpxUEJ8vR4AaABAg",
+      "snippet": {
+        "videoId": "y2euBvdP28c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "_HjlWLYqugT3bHhSSsEtlhxVifQ",
+          "id": "UgxY58OuqXbpxUEJ8vR4AaABAg",
+          "snippet": {
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "The Path to Action: I think people can be made to act if they know what the action is. Scientists, climatologists, Please give us a detailed plan for what an individual, companies, the government should do and how interactions between us should happen with regards to climate change. If we all know what must be done, it is only a matter of time before it is done\u003cbr /\u003e\u003cbr /\u003eedit: Also if there is any possibility we can survive this, it should be made public. Many who know Climate change is real, ignore it, because they believe we can&#39;t solve it.",
+            "textOriginal": "The Path to Action: I think people can be made to act if they know what the action is. Scientists, climatologists, Please give us a detailed plan for what an individual, companies, the government should do and how interactions between us should happen with regards to climate change. If we all know what must be done, it is only a matter of time before it is done\n\nedit: Also if there is any possibility we can survive this, it should be made public. Many who know Climate change is real, ignore it, because they believe we can't solve it.",
+            "authorDisplayName": "sakthi sd",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhF0pPxO7iKrpz8-16kCZkMvHZfR3Y200nH0IfTiEA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCvc2v6dvddsre17IZr9_Sqg",
+            "authorChannelId": {
+              "value": "UCvc2v6dvddsre17IZr9_Sqg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 6,
+            "publishedAt": "2020-10-14T07:01:30Z",
+            "updatedAt": "2020-10-14T07:04:32Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Lb6X0W3NLMJq_WxtVpchO59zF7c",
+      "id": "Ugymeth1jEyQpHaLREp4AaABAg",
+      "snippet": {
+        "videoId": "y2euBvdP28c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "_TQW0bY4gjGWPf5FKcBpvPUD47E",
+          "id": "Ugymeth1jEyQpHaLREp4AaABAg",
+          "snippet": {
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "I wish this video would talk about the pleistocene ice age. Meh..",
+            "textOriginal": "I wish this video would talk about the pleistocene ice age. Meh..",
+            "authorDisplayName": "Mario Hernandez",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnj1G7z4CWtK0qPQh97lub1XiixJ3BzIbhiiYw=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCKiDCYBDLbHgd-XY9tLFSIQ",
+            "authorChannelId": {
+              "value": "UCKiDCYBDLbHgd-XY9tLFSIQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2019-09-30T17:01:05Z",
+            "updatedAt": "2019-09-30T17:01:05Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "cIP3lwoovLR3JXkvc6JJlm06Ej8",
+      "id": "Ugyv4eA4Zep0JOdtL-V4AaABAg",
+      "snippet": {
+        "videoId": "y2euBvdP28c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "0DCts9cI9fzKLPzHr0TTrtIJTRE",
+          "id": "Ugyv4eA4Zep0JOdtL-V4AaABAg",
+          "snippet": {
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "I noticed only one of those news clips was from Fox &quot;News&quot; and it was a climate change denier.",
+            "textOriginal": "I noticed only one of those news clips was from Fox \"News\" and it was a climate change denier.",
+            "authorDisplayName": "August West",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnh9SRkIznvtgZAfoBy3S8-Zinf_2gf1gDFB-EUYIA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCzSIXk9OULINP1R-91OwK8w",
+            "authorChannelId": {
+              "value": "UCzSIXk9OULINP1R-91OwK8w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 8,
+            "publishedAt": "2020-01-03T22:22:46Z",
+            "updatedAt": "2020-01-03T22:24:16Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "zyxQcMRid-G2w2XKwDPDpeJp5Qs",
+      "id": "UgzZqc5Jlo8-OU3EwbJ4AaABAg",
+      "snippet": {
+        "videoId": "y2euBvdP28c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "hB7-KQj7l33ReZDvaC8EWfI6vhE",
+          "id": "UgzZqc5Jlo8-OU3EwbJ4AaABAg",
+          "snippet": {
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "By the way it’s to hot in the pacific",
+            "textOriginal": "By the way it’s to hot in the pacific",
+            "authorDisplayName": "Trevs REACT Tv",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhWwAaaKUaTChboQeOG6p4K0O1hw4T8aQLerOGuTA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCcRZSIJxJHs43gZLhqcK1wg",
+            "authorChannelId": {
+              "value": "UCcRZSIJxJHs43gZLhqcK1wg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2019-10-04T14:07:31Z",
+            "updatedAt": "2019-10-04T14:07:31Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "XX3NU667-cuTVkDY8aGN5d_OPrs",
+      "id": "Ugyz26uNZysQRwIWi6d4AaABAg",
+      "snippet": {
+        "videoId": "y2euBvdP28c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "s2RQXmXerkdXXdJp1j23OaB3aCU",
+          "id": "Ugyz26uNZysQRwIWi6d4AaABAg",
+          "snippet": {
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "You have to use street epistemology for everything!",
+            "textOriginal": "You have to use street epistemology for everything!",
+            "authorDisplayName": "David Heller",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhhvT5lvlqyISrzd-Mupi3KVq6yuNdUXCIYAIsUtQ=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCBrRwllu65em1La1WdQV31w",
+            "authorChannelId": {
+              "value": "UCBrRwllu65em1La1WdQV31w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2019-10-15T18:08:10Z",
+            "updatedAt": "2019-10-15T18:08:10Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "IeVYOCPAq8X1hs89nxNQgq90Htw",
+      "id": "UgzfMfUNicw3w4s4Brl4AaABAg",
+      "snippet": {
+        "videoId": "y2euBvdP28c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "wih7jCwFmrgERLQRthGWVVbCz30",
+          "id": "UgzfMfUNicw3w4s4Brl4AaABAg",
+          "snippet": {
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "The biggest issue with &quot;climate change&quot; as it is being argued today is that it is a political argument that use a broad range of logical fallacies and that makes it easy for people to question whether climate disruption is a real thing. Don&#39;t believe me?  Go through the way it is currently &quot;argued&quot; using a list of logical fallacies.",
+            "textOriginal": "The biggest issue with \"climate change\" as it is being argued today is that it is a political argument that use a broad range of logical fallacies and that makes it easy for people to question whether climate disruption is a real thing. Don't believe me?  Go through the way it is currently \"argued\" using a list of logical fallacies.",
+            "authorDisplayName": "Dk Adkins",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjVIzLi9YjKY_FhLsE69hJAZCXkVkbnJzgW=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC1HVfrcEH4pNReOr5hjZ-0Q",
+            "authorChannelId": {
+              "value": "UC1HVfrcEH4pNReOr5hjZ-0Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2019-11-08T15:54:21Z",
+            "updatedAt": "2019-11-08T15:54:21Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "m1i6E7mrl4kBQB1moYwiCN6asUM",
+      "id": "UgyeWZmEq9jMtt_ipNB4AaABAg",
+      "snippet": {
+        "videoId": "y2euBvdP28c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "lBKZWV1rR9Va3vYbcG838Z_IZX4",
+          "id": "UgyeWZmEq9jMtt_ipNB4AaABAg",
+          "snippet": {
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "mass extinction of human race would be great in my opinion",
+            "textOriginal": "mass extinction of human race would be great in my opinion",
+            "authorDisplayName": "EMNNUEL MUSIC",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhr1A44g6FIpTxYmPT4-As-Ag2WjXMjqkw07G2U=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC_Dcps8Kow-S5ABwMXlN1sA",
+            "authorChannelId": {
+              "value": "UC_Dcps8Kow-S5ABwMXlN1sA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2020-09-23T15:47:48Z",
+            "updatedAt": "2020-09-23T15:47:48Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Jm30W8sMfLaaWYMMysTHML3T8lw",
+      "id": "Ugwq1KfSS1HuvNVuOsR4AaABAg",
+      "snippet": {
+        "videoId": "y2euBvdP28c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "KhUR4CEouVQwqq5Sh3h-zdZ6AkU",
+          "id": "Ugwq1KfSS1HuvNVuOsR4AaABAg",
+          "snippet": {
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "Please explain Climategate.  I apologize if you already have, but I was neutral until that happened.",
+            "textOriginal": "Please explain Climategate.  I apologize if you already have, but I was neutral until that happened.",
+            "authorDisplayName": "TN6565",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwniBRxnnL-XGw2SUEAnsRYpf5E53IJNUugqPxQ=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCeFKQiVsNG8EfsfX28qD-7g",
+            "authorChannelId": {
+              "value": "UCeFKQiVsNG8EfsfX28qD-7g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-03-29T00:54:33Z",
+            "updatedAt": "2021-03-29T00:54:33Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "e30nIQ__VSyI5W_rYrmazXul0qc",
+      "id": "Ugj2mqWZZmQiAXgCoAEC",
+      "snippet": {
+        "videoId": "y2euBvdP28c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "fRgWgDmlKdoDiM0W9Ibne_4xgkM",
+          "id": "Ugj2mqWZZmQiAXgCoAEC",
+          "snippet": {
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "Haven&#39;t even finished watching, but I am super excited!  Communication science is something that I have been focusing on lately.  As a future nuclear engineer (fingers crossed), nuclear has a lot of the same communication problems that climate change does.",
+            "textOriginal": "Haven't even finished watching, but I am super excited!  Communication science is something that I have been focusing on lately.  As a future nuclear engineer (fingers crossed), nuclear has a lot of the same communication problems that climate change does.",
+            "authorDisplayName": "Christopher Willis",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhmIfCzrme6KUCSJla8AuwntZg0jNIjmBnKlaPx=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCHdoXygnvu16DlyhlMBH-SA",
+            "authorChannelId": {
+              "value": "UCHdoXygnvu16DlyhlMBH-SA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 74,
+            "publishedAt": "2014-12-15T23:08:33Z",
+            "updatedAt": "2014-12-15T23:08:33Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 36,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "D4M7vHWp1np20E_W4X11yhxGDMY",
+      "id": "Ugwc72fLmxxEdH8D3NF4AaABAg",
+      "snippet": {
+        "videoId": "y2euBvdP28c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "PlSkohLhuz79koFethS-9BmnCrg",
+          "id": "Ugwc72fLmxxEdH8D3NF4AaABAg",
+          "snippet": {
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "You put the sun in your picture but forgot to talk about it.",
+            "textOriginal": "You put the sun in your picture but forgot to talk about it.",
+            "authorDisplayName": "D McQ",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjbqLTrY4xN8jJyNZQT93HiIndBbgM3VNFBeMFT1A=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCcJO3hU2-ERYdU9F_5q71gg",
+            "authorChannelId": {
+              "value": "UCcJO3hU2-ERYdU9F_5q71gg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2020-09-02T20:21:54Z",
+            "updatedAt": "2020-09-02T20:21:54Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "2vgNs8y3tOM1PEFxWdTIE_4TOd8",
+      "id": "UgxgfL7qtzA-hR4jVCp4AaABAg",
+      "snippet": {
+        "videoId": "y2euBvdP28c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "q2DtJCKdQzAqdmw8wcclrPAJHH4",
+          "id": "UgxgfL7qtzA-hR4jVCp4AaABAg",
+          "snippet": {
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "Healthy climate: Exists\u003cbr /\u003eBoomers: \u003cb\u003ewe don’t do that here\u003c/b\u003e",
+            "textOriginal": "Healthy climate: Exists\nBoomers: *we don’t do that here*",
+            "authorDisplayName": "TurboJake",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhVotL6fpT7152dTuInps8KknkzKYBCFvSBr0OieQ=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCnD53rEomZ0_28GZeQabyvw",
+            "authorChannelId": {
+              "value": "UCnD53rEomZ0_28GZeQabyvw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 84,
+            "publishedAt": "2019-10-09T00:55:29Z",
+            "updatedAt": "2019-10-09T00:55:29Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 3,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "cCk3QgjF0na_goAdyUlqwHwN0lE",
+      "id": "Ugxu8M9UI0fqJ6Bkxul4AaABAg",
+      "snippet": {
+        "videoId": "y2euBvdP28c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "de6vReNqPKKSu4kur5iQQ2GHaeM",
+          "id": "Ugxu8M9UI0fqJ6Bkxul4AaABAg",
+          "snippet": {
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "I wholeheartedly believe humanity is the only species in the universe dumb enough to politicize intelligence.",
+            "textOriginal": "I wholeheartedly believe humanity is the only species in the universe dumb enough to politicize intelligence.",
+            "authorDisplayName": "Vallarok",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngpnKP5Rxv1_XUcAy1suDkAHQsj1nS3bkZg21IUKw=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCR1o_9WiC1YiC2R7eMJ0tVw",
+            "authorChannelId": {
+              "value": "UCR1o_9WiC1YiC2R7eMJ0tVw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2020-12-16T19:45:51Z",
+            "updatedAt": "2020-12-16T19:45:51Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "QXqjoSTG6CmDTvQJjKATiwkHF4Q",
+      "id": "UgyTvV7hrMuVKU61j2l4AaABAg",
+      "snippet": {
+        "videoId": "y2euBvdP28c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "geNxapzlbXJUMDcCgppxe8ocL8o",
+          "id": "UgyTvV7hrMuVKU61j2l4AaABAg",
+          "snippet": {
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "People with delusions of grandeur always think that THEIR time is the most important one ever and that their beliefs are all that matter.",
+            "textOriginal": "People with delusions of grandeur always think that THEIR time is the most important one ever and that their beliefs are all that matter.",
+            "authorDisplayName": "CHARLES CHAPMAN",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhre4ZqFdyZbtcaI9JiZPYovTxUvKSR_b9crw=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCc5P8ZqN4zs3XBoGEi36NNA",
+            "authorChannelId": {
+              "value": "UCc5P8ZqN4zs3XBoGEi36NNA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 4,
+            "publishedAt": "2019-12-06T02:24:36Z",
+            "updatedAt": "2019-12-06T02:25:59Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "0IIt_Yp_e4NQI2yRdAMk4AWWJUU",
+      "id": "UgiXgrvGSbZZzHgCoAEC",
+      "snippet": {
+        "videoId": "y2euBvdP28c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "H9v55hxKiJWO4AeujueSA_AjXYs",
+          "id": "UgiXgrvGSbZZzHgCoAEC",
+          "snippet": {
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "You can even turn it into a religious issue if you say that oil and fossil fuels are the devils piss.",
+            "textOriginal": "You can even turn it into a religious issue if you say that oil and fossil fuels are the devils piss.",
+            "authorDisplayName": "ETHAN WALLING",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwniCd1Na5vXdIGz_FDoC1K_YwmqYXvXxoAGe0A=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCjicU6dYt7UIDxF-w-p-kUA",
+            "authorChannelId": {
+              "value": "UCjicU6dYt7UIDxF-w-p-kUA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 25,
+            "publishedAt": "2017-06-14T14:16:58Z",
+            "updatedAt": "2017-06-14T14:16:58Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 5,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "w_pY-IyGGr6HNCkFKj4T71nUZ6Y",
+      "id": "Ugwf5MhAroSymVBZ2cV4AaABAg",
+      "snippet": {
+        "videoId": "y2euBvdP28c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "TlowPSsfonOY-lBmiywR5MSd8tI",
+          "id": "Ugwf5MhAroSymVBZ2cV4AaABAg",
+          "snippet": {
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "I gave up on people. We are fucked.\u003cbr /\u003e(So long and thanks for all the fish)",
+            "textOriginal": "I gave up on people. We are fucked.\n(So long and thanks for all the fish)",
+            "authorDisplayName": "mistouko",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjEqNmnySZM9bhoXnbiCHeE35xNMFC0pFFSN2--=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCENwEckHmjlOiAgsFbCWRPg",
+            "authorChannelId": {
+              "value": "UCENwEckHmjlOiAgsFbCWRPg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2019-10-13T09:14:48Z",
+            "updatedAt": "2019-10-13T09:14:48Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "FbLSTFo8fbMEL6y9OIH92bJI6yI",
+      "id": "UgxRbuCYCQ0h3rmt_L54AaABAg",
+      "snippet": {
+        "videoId": "y2euBvdP28c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "0nnZCOJKMO7VBNVlMhKm9lQ9yic",
+          "id": "UgxRbuCYCQ0h3rmt_L54AaABAg",
+          "snippet": {
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "&quot;How do we get people to act?&quot; Stop making it look like a scam.",
+            "textOriginal": "\"How do we get people to act?\" Stop making it look like a scam.",
+            "authorDisplayName": "James Gardner",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnh9exTFILpbRr4wCytBuL26GO1Se3Ohsg7RiA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCj7JvJ0p7UR7A1KrmY9Jwqg",
+            "authorChannelId": {
+              "value": "UCj7JvJ0p7UR7A1KrmY9Jwqg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 32,
+            "publishedAt": "2019-09-30T01:21:23Z",
+            "updatedAt": "2019-09-30T01:21:23Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 9,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "7OkOiQNfdYdaKZ9T2TYaUTjauFQ",
+      "id": "UgyGIB_GHcshKX1XEyN4AaABAg",
+      "snippet": {
+        "videoId": "y2euBvdP28c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "FIBfgxftA71vsyejf_wigzP0wwc",
+          "id": "UgyGIB_GHcshKX1XEyN4AaABAg",
+          "snippet": {
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "We need to include air conditioning as a problem also. Just think of all the heat we add to the summer heat with this. Create heat with making electricity then using it to make more heat using it to condition air. We create more heat than was there in the first place.",
+            "textOriginal": "We need to include air conditioning as a problem also. Just think of all the heat we add to the summer heat with this. Create heat with making electricity then using it to make more heat using it to condition air. We create more heat than was there in the first place.",
+            "authorDisplayName": "Roger Davis",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhZYdUf2yx5kCycxFPVnPr7mJLNEnx5Odn6Hw=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC0b7OjcG74s4uKIIWoqhPPA",
+            "authorChannelId": {
+              "value": "UC0b7OjcG74s4uKIIWoqhPPA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 4,
+            "publishedAt": "2019-07-19T19:19:28Z",
+            "updatedAt": "2019-07-19T19:19:28Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "_8wEkSUmy60OBsQ8-TriT_eJ1XI",
+      "id": "Ugyqtq8661pw_AiR9v94AaABAg",
+      "snippet": {
+        "videoId": "y2euBvdP28c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "D9Zv8e4zGTS8h-_VGXAM6jOfik0",
+          "id": "Ugyqtq8661pw_AiR9v94AaABAg",
+          "snippet": {
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "As long as we&#39;re decent to each other, we&#39;ll reliably influence \u003ci\u003esomeone\u003c/i\u003e in the right direction, it&#39;s all about patient persistence, two words i&#39;m not actually fond of.",
+            "textOriginal": "As long as we're decent to each other, we'll reliably influence _someone_ in the right direction, it's all about patient persistence, two words i'm not actually fond of.",
+            "authorDisplayName": "I.M. Shirley Rongh",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjtRWVPHrBzp9WElE61YPx-P0PS-snFltz0vLbmAh0=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCOOLwh1bo1ZR2AfaBebf3gg",
+            "authorChannelId": {
+              "value": "UCOOLwh1bo1ZR2AfaBebf3gg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-09-23T15:34:27Z",
+            "updatedAt": "2020-09-23T15:34:27Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "KpgKXNFolPG-EXAYVB-kv1TDpK0",
+      "id": "UgyhL9HbZu6Pj92ysqJ4AaABAg",
+      "snippet": {
+        "videoId": "y2euBvdP28c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "PZUm8tbGAOqcjbmHIEmkYdSQWYo",
+          "id": "UgyhL9HbZu6Pj92ysqJ4AaABAg",
+          "snippet": {
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "The hockey stick joke didn&#39;t age well. The IPCC had to abandoned this graph, because it&#39;s unscientific bullshit.",
+            "textOriginal": "The hockey stick joke didn't age well. The IPCC had to abandoned this graph, because it's unscientific bullshit.",
+            "authorDisplayName": "BenX74",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnj3er0dfEHhcMPCYmu1Q44jVqd5ylS4j2QHyA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCWWOrLLUIhnI8Q4G8XGbpjw",
+            "authorChannelId": {
+              "value": "UCWWOrLLUIhnI8Q4G8XGbpjw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2019-07-06T21:54:02Z",
+            "updatedAt": "2019-07-06T21:54:02Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Ry5kSoCuvmz0-ukthyseOpZDx0U",
+      "id": "UgxBd2xRIeCandQQAFJ4AaABAg",
+      "snippet": {
+        "videoId": "y2euBvdP28c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Zl5jbnpsRudQAoH4PN3iQSXOLIo",
+          "id": "UgxBd2xRIeCandQQAFJ4AaABAg",
+          "snippet": {
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "Climategate email leak did it for me",
+            "textOriginal": "Climategate email leak did it for me",
+            "authorDisplayName": "Captain Haddock",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjrCXPwNcniy2AnLmLTqSS6Y9sdIEBENYy_1y7j=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCyxs6TVtHQPaJqR62E8wFdA",
+            "authorChannelId": {
+              "value": "UCyxs6TVtHQPaJqR62E8wFdA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2020-03-12T16:33:26Z",
+            "updatedAt": "2020-03-12T16:33:26Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "NXOGFEX2c9olTIRe3gS8SxW5skw",
+      "id": "UgwddwxT9n_wFUUmKTd4AaABAg",
+      "snippet": {
+        "videoId": "y2euBvdP28c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "LlhE44QNb6i9BdAit5kxiBFeupo",
+          "id": "UgwddwxT9n_wFUUmKTd4AaABAg",
+          "snippet": {
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "Another Hoax!",
+            "textOriginal": "Another Hoax!",
+            "authorDisplayName": "Fernando Ortiz",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwng6o9evSghNuVVUsbev6KG4ow48q-ML34fbYA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCJcoLOpbLOnlyQzJAfSRFOA",
+            "authorChannelId": {
+              "value": "UCJcoLOpbLOnlyQzJAfSRFOA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2019-08-31T20:02:30Z",
+            "updatedAt": "2019-08-31T20:02:30Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Y1fybpT_7EMmKHuaoJoz2LMLn-A",
+      "id": "UgzxYRtvtiHGxdSkMQ94AaABAg",
+      "snippet": {
+        "videoId": "y2euBvdP28c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "MDusis-quL_A7QkPgQvzv5KMmyk",
+          "id": "UgzxYRtvtiHGxdSkMQ94AaABAg",
+          "snippet": {
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "Seriously!!! Then why when we had more CO2 in the atmosphere did the earth thrive!  Imagine if plants said they were going to reduce their oxygen emissions!",
+            "textOriginal": "Seriously!!! Then why when we had more CO2 in the atmosphere did the earth thrive!  Imagine if plants said they were going to reduce their oxygen emissions!",
+            "authorDisplayName": "Robbie Scrivener",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngtrAgesumBKKRQqwtd6QCdHEC3P_QC1ZG98p0E=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC8b4LGaYdNf2D08v_eK3feg",
+            "authorChannelId": {
+              "value": "UC8b4LGaYdNf2D08v_eK3feg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2020-11-13T15:30:42Z",
+            "updatedAt": "2020-11-13T15:30:42Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "KXhdvj-UNuzUfY2iJ9OwyFE4nIE",
+      "id": "UgwAx_4_0tt-9dFoAm54AaABAg",
+      "snippet": {
+        "videoId": "y2euBvdP28c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "-olDH5-5S_Fmm2_tWgONVqg9Xjw",
+          "id": "UgwAx_4_0tt-9dFoAm54AaABAg",
+          "snippet": {
+            "videoId": "y2euBvdP28c",
+            "textDisplay": "We are in a galactic cycle we don&#39;t yet understand. Maybe when we stop chasing fairy tales like dark matter and dark energy, we can start to truly understand the universe we live in.",
+            "textOriginal": "We are in a galactic cycle we don't yet understand. Maybe when we stop chasing fairy tales like dark matter and dark energy, we can start to truly understand the universe we live in.",
+            "authorDisplayName": "Chris Parker",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjIYLTFh9lcw9q9cl0V4eM_wADeYG3CtdCZePhc=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UClhHUnFFDSUstJnfxNZTqAA",
+            "authorChannelId": {
+              "value": "UClhHUnFFDSUstJnfxNZTqAA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2019-12-31T03:56:30Z",
+            "updatedAt": "2019-12-31T03:56:30Z"
           }
         },
         "canReply": true,
