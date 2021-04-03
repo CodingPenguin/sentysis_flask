@@ -1,13 +1,11 @@
-import re
-from textblob import TextBlob
-from helpers.analysis import calc_sentiment
+from helpers.get_sentiment import get_sentiment
+from helpers.spellcheck import spellcheck
 
 class YTComment:
     def __init__(self, data):
         self.value = ""
         self.likes = 0
         self.sentiment = 0
-
         if "snippet" in data:
             if "topLevelComment" in data["snippet"]:
                 if "snippet" in data["snippet"]["topLevelComment"]:
@@ -17,14 +15,7 @@ class YTComment:
                     if "likeCount" in real_data:
                         self.likes = real_data["likeCount"]
         if self.value:
-            self.sentiment = calc_sentiment(self.value)
-
-replace_dict = {"&#39;": "'", "&quot;": '"', "\u003cbr /\u003e": " ", "<b>": " ", "</b>": " ", "<i>": " "}
-def spellcheck(value):
-    rep = dict((re.escape(k), v) for k, v in replace_dict.items())
-    pattern = re.compile("|".join(rep.keys()))
-    value = str(TextBlob(pattern.sub(lambda m: rep[re.escape(m.group(0))], value)))
-    return value
+            self.sentiment = get_sentiment(self.value)
 
 #
 # ### backend
