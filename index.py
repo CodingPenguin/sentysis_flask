@@ -3,11 +3,9 @@ from flask_cors import CORS
 
 import config, googleapiclient.discovery, json, os
 
-from comments import get_comments
-from ytcomment import YTComment
-from helpers.get_sentiment import get_sentiment
-from helpers.get_weighted_stats import get_weighted_stats
-
+from helpers.fetch_comments import fetch_comments
+from models.ytcomment import YTComment
+from helpers.get_response import get_response
 
 
 app = Flask(__name__)
@@ -26,7 +24,10 @@ def process_video_id():
         abort(400)
 
     yt_video_id = request.get_json('videoId')
-    comment_data = get_comments(yt_video_id) # from line 12, it gets "Bh_uMYaykyQ"
+    # comment_data = fetch_comments(yt_video_id) # from line 12, it gets "Bh_uMYaykyQ"
+    # video_title = fetch_title(yt_video_id)
+    with open('./comment_data.json') as f:
+        comment_data = json.load(f)
 
     sentiments = [] # List of each comments' sentiments
     likes = [] # List of likes per comment
@@ -38,10 +39,10 @@ def process_video_id():
         likes.append(comment.likes)
         comments.append(comment.value)
 
-    weighted_stats = get_weighted_stats(sentiments, likes) # Weighted mean and weighted standard deviation
+    response = get_response(comments, sentiments, likes)
+    print(response)
 
-    return jsonify({'yt_video_id': yt_video_id}), 201
-
+    return jsonify(response), 201
 
 
 if __name__ == '__main__':

@@ -1,7 +1,7 @@
 import json
-from ytcomment import YTComment
+from models.ytcomment import YTComment
 from helpers.get_sentiment import get_sentiment
-from helpers.get_weighted_stats import get_weighted_stats
+from helpers.get_response import get_response
 
 with open('./comment_data.json') as f:
     comment_data = json.load(f)
@@ -16,4 +16,5 @@ for c in comment_data["items"]:
     likes.append(comment.likes)
     comments.append(comment.value)
 
-weighted_stats = get_weighted_stats(sentiments, likes) # Weighted mean and weighted standard deviation
+response = get_response(comments, sentiments, likes)
+print(response)

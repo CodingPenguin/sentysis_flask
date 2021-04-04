@@ -1,6 +1,6 @@
 import os, config
 
-def get_comments(video_id):
+def fetch_comments(video_id):
     # Disable OAuthlib's HTTPS verification when running locally.
     # *DO NOT* leave this option enabled in production.
     os.environ["OAUTHLIB_INSECURE_TRANSPORT"] = "1"
