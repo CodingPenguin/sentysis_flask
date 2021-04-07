@@ -3,7 +3,10 @@ import os, config
 def fetch_comments(video_id):
     # Disable OAuthlib's HTTPS verification when running locally.
     # *DO NOT* leave this option enabled in production.
-    os.environ["OAUTHLIB_INSECURE_TRANSPORT"] = "1"
+    # if(config.IS_DEV):
+    os.environ["OAUTHLIB_INSECURE_TRANSPORT"] = "1" # OAUTHLIB VERIFICATION DISABLED
+    # else:
+    #     os.environ["OAUTHLIB_INSECURE_TRANSPORT"] = "0"
 
     api_service_name = "youtube"
     api_version = "v3"
@@ -15,7 +18,7 @@ def fetch_comments(video_id):
 
     request = youtube.commentThreads().list(
         part="snippet",
-        video_id=videoId,
+        videoId=video_id,
         order="relevance"
     )
     response = request.execute()

@@ -1,7 +1,7 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "QBh5wHJiPOQ1JdRo-S-HCbOnR7c",
-  "nextPageToken": "QURTSl9pMmFad3ZFYTd0dmZOS3NqSXRrRDRETU9XUVloQldSaVZuOFg5a2ZNaExCcktuVDBIQ2hxWXBEai1oYTdpRXJpdFIyNHFzM3ljb1g0SWtPTlJRQktjd0lDbjIwblpqZEF1cXp6LTJST3h4OEJJRU05X3dzbTY4WjRjNmZ3MVBOdVZPb1MycmJYRjNaMlNXQUs3Q2FfWngxZkpZM1dEamotVnBXVVByUVhlblVXNjBXQlZFWG1IWVFxUXozTXkweGhXUmpfd21JUm9hTzUyb2Z0c3dwMFRMWTdINjByMnhQWGlBb2tkTm9sNGhkMkJPRmN2czVmYzc5LURocUlOb3BFX3BVbzhFd3RtSjFYd19BZElWRzRieHNuYTQzNzNrVVVYT2gzSU5hSFc2SmxEakNlRkJoNWpsVEs2ZmJCY1JkeThpaTFLMA==",
+  "etag": "-qCycdC5uvU3xlgMi250TXNV8Mo",
+  "nextPageToken": "QURTSl9pMWNTZFV6ZEVTY1V5MktsVTJFcWhpUllLVF9CMEt2ektuaDZoeGlBbXZ0TVVxZlVzdDFwZlJwSGZYZGk0UGNQOVBIZnVCUmhMUEk3TWFGRVpFU1lWNk5tSXpwcDVpMndwQmZKOTVvbVdUS1FmckMxb3puUW1DdW5LTk5UWHhBYlR1TXdTekJFMVB1bGlmYVRYSFhnZUE1UkNGZEFlNU9NZE1EeTZfRlBlWi1Qc0h6dXo3ckQzU1MtQWZ1YlNPcVBtVmRRazlqTThBRVhOZFZocUhfaGhUeV9sR2FvY0dEZ3FKRl9zSHJEMkZYNWxQb3pmQll0M25abzJ6eGRUVFJPM1MzTnNfLTB0OG5UdjItUHRTeV9IdU9RejQ0OHExcEZ2SW5yclRCMHZxeWZ3b19MZVZMNnRTU3BXNVNnNmZ4OXlTaXl0QTM=",
   "pageInfo": {
     "totalResults": 50,
     "resultsPerPage": 50
@@ -9,1021 +9,61 @@
   "items": [
     {
       "kind": "youtube#commentThread",
-      "etag": "NGxjRDmx9B2YCQosxucVbcJ4h-c",
-      "id": "Ugg2V_n-r99JZHgCoAEC",
+      "etag": "9-ERaoiytyjMawIWVpKCZ_J1U9s",
+      "id": "UgypP4N1oj_AWcR9lO94AaABAg",
       "snippet": {
-        "videoId": "y2euBvdP28c",
+        "videoId": "lB734hc89x8",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "i7_BrU6uAQS-rnMekJk7xpkwoQU",
-          "id": "Ugg2V_n-r99JZHgCoAEC",
+          "etag": "2ZB1-dtBhnm4q7AE7domZr0F5Qc",
+          "id": "UgypP4N1oj_AWcR9lO94AaABAg",
           "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "How the heck did climate science even become a political issue?",
-            "textOriginal": "How the heck did climate science even become a political issue?",
-            "authorDisplayName": "Sawtooth Waves",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjIs7m5oPMcIoD05R-r0NbDYoiZk5cd1Qrs-4lHuw=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCD_VOth7RmckN6DbmFJa__A",
+            "videoId": "lB734hc89x8",
+            "textDisplay": "Anyone Here 12 Days Late?",
+            "textOriginal": "Anyone Here 12 Days Late?",
+            "authorDisplayName": "Tenzi",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnj2Aq4RzSkcCTNLd64WwcQafh-KICDGURLQMuynkA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCIT_zL2d2cWgnm7Sf3J4xmw",
             "authorChannelId": {
-              "value": "UCD_VOth7RmckN6DbmFJa__A"
+              "value": "UCIT_zL2d2cWgnm7Sf3J4xmw"
             },
             "canRate": true,
             "viewerRating": "none",
-            "likeCount": 4208,
-            "publishedAt": "2016-10-03T17:33:25Z",
-            "updatedAt": "2016-10-03T17:33:25Z"
+            "likeCount": 11601,
+            "publishedAt": "2021-03-30T01:18:10Z",
+            "updatedAt": "2021-04-04T21:59:08Z"
           }
         },
         "canReply": true,
-        "totalReplyCount": 464,
+        "totalReplyCount": 275,
         "isPublic": true
       }
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "PLWsgOJ1Tv3BHV0iGEWeS4XblpY",
-      "id": "Ugz17FGgwfnbfXwYYp14AaABAg",
+      "etag": "tbwqTUINy-0dzMwmFum1-XOArNg",
+      "id": "Ugxz2nTAsM8nWA9LW3l4AaABAg",
       "snippet": {
-        "videoId": "y2euBvdP28c",
+        "videoId": "lB734hc89x8",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "YLV9mJHvPL6PXB1bfbQXGAJZCLc",
-          "id": "Ugz17FGgwfnbfXwYYp14AaABAg",
+          "etag": "zZRKVSW2k7MUTMhlG0B8CY-ro4Y",
+          "id": "Ugxz2nTAsM8nWA9LW3l4AaABAg",
           "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "The problem is that every one tells everybody what to do but nobody does anything. And those who do something good are not acknowledged because we all are too busy seeing cat videos. Our existence now poses a threat to our existence.",
-            "textOriginal": "The problem is that every one tells everybody what to do but nobody does anything. And those who do something good are not acknowledged because we all are too busy seeing cat videos. Our existence now poses a threat to our existence.",
-            "authorDisplayName": "Aryan Chaudhary",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngIZ4-X8tq-ZITTZkhpwSIrFk8capfggqqsJQ=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UChfUMJXFXqVe9WVVhMOtKIw",
+            "videoId": "lB734hc89x8",
+            "textDisplay": "the next trend should be people going to jail when they commit crimes.",
+            "textOriginal": "the next trend should be people going to jail when they commit crimes.",
+            "authorDisplayName": "svftmgc",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngkExFzzGba9q56DZNazv_a5KZ5c4F5LqNbdhi9=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCmIc-sjuOqqzT_x_yNSp20w",
             "authorChannelId": {
-              "value": "UChfUMJXFXqVe9WVVhMOtKIw"
+              "value": "UCmIc-sjuOqqzT_x_yNSp20w"
             },
             "canRate": true,
             "viewerRating": "none",
-            "likeCount": 15,
-            "publishedAt": "2020-06-09T12:44:27Z",
-            "updatedAt": "2020-06-09T12:44:27Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 1,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "C_LBggdw31zhZcVqsAtUG4tnalE",
-      "id": "UgwleII4ukeniwgiya94AaABAg",
-      "snippet": {
-        "videoId": "y2euBvdP28c",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "HUSxbyv-oUVLAopOQflRsLDmSQ4",
-          "id": "UgwleII4ukeniwgiya94AaABAg",
-          "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "Well a new fact says 4 out of 10 Americans are wrong about something.",
-            "textOriginal": "Well a new fact says 4 out of 10 Americans are wrong about something.",
-            "authorDisplayName": "Jarid Gaming",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjJFbAxPM_IravoVLJ3T2s7LtmhRwH1CI-WPiMT=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCHKF0JiVfOm1jAUfhlKS0Cg",
-            "authorChannelId": {
-              "value": "UCHKF0JiVfOm1jAUfhlKS0Cg"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 144,
-            "publishedAt": "2019-07-18T06:49:27Z",
-            "updatedAt": "2019-07-18T06:49:27Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 12,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "7rsD6yeOnHfpigFq5alxN5BC5RQ",
-      "id": "Ugxs-CnaPHlrvBkCnV94AaABAg",
-      "snippet": {
-        "videoId": "y2euBvdP28c",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "lkjB4LVx6hNqdbo8QoxDAvCohFU",
-          "id": "Ugxs-CnaPHlrvBkCnV94AaABAg",
-          "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "&quot;The future is uncertain and the end is always near&quot; -The Doors",
-            "textOriginal": "\"The future is uncertain and the end is always near\" -The Doors",
-            "authorDisplayName": "Etyere Petyere",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjkyqiRQ8VsVteYUd_VycNx0nGS-MqSSXmWJ6_G=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCAZZBAnQ71NBMp7TPzbMNIw",
-            "authorChannelId": {
-              "value": "UCAZZBAnQ71NBMp7TPzbMNIw"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 277,
-            "publishedAt": "2019-10-13T21:01:07Z",
-            "updatedAt": "2019-10-13T21:01:07Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 9,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "gichNnpzWdqwrvcVjeCDCXOXVJ0",
-      "id": "Ugx5uegENwec-0A8t1B4AaABAg",
-      "snippet": {
-        "videoId": "y2euBvdP28c",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "VW1DYmTFf57CvV7F1af8QE6Qoa4",
-          "id": "Ugx5uegENwec-0A8t1B4AaABAg",
-          "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "I don&#39;t care to write my paper until it&#39;s due tomorrow, duh.",
-            "textOriginal": "I don't care to write my paper until it's due tomorrow, duh.",
-            "authorDisplayName": "Awesome man troll #10",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhyAFC0vbiHXd0GPw6VKH6-yT5ZTlm_N-CWeQ=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCCIpInmsxvOSb7QVDu4FL7Q",
-            "authorChannelId": {
-              "value": "UCCIpInmsxvOSb7QVDu4FL7Q"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 10,
-            "publishedAt": "2020-03-19T21:04:37Z",
-            "updatedAt": "2020-03-19T21:04:37Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 2,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "zsZ7oQkeaBlqzyM4vEzgHSd3R_U",
-      "id": "UgweE9vn7fsHYsdLsxZ4AaABAg",
-      "snippet": {
-        "videoId": "y2euBvdP28c",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "Ce_hOU-rqrRFdq9MhpLst_xs8ek",
-          "id": "UgweE9vn7fsHYsdLsxZ4AaABAg",
-          "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "Politics will be the end of us all.",
-            "textOriginal": "Politics will be the end of us all.",
-            "authorDisplayName": "bobbycone2",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwniWF7E5iSoleoKcna76jtzbIjevqdiwkyeZaA=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCWZHDlcHYPOf89iBTZM36fw",
-            "authorChannelId": {
-              "value": "UCWZHDlcHYPOf89iBTZM36fw"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 752,
-            "publishedAt": "2018-10-11T08:05:17Z",
-            "updatedAt": "2018-10-11T08:05:17Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 69,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "lElDn3ZgcH1D57UVZtRHk9AAqZU",
-      "id": "UgykxUzag86jCc-EFLp4AaABAg",
-      "snippet": {
-        "videoId": "y2euBvdP28c",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "QRlZU3HbC0rKH8RlYZOX4_5vlVA",
-          "id": "UgykxUzag86jCc-EFLp4AaABAg",
-          "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "From the front, his hair looks like someone took Nutella and spread it across his head",
-            "textOriginal": "From the front, his hair looks like someone took Nutella and spread it across his head",
-            "authorDisplayName": "Tai",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjwuLpNX5RozV2ppYXtbPSkLBQY45GNlM-F0w=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCPsC61p2LibyIaUZsxvOyGQ",
-            "authorChannelId": {
-              "value": "UCPsC61p2LibyIaUZsxvOyGQ"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 673,
-            "publishedAt": "2019-09-24T22:48:27Z",
-            "updatedAt": "2019-09-24T22:48:27Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 19,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "ckK5Gk0uMIeADxVbYr4RWTidEt4",
-      "id": "UgwiO1k34b9pSkDGy6N4AaABAg",
-      "snippet": {
-        "videoId": "y2euBvdP28c",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "oDuXbSsdyWGZ4cPKjN7hMLmYg1Y",
-          "id": "UgwiO1k34b9pSkDGy6N4AaABAg",
-          "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "&quot;we are the first generation to feel climate change and last to do something about it&quot;\u003cbr /\u003e                                                                                                                         -Barack Obama",
-            "textOriginal": "\"we are the first generation to feel climate change and last to do something about it\"\n                                                                                                                         -Barack Obama",
-            "authorDisplayName": "Dhruvin Vekariya",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwni2EfjxoELEojOXEd8xTmYNssNVZq1U3c8yQLxf=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCy2OeLH8AsDiWYFtrpMViyw",
-            "authorChannelId": {
-              "value": "UCy2OeLH8AsDiWYFtrpMViyw"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 12,
-            "publishedAt": "2021-02-05T18:13:16Z",
-            "updatedAt": "2021-02-05T18:13:16Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 1,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "bA1sbaSEw--ZPlztMrJ0Se2SpPo",
-      "id": "Ugw2V7fOkxJnKC8LI4Z4AaABAg",
-      "snippet": {
-        "videoId": "y2euBvdP28c",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "lkEfmTecjrqjntmiWL2sAcWPot0",
-          "id": "Ugw2V7fOkxJnKC8LI4Z4AaABAg",
-          "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "Im just hooked on that EJ rumble.",
-            "textOriginal": "Im just hooked on that EJ rumble.",
-            "authorDisplayName": "dragonlee1000",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnj2uewr92PWeOS2sgYXGqwPFHNUEdNDoYdnqg=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UC49AzRX-BnUn1rTh57vJalA",
-            "authorChannelId": {
-              "value": "UC49AzRX-BnUn1rTh57vJalA"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 1,
-            "publishedAt": "2019-10-07T16:11:04Z",
-            "updatedAt": "2019-10-07T16:11:04Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "vfIGpcrNbdNG8WAP3z9sLWQu3wY",
-      "id": "UgzTSxXLR9eu-6DYRVx4AaABAg",
-      "snippet": {
-        "videoId": "y2euBvdP28c",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "EVJg0fBDZnDsjTFGkfvh7czQgow",
-          "id": "UgzTSxXLR9eu-6DYRVx4AaABAg",
-          "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "There’s also a perception of sensationalism by political “sides” - and right now a political line is already drawn on so many issues it’s difficult to overcome it for the most important one of all",
-            "textOriginal": "There’s also a perception of sensationalism by political “sides” - and right now a political line is already drawn on so many issues it’s difficult to overcome it for the most important one of all",
-            "authorDisplayName": "Travis Hightower",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjvClNj4STIBBDAcgmRjTrCVAKKGzlvZRdSzLb27g=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCMY9dmsPOVkcfY316vYa33g",
-            "authorChannelId": {
-              "value": "UCMY9dmsPOVkcfY316vYa33g"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 9,
-            "publishedAt": "2019-10-03T14:20:46Z",
-            "updatedAt": "2019-10-03T14:20:46Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "om46ZsMOghOoqY-RbAkUzEF2WOU",
-      "id": "UgyGA463acciqCh84CJ4AaABAg",
-      "snippet": {
-        "videoId": "y2euBvdP28c",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "QpAISmdMxCceATtqv3rlvtukviU",
-          "id": "UgyGA463acciqCh84CJ4AaABAg",
-          "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "That wasn&#39;t about why people don&#39;t believe in climate science, it was about why people don&#39;t respond to threatening messages about climate change they hear in media.",
-            "textOriginal": "That wasn't about why people don't believe in climate science, it was about why people don't respond to threatening messages about climate change they hear in media.",
-            "authorDisplayName": "David Armstrong",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhv_n4lTn7ZwCTVpvLBDD5PnpkZ5M24GVQUyQ=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCEdw8I5yhlP-kysnFn1ISVw",
-            "authorChannelId": {
-              "value": "UCEdw8I5yhlP-kysnFn1ISVw"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 263,
-            "publishedAt": "2018-12-17T06:28:12Z",
-            "updatedAt": "2018-12-17T06:28:12Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 26,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "j7LJS9oatUD10oifFkr_5RBssrg",
-      "id": "UgxZNhpUiTl5TwmFE_p4AaABAg",
-      "snippet": {
-        "videoId": "y2euBvdP28c",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "rXbV0p2gfco1wACL7rYPbJ_p1Hg",
-          "id": "UgxZNhpUiTl5TwmFE_p4AaABAg",
-          "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "\u003ca href=\"https://www.youtube.com/watch?v=y2euBvdP28c&amp;t=5m28s\"\u003e5:28\u003c/a\u003e my brain: LMAO i did a huge burp at the roller rink tonight. I thought the manager was gonna tell me off but he decided it to just give me 3 slow claps lol. 3 other people gave me the thumbs up and 5 others started laughing.",
-            "textOriginal": "5:28 my brain: LMAO i did a huge burp at the roller rink tonight. I thought the manager was gonna tell me off but he decided it to just give me 3 slow claps lol. 3 other people gave me the thumbs up and 5 others started laughing.",
-            "authorDisplayName": "Jorgen Vids",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhO7XVoRx3IZQs-de14CUzTi2mnMmA4t4m1TA=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCxx6b0Ky4Y2dTejEhEkI4-A",
-            "authorChannelId": {
-              "value": "UCxx6b0Ky4Y2dTejEhEkI4-A"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2020-09-26T05:42:48Z",
-            "updatedAt": "2020-09-26T05:42:48Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "3ri1lqQENGvqCKR3Q_1W3TJ4090",
-      "id": "Ugzm27qMxWupGGT0ar14AaABAg",
-      "snippet": {
-        "videoId": "y2euBvdP28c",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "AlJ5uQBI91zDOiAd-mFNqziK8jY",
-          "id": "Ugzm27qMxWupGGT0ar14AaABAg",
-          "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "You are spot on sometimes even me and I know I do it but we don’t want to be corrected even if you know it’s right usually when it’s something you’ve spent time on and will refuse to be wrong because you don’t want to start over",
-            "textOriginal": "You are spot on sometimes even me and I know I do it but we don’t want to be corrected even if you know it’s right usually when it’s something you’ve spent time on and will refuse to be wrong because you don’t want to start over",
-            "authorDisplayName": "Jack Hanson",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhlcCdHjlob8eIpaJkyU7RkLHEQ-aBFQXdDgmwjsg=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCIH4zZHfBMen_HNBwQLpXwQ",
-            "authorChannelId": {
-              "value": "UCIH4zZHfBMen_HNBwQLpXwQ"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 2,
-            "publishedAt": "2019-08-13T14:56:18Z",
-            "updatedAt": "2019-08-13T14:56:18Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "-b1T0RTTHrZ0xLtkACx-iaIg-z4",
-      "id": "UgxqPs_xOGsDFqE4w-F4AaABAg",
-      "snippet": {
-        "videoId": "y2euBvdP28c",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "VDJ-tIv8f1paHNuACMqbWgGSUZc",
-          "id": "UgxqPs_xOGsDFqE4w-F4AaABAg",
-          "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "Great video, especially the point about not rocking the in-group boat.",
-            "textOriginal": "Great video, especially the point about not rocking the in-group boat.",
-            "authorDisplayName": "Gregory Rowlerson",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnj09qs6c1BqLoPWsbZCFT4OSQnrc7a76t95hg=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCH6G_zAlLnEiJyqilwRiQBw",
-            "authorChannelId": {
-              "value": "UCH6G_zAlLnEiJyqilwRiQBw"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 4,
-            "publishedAt": "2019-10-30T12:02:08Z",
-            "updatedAt": "2019-10-30T12:02:08Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "qyEoCcVXWorSM8uJKAKkAF-CNss",
-      "id": "Ugw2ct7QI4kyO78veCl4AaABAg",
-      "snippet": {
-        "videoId": "y2euBvdP28c",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "vsxjgLxWBt7YvQfCFJPVSOkJbaw",
-          "id": "Ugw2ct7QI4kyO78veCl4AaABAg",
-          "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "Thatast bkt about polar bear had me dying lpl",
-            "textOriginal": "Thatast bkt about polar bear had me dying lpl",
-            "authorDisplayName": "Tomas Heredia",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwniTd4F52gqbF2UI0CMiwiRozrdxepL3b4IXPw=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCszNjOUHAJfLPElpzy3gX1w",
-            "authorChannelId": {
-              "value": "UCszNjOUHAJfLPElpzy3gX1w"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 3,
-            "publishedAt": "2019-09-25T17:53:24Z",
-            "updatedAt": "2019-09-25T17:53:24Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "LSjN709pFnyBnA_aep1Yyt96MyM",
-      "id": "UgzKNWHR_s-tE6bgM954AaABAg",
-      "snippet": {
-        "videoId": "y2euBvdP28c",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "Id4-mYLxqTF1Ko6UTUbO41mjLTI",
-          "id": "UgzKNWHR_s-tE6bgM954AaABAg",
-          "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "I&#39;m already trying to guess how many links below you&#39;re going to say",
-            "textOriginal": "I'm already trying to guess how many links below you're going to say",
-            "authorDisplayName": "Donavan B LoForte RPN, RCRT, LCRT",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngvMtfb-9YzjC3QCUJY6AJ4iJvzi4SDdsOFxXbJLQ=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UC0TyDApqxEWee3IOH74Do-A",
-            "authorChannelId": {
-              "value": "UC0TyDApqxEWee3IOH74Do-A"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2020-12-11T07:40:06Z",
-            "updatedAt": "2020-12-11T07:40:06Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "4UEEiq30V1k5kyw60WsdG0Yg3gE",
-      "id": "UgwosFGlYCDl0x1hn8J4AaABAg",
-      "snippet": {
-        "videoId": "y2euBvdP28c",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "9YRCHfW3Smybyn5ujBZbdyDHoNg",
-          "id": "UgwosFGlYCDl0x1hn8J4AaABAg",
-          "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "Great video !",
-            "textOriginal": "Great video !",
-            "authorDisplayName": "Fairy Girl",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhJEbUGvYZfgolY5UF-FoQniG0ea664Kg6Y1wX6=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCge_eP_dvsMS4QODH7liZkg",
-            "authorChannelId": {
-              "value": "UCge_eP_dvsMS4QODH7liZkg"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 1,
-            "publishedAt": "2019-10-01T00:10:50Z",
-            "updatedAt": "2019-10-01T00:10:50Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "9DkFX3bqqIzbWsJ_p6JODP2S5oU",
-      "id": "UgyBp_b-afAguRvlgcl4AaABAg",
-      "snippet": {
-        "videoId": "y2euBvdP28c",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "l2DhZfKLe9P3JZL5P7MOW8C2ka4",
-          "id": "UgyBp_b-afAguRvlgcl4AaABAg",
-          "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "Rationality Rules brought me here!",
-            "textOriginal": "Rationality Rules brought me here!",
-            "authorDisplayName": "kerkireos",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngbiyOb0WcRXd5WwLPBwS8-4Oyu2hzfAD8P6Q=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UC7fwc03IzxEBlKRPGz_ooxw",
-            "authorChannelId": {
-              "value": "UC7fwc03IzxEBlKRPGz_ooxw"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 87,
-            "publishedAt": "2019-10-11T04:32:07Z",
-            "updatedAt": "2019-10-11T04:32:07Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 5,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "F9-mmxuP4wW1JILYpocb8pXUTig",
-      "id": "UgwJ3kmYe1rmRaPyB8l4AaABAg",
-      "snippet": {
-        "videoId": "y2euBvdP28c",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "WtcAYteR8vxLhD530NmYbHylZ2Q",
-          "id": "UgwJ3kmYe1rmRaPyB8l4AaABAg",
-          "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "Actually the thumbnail confused me for a moment because I wasn&#39;t sure which direction I&#39;d normally point the red arrow. I think I normally point it to the empty space as if to say this word is going there. I&#39;ve never seen it the other way. Neat though.",
-            "textOriginal": "Actually the thumbnail confused me for a moment because I wasn't sure which direction I'd normally point the red arrow. I think I normally point it to the empty space as if to say this word is going there. I've never seen it the other way. Neat though.",
-            "authorDisplayName": "Moises Pagan",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwniNYXvO4F-F0xX8_XtGfoSa0AFylnDRPwe7tcgM8w=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCPeYQGVWb8-NrYfKdnJgaEw",
-            "authorChannelId": {
-              "value": "UCPeYQGVWb8-NrYfKdnJgaEw"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 1,
-            "publishedAt": "2020-06-24T21:22:19Z",
-            "updatedAt": "2020-06-24T21:22:19Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "LCsWu7EhbzSHnG-mexcewPww0V0",
-      "id": "Ugwt2ernlwMALCHCuk94AaABAg",
-      "snippet": {
-        "videoId": "y2euBvdP28c",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "NMfKRHjuaQO1FikN1rc8MtuhABU",
-          "id": "Ugwt2ernlwMALCHCuk94AaABAg",
-          "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "Ha ha ha ha! This is too funny. Dad thing is that this is a PBS video.",
-            "textOriginal": "Ha ha ha ha! This is too funny. Dad thing is that this is a PBS video.",
-            "authorDisplayName": "Jorge Craff",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhiW1BqdMdqyMIIQHIRi2Fr-LR5YAzx5tFcAg=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCo4Y0qgAQIRaSbtS7rnLu8Q",
-            "authorChannelId": {
-              "value": "UCo4Y0qgAQIRaSbtS7rnLu8Q"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2019-09-27T20:09:30Z",
-            "updatedAt": "2019-09-27T20:09:30Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "6AUr99vhhGpiYOFVgcRDx9ACD0c",
-      "id": "UgzWcY3y6rPZ-UZjobd4AaABAg",
-      "snippet": {
-        "videoId": "y2euBvdP28c",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "JOwOb_c6aDspgDeA4FDbC1fXVbg",
-          "id": "UgzWcY3y6rPZ-UZjobd4AaABAg",
-          "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "What am I worried about? \u003cbr /\u003eI&#39;m a single, disabled, middle aged woman working towards the dream of traveling un an RV all over North America (for a start) while I share my adventures online. \u003cbr /\u003e\u003cbr /\u003eI&#39;m worried about the social unrest that happens as more and more of these weather events occur. I&#39;m worried about what scared people do ad it slowly dawns on them that they could&#39;ve helped...but stood in the way instead. \u003cbr /\u003e\u003cbr /\u003eI always remember a quote (but sadly not exactly, nor the author):\u003cbr /\u003e\u003cbr /\u003eWhich do you fear more - the thing you fear, or the fearful people? \u003cbr /\u003e\u003cbr /\u003eI fear the people.",
-            "textOriginal": "What am I worried about? \nI'm a single, disabled, middle aged woman working towards the dream of traveling un an RV all over North America (for a start) while I share my adventures online. \n\nI'm worried about the social unrest that happens as more and more of these weather events occur. I'm worried about what scared people do ad it slowly dawns on them that they could've helped...but stood in the way instead. \n\nI always remember a quote (but sadly not exactly, nor the author):\n\nWhich do you fear more - the thing you fear, or the fearful people? \n\nI fear the people.",
-            "authorDisplayName": "Autumn Wodyn",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhJ7KzzT1oYobHMJplFKdV9hmZPhHua-9kL7mTASg=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCmTVLyl47dtuk4llyiYhoLA",
-            "authorChannelId": {
-              "value": "UCmTVLyl47dtuk4llyiYhoLA"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 1,
-            "publishedAt": "2019-10-31T07:10:40Z",
-            "updatedAt": "2019-10-31T07:10:40Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "ylTLuy4VPGhsvyHvpH32k1oE4Kc",
-      "id": "UgyJW6UV1fVrpYNjshl4AaABAg",
-      "snippet": {
-        "videoId": "y2euBvdP28c",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "oOUYqgCG5rAOKLNv2u7svZJPHGw",
-          "id": "UgyJW6UV1fVrpYNjshl4AaABAg",
-          "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "Definitely something in the psychology. Interesting that correlation between those who are active, and how they got their information?",
-            "textOriginal": "Definitely something in the psychology. Interesting that correlation between those who are active, and how they got their information?",
-            "authorDisplayName": "Neil Adams",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjED0cN-9rabRGw2gxUDgiWcOKbvL9wRX6mjm9ncA=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCWSdYhgfLjgzCzyRFE7O4Dw",
-            "authorChannelId": {
-              "value": "UCWSdYhgfLjgzCzyRFE7O4Dw"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 1,
-            "publishedAt": "2020-10-24T07:03:10Z",
-            "updatedAt": "2020-10-24T07:03:10Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "OcujLYEJab8-gk2iq1Cly8--aOk",
-      "id": "UgwwK6pVYT1TrEMIMVd4AaABAg",
-      "snippet": {
-        "videoId": "y2euBvdP28c",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "VHqpr5TCNJzsi6PGizjh0TmI-So",
-          "id": "UgwwK6pVYT1TrEMIMVd4AaABAg",
-          "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "So basically everyone will act once it&#39;s toooo late",
-            "textOriginal": "So basically everyone will act once it's toooo late",
-            "authorDisplayName": "betty r",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnja4JXdi3wIT46pA5qK747dwIeNXuf7DkDgElrDcQ=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UC-y6ViSoamhmvSOqkOsQXXw",
-            "authorChannelId": {
-              "value": "UC-y6ViSoamhmvSOqkOsQXXw"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 35,
-            "publishedAt": "2019-07-10T19:54:39Z",
-            "updatedAt": "2019-07-10T19:54:48Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 8,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "-xeVyKmZpbh0zUJLQCCF5mKfj3Q",
-      "id": "UgwMQyutHbUhddMSuzN4AaABAg",
-      "snippet": {
-        "videoId": "y2euBvdP28c",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "O1H8uOCW1KhrVXTIbJgg9mgPvsE",
-          "id": "UgwMQyutHbUhddMSuzN4AaABAg",
-          "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "So if I don&#39;t have an ingroup, does that mean I don&#39;t have any one frame, or that my one frame is a composite of other frames?",
-            "textOriginal": "So if I don't have an ingroup, does that mean I don't have any one frame, or that my one frame is a composite of other frames?",
-            "authorDisplayName": "Internet Commentator",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjMMqxSJD5Rbtj_65dL76r-KQJGwUoVcHQyug=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCjNvdWgCCfF9uVRFVarL2vA",
-            "authorChannelId": {
-              "value": "UCjNvdWgCCfF9uVRFVarL2vA"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2020-09-23T08:57:50Z",
-            "updatedAt": "2020-09-23T08:57:50Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "lV8e5EvecJ8AHy3EjKUqSZ0iNXY",
-      "id": "UgyfojtPr63PYorv8G14AaABAg",
-      "snippet": {
-        "videoId": "y2euBvdP28c",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "gO03JqJchY4zC0trU9evzZ71Tgo",
-          "id": "UgyfojtPr63PYorv8G14AaABAg",
-          "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "Love the behavioral biases oversight. Really made me think.",
-            "textOriginal": "Love the behavioral biases oversight. Really made me think.",
-            "authorDisplayName": "Jarret R",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngKJWAna2sDReqQNSFC2denJ9nOw2T83xo6TeaIaw=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCj1R8iBGAqzaoZc0aUOK4gg",
-            "authorChannelId": {
-              "value": "UCj1R8iBGAqzaoZc0aUOK4gg"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2019-09-24T15:27:38Z",
-            "updatedAt": "2019-09-24T15:27:38Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 1,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "T6JAIXx6R2zC6CPhseEBLpFvdy4",
-      "id": "UgyEhzKi9Ii6Ol0irkh4AaABAg",
-      "snippet": {
-        "videoId": "y2euBvdP28c",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "BFhOyG6rGIhEqSr3PLlcvpAcgvg",
-          "id": "UgyEhzKi9Ii6Ol0irkh4AaABAg",
-          "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "I recommend watching the latest of Mexie&#39;s videos (and every other of hers while you&#39;re at it) and getting to know Murray Bookchin&#39;s work if you&#39;re interested in possible solutions.",
-            "textOriginal": "I recommend watching the latest of Mexie's videos (and every other of hers while you're at it) and getting to know Murray Bookchin's work if you're interested in possible solutions.",
-            "authorDisplayName": "Ricardo Petinga",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngQj4D4IDZTopNYFBEbx-plVKMeiYrTGOvMkf6C=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCWGLgS64DdoD7yxyrivtrmQ",
-            "authorChannelId": {
-              "value": "UCWGLgS64DdoD7yxyrivtrmQ"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2019-10-18T12:29:56Z",
-            "updatedAt": "2019-10-18T12:29:56Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 1,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "BnMNH-gh9loRkaDtFkWxh87k_-E",
-      "id": "UgzpFFkucj_PYT-ZGLl4AaABAg",
-      "snippet": {
-        "videoId": "y2euBvdP28c",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "-OLs5VAFsF2S8rRppYluWTF_9sY",
-          "id": "UgzpFFkucj_PYT-ZGLl4AaABAg",
-          "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "The closing comment and splash page has more truth in it than you know!",
-            "textOriginal": "The closing comment and splash page has more truth in it than you know!",
-            "authorDisplayName": "ed geiger 1",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhX3P6WTS-c0J1yu4TziACXGd2dIrRTbaNXtg=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UC1NlYlOEO71GFwM_pbv76zg",
-            "authorChannelId": {
-              "value": "UC1NlYlOEO71GFwM_pbv76zg"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2020-09-18T23:28:21Z",
-            "updatedAt": "2020-09-18T23:28:21Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "SGiExE7siM49FvzrZ9jj8a77ERE",
-      "id": "UgxljewwirQ7SnNVMSN4AaABAg",
-      "snippet": {
-        "videoId": "y2euBvdP28c",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "NGUtCOJg5438Rw4zm5IlFQsrcyw",
-          "id": "UgxljewwirQ7SnNVMSN4AaABAg",
-          "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "I am a survivor of Typhoon Haiyan, I was told by my grandfather to think along the lines of that since I have survived the worst, I can survive any typhoon that comes along our region, considering we receive over ten different typhoons in the Visayas. Ever since, I haven&#39;t been afraid of tropical depressions, and I live about twenty meters away from the coast facing towards the Philippine Sea and the Pacific Ocean. Whenever I hear that there&#39;s a storm coming, I look forward to the fact that I won&#39;t have school. The most grief I feel is for those who live on the streets, or for those who live in the mountainous parts or easily flooded areas (like my school, jeez). I don&#39;t see any fear of typhoons in others as well (although, they do have a tsunami trauma). \u003cbr /\u003e\u003cbr /\u003eWhat sort of phenomenon would you call this? I&#39;d like to know what makes me think that since I&#39;ve gone through a certain experience, I don&#39;t feel fear anymore.",
-            "textOriginal": "I am a survivor of Typhoon Haiyan, I was told by my grandfather to think along the lines of that since I have survived the worst, I can survive any typhoon that comes along our region, considering we receive over ten different typhoons in the Visayas. Ever since, I haven't been afraid of tropical depressions, and I live about twenty meters away from the coast facing towards the Philippine Sea and the Pacific Ocean. Whenever I hear that there's a storm coming, I look forward to the fact that I won't have school. The most grief I feel is for those who live on the streets, or for those who live in the mountainous parts or easily flooded areas (like my school, jeez). I don't see any fear of typhoons in others as well (although, they do have a tsunami trauma). \n\nWhat sort of phenomenon would you call this? I'd like to know what makes me think that since I've gone through a certain experience, I don't feel fear anymore.",
-            "authorDisplayName": "Lunar Scorpio",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhxk8vhze__R-6hPUHaJuChEfeTHoCSgCu5t7hrvg=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCD1xKHfDJrzyYWJUnhZEl8A",
-            "authorChannelId": {
-              "value": "UCD1xKHfDJrzyYWJUnhZEl8A"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 1,
-            "publishedAt": "2019-11-02T14:20:11Z",
-            "updatedAt": "2019-11-02T14:20:11Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 1,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "_8wEkSUmy60OBsQ8-TriT_eJ1XI",
-      "id": "Ugyqtq8661pw_AiR9v94AaABAg",
-      "snippet": {
-        "videoId": "y2euBvdP28c",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "D9Zv8e4zGTS8h-_VGXAM6jOfik0",
-          "id": "Ugyqtq8661pw_AiR9v94AaABAg",
-          "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "As long as we&#39;re decent to each other, we&#39;ll reliably influence \u003ci\u003esomeone\u003c/i\u003e in the right direction, it&#39;s all about patient persistence, two words i&#39;m not actually fond of.",
-            "textOriginal": "As long as we're decent to each other, we'll reliably influence _someone_ in the right direction, it's all about patient persistence, two words i'm not actually fond of.",
-            "authorDisplayName": "I.M. Shirley Rongh",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjtRWVPHrBzp9WElE61YPx-P0PS-snFltz0vLbmAh0=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCOOLwh1bo1ZR2AfaBebf3gg",
-            "authorChannelId": {
-              "value": "UCOOLwh1bo1ZR2AfaBebf3gg"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2020-09-23T15:34:27Z",
-            "updatedAt": "2020-09-23T15:34:27Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "htHpsn0bNt-QKieSA5G32FGEIXE",
-      "id": "UgwoHMfmjWIt_azSNUx4AaABAg",
-      "snippet": {
-        "videoId": "y2euBvdP28c",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "AiyrasBmud7jka5F3E7AuyzfP2k",
-          "id": "UgwoHMfmjWIt_azSNUx4AaABAg",
-          "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "\u003ca href=\"https://www.youtube.com/watch?v=y2euBvdP28c&amp;t=2m33s\"\u003e2:33\u003c/a\u003e I&#39;m aware I might end up in a car accident, but when&#39;s the last time a hurricane came to the UK? \u003cbr /\u003e\u003cbr /\u003eEdit: Google says 1987 so yeah, I&#39;m not worried.",
-            "textOriginal": "2:33 I'm aware I might end up in a car accident, but when's the last time a hurricane came to the UK? \n\nEdit: Google says 1987 so yeah, I'm not worried.",
-            "authorDisplayName": "Conlon",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhpaa9qjhOd9egFnBMILSis9EcNcsdWUYSX0Q=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCsXZU2-uWezxkm_cgPp-1hg",
-            "authorChannelId": {
-              "value": "UCsXZU2-uWezxkm_cgPp-1hg"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 3,
-            "publishedAt": "2020-12-30T17:16:54Z",
-            "updatedAt": "2020-12-30T17:18:49Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "s_qauwivYhLMlD2KIzrz7yNVaTM",
-      "id": "UgypTVCVxnf23Q-FScp4AaABAg",
-      "snippet": {
-        "videoId": "y2euBvdP28c",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "5ycL8SGftUKbflVW3Tdddz3GwOc",
-          "id": "UgypTVCVxnf23Q-FScp4AaABAg",
-          "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "I think getting people to &quot;act&quot; is about a formula: you have to get the message through, in a way that prompts them to act but isn&#39;t said so forcefully they turn it off. If you&#39;re too pushy, you&#39;d get people talking but not doing anything. Also, people who have disbelief need to know they aren&#39;t going to be ridiculed for it and need their questions and concerns addressed. That will make them more susceptible to hearing what you want to say, which is when you can tell them how it&#39;s impacting them &quot;now&quot; and find out what they care about as an avenue to making the impact personal. Once you&#39;ve got their desire to do something, you need to make it easy for them to help, maybe even allow them to help in a discreet way that their peers won&#39;t notice. It&#39;s about developing a new team mentality with the people who don&#39;t believe in it, empowering them to make their own choices, especially most of all with the ones that don&#39;t want to act. They need to be shown we&#39;re in it together and not have to worry about things such as guilt, or peer pressure, or the stress it may require for them to accomplish their mission because they&#39;re not alone, you are helping them. We need to stop our &quot;guilt&quot; and &quot;shock value&quot; mentality, because our media has desensitized many of us to it.",
-            "textOriginal": "I think getting people to \"act\" is about a formula: you have to get the message through, in a way that prompts them to act but isn't said so forcefully they turn it off. If you're too pushy, you'd get people talking but not doing anything. Also, people who have disbelief need to know they aren't going to be ridiculed for it and need their questions and concerns addressed. That will make them more susceptible to hearing what you want to say, which is when you can tell them how it's impacting them \"now\" and find out what they care about as an avenue to making the impact personal. Once you've got their desire to do something, you need to make it easy for them to help, maybe even allow them to help in a discreet way that their peers won't notice. It's about developing a new team mentality with the people who don't believe in it, empowering them to make their own choices, especially most of all with the ones that don't want to act. They need to be shown we're in it together and not have to worry about things such as guilt, or peer pressure, or the stress it may require for them to accomplish their mission because they're not alone, you are helping them. We need to stop our \"guilt\" and \"shock value\" mentality, because our media has desensitized many of us to it.",
-            "authorDisplayName": "pusheen buttercup",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnh6hJQh_eYVdMfv6RUwGgmO-8L1Eq7TR2YxTA=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCI68mK10T3ysXFzXHk8GNDw",
-            "authorChannelId": {
-              "value": "UCI68mK10T3ysXFzXHk8GNDw"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2020-11-03T21:46:21Z",
-            "updatedAt": "2020-11-03T21:46:21Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 1,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "OdQSGb_yYisX3KM9z61LStKYddU",
-      "id": "UgyOzv6AYHgKxop1gIt4AaABAg",
-      "snippet": {
-        "videoId": "y2euBvdP28c",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "d8063mkiVgXS-WXIw1r9D83RqwQ",
-          "id": "UgyOzv6AYHgKxop1gIt4AaABAg",
-          "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "I just stumbled upon this video, and it amazes me how much this applies to the Covid crisis we are currently facing.",
-            "textOriginal": "I just stumbled upon this video, and it amazes me how much this applies to the Covid crisis we are currently facing.",
-            "authorDisplayName": "p3u1",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngoezDdaHgnw0fA1thEvwg-g77BudtAo8C9Aw=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCkmvqrgws_htRQv1e5umIrw",
-            "authorChannelId": {
-              "value": "UCkmvqrgws_htRQv1e5umIrw"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2020-10-25T00:11:40Z",
-            "updatedAt": "2020-10-25T00:11:40Z"
+            "likeCount": 544,
+            "publishedAt": "2021-04-05T07:35:10Z",
+            "updatedAt": "2021-04-05T07:35:10Z"
           }
         },
         "canReply": true,
@@ -1033,253 +73,221 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "19AN28Xlykh3cvAJ17IoBu-mNes",
-      "id": "Ugz-iwp6CMiQgM5LHfJ4AaABAg",
+      "etag": "jMReyqCjbBaPYXSTyBkoMfEhU2Q",
+      "id": "UgxzSIiKQHXTWwHfI8R4AaABAg",
       "snippet": {
-        "videoId": "y2euBvdP28c",
+        "videoId": "lB734hc89x8",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "-Vg5WWpwHf1jL48qjZKIv66OjgY",
-          "id": "Ugz-iwp6CMiQgM5LHfJ4AaABAg",
+          "etag": "eBuNOqJUdnZ3mOHu0_6Rkfc44Rw",
+          "id": "UgxzSIiKQHXTWwHfI8R4AaABAg",
           "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "Subconscious mind vs conscious mind. Ones your life&#39;s tape recorder. Every sight, sound, smell, taste, and texture you&#39;ve experienced since BIRTH, is all stored away in your subconscious mind. \u003cbr /\u003eThe conscious mind. Recite your ABCs....if you do this without thinking, that&#39;s subconscious. Repetition becomes habitual. \u003cbr /\u003eNow, recite the alphabet backwards. Can&#39;t do it can you. Now you have to think about each letter. Conscious. Thinking. Creative. That&#39;s the difference between the subconscious and conscious minds.",
-            "textOriginal": "Subconscious mind vs conscious mind. Ones your life's tape recorder. Every sight, sound, smell, taste, and texture you've experienced since BIRTH, is all stored away in your subconscious mind. \nThe conscious mind. Recite your ABCs....if you do this without thinking, that's subconscious. Repetition becomes habitual. \nNow, recite the alphabet backwards. Can't do it can you. Now you have to think about each letter. Conscious. Thinking. Creative. That's the difference between the subconscious and conscious minds.",
-            "authorDisplayName": "Shane Roper",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwniI9GJZtrKRUYMoom9chHwL_d_FlFifbf_V3g=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCfgJfJBQ3n7XR4-2O_EQwoQ",
+            "videoId": "lB734hc89x8",
+            "textDisplay": "There&#39;s a difference between cancel culture and STRAIGHT UP CRIME",
+            "textOriginal": "There's a difference between cancel culture and STRAIGHT UP CRIME",
+            "authorDisplayName": "Likeimgoingtoputmyrealname",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjnbvluZte-CitPlubq8sc6my4TyVSgeN_GRhrk8Q=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCh08pMZim01k0vJ_a-R9m-A",
             "authorChannelId": {
-              "value": "UCfgJfJBQ3n7XR4-2O_EQwoQ"
+              "value": "UCh08pMZim01k0vJ_a-R9m-A"
             },
             "canRate": true,
             "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2019-10-06T04:55:28Z",
-            "updatedAt": "2019-10-06T04:55:28Z"
+            "likeCount": 2581,
+            "publishedAt": "2021-04-04T18:39:36Z",
+            "updatedAt": "2021-04-04T18:39:36Z"
           }
         },
         "canReply": true,
-        "totalReplyCount": 0,
+        "totalReplyCount": 32,
         "isPublic": true
       }
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "CDkvt_hSNv5GZyxkt-3MVo7uCaM",
-      "id": "Ugye40E3ZExZQr5OCOx4AaABAg",
+      "etag": "pNlImwtdjDIpFWIM_21JMOOC_J8",
+      "id": "UgwsvhNMgn4ZKpS5WsF4AaABAg",
       "snippet": {
-        "videoId": "y2euBvdP28c",
+        "videoId": "lB734hc89x8",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "cD5_-JQlLUVe_UebzBFt0TszP6o",
-          "id": "Ugye40E3ZExZQr5OCOx4AaABAg",
+          "etag": "T57y3-KoHH0xkWrLJVZFCaa5rPs",
+          "id": "UgwsvhNMgn4ZKpS5WsF4AaABAg",
           "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "For what it is worth, I am a physicist with a PhD from an Ivy league university. I am not a climatologist (I am a theoretical particle physicist) and I have spent my career looking at experimental data.  I have looked at many of the papers on climate modelization and the evidence is extremely shaky. For example, they always hide a lot of details on their models.  They do not specify how many free parameters are used, how the values are chosen and what are the uncertainties on them. They do not detail the uncertainties on the warming they get. There are uncertainties due to the input parameters, there are uncertainties due to the discretization, there are errors due to the models neglecting some effects, etc. It is never made clear what the uncertainties are. When money started pouring in the field (and of course the more alarmist some were,  the more they could ask for more money and the more they got), the entire field became very biased and unreliable. Then journals were created who were just approving alarmist results and rejecting anything that didn&#39;t suit their narrative.\u003cbr /\u003eBut I guess that the guy in that video would just say that I am  too stupid to understand....",
-            "textOriginal": "For what it is worth, I am a physicist with a PhD from an Ivy league university. I am not a climatologist (I am a theoretical particle physicist) and I have spent my career looking at experimental data.  I have looked at many of the papers on climate modelization and the evidence is extremely shaky. For example, they always hide a lot of details on their models.  They do not specify how many free parameters are used, how the values are chosen and what are the uncertainties on them. They do not detail the uncertainties on the warming they get. There are uncertainties due to the input parameters, there are uncertainties due to the discretization, there are errors due to the models neglecting some effects, etc. It is never made clear what the uncertainties are. When money started pouring in the field (and of course the more alarmist some were,  the more they could ask for more money and the more they got), the entire field became very biased and unreliable. Then journals were created who were just approving alarmist results and rejecting anything that didn't suit their narrative.\nBut I guess that the guy in that video would just say that I am  too stupid to understand....",
-            "authorDisplayName": "Patrick LaBelle",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhqNp8GBfv6niJOANvLyTQhwl_JjhT0F89tuw=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCTT9KtB4ddp9GzNbHW62-GA",
+            "videoId": "lB734hc89x8",
+            "textDisplay": "Dom needs to be held accountable for what he did, even when david is partly to blame, dom committed the crime and him restricting his dms isnt going to make it disappear. He needs to be held accountable",
+            "textOriginal": "Dom needs to be held accountable for what he did, even when david is partly to blame, dom committed the crime and him restricting his dms isnt going to make it disappear. He needs to be held accountable",
+            "authorDisplayName": "Pumpkin Hammy",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhYPxqYj4De9p_DJQxwjg9nirgzO_YsQpfFFb94=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UClKvEZi58EXrPG14qurAa8A",
             "authorChannelId": {
-              "value": "UCTT9KtB4ddp9GzNbHW62-GA"
+              "value": "UClKvEZi58EXrPG14qurAa8A"
             },
             "canRate": true,
             "viewerRating": "none",
-            "likeCount": 5,
-            "publishedAt": "2019-09-28T04:44:00Z",
-            "updatedAt": "2019-09-28T04:44:00Z"
+            "likeCount": 422,
+            "publishedAt": "2021-04-04T16:57:22Z",
+            "updatedAt": "2021-04-04T16:57:22Z"
           }
         },
         "canReply": true,
-        "totalReplyCount": 2,
+        "totalReplyCount": 8,
         "isPublic": true
       }
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "z1Rv6TpdiapNoK1iPBoRFnKXCqE",
-      "id": "UgyoI23mzYZTawKc0Ap4AaABAg",
+      "etag": "miPfOQMylzR3ZbK7xIorn96PbPw",
+      "id": "UgzzmmNfbc4XtVcXV694AaABAg",
       "snippet": {
-        "videoId": "y2euBvdP28c",
+        "videoId": "lB734hc89x8",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "1hCOc6OdpbAYsBaaV-6qVxmW4rA",
-          "id": "UgyoI23mzYZTawKc0Ap4AaABAg",
+          "etag": "Igq6UR0kXpewbGfo-TK_9fD4WYw",
+          "id": "UgzzmmNfbc4XtVcXV694AaABAg",
           "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "great analysis",
-            "textOriginal": "great analysis",
-            "authorDisplayName": "matt_middleton crude_artless",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngNeESS1FgMVIfW8CvKjIhHzkyeFOP1WMhXzw9_SA=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCRUllPMNvnecmWbKp1pwDLA",
+            "videoId": "lB734hc89x8",
+            "textDisplay": "Enough of the “YouTube tea” this is bigger than that now, just get dom in court..?",
+            "textOriginal": "Enough of the “YouTube tea” this is bigger than that now, just get dom in court..?",
+            "authorDisplayName": "Kealan culliney",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhN5JixvVUTeMYLg-QrMmrA17xKMarYM_TK69rLXg=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCr4_wdHovero7SjV6ruzZrQ",
             "authorChannelId": {
-              "value": "UCRUllPMNvnecmWbKp1pwDLA"
+              "value": "UCr4_wdHovero7SjV6ruzZrQ"
             },
             "canRate": true,
             "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2019-08-22T04:22:56Z",
-            "updatedAt": "2019-08-22T04:22:56Z"
+            "likeCount": 2067,
+            "publishedAt": "2021-04-03T19:40:26Z",
+            "updatedAt": "2021-04-03T19:40:26Z"
           }
         },
         "canReply": true,
-        "totalReplyCount": 0,
+        "totalReplyCount": 18,
         "isPublic": true
       }
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "E90sqffAjWEGtg0gmZyLnEDh19U",
-      "id": "UgxZ2oC_itOv6pvlDcF4AaABAg",
+      "etag": "3FkrZyBU-EqwkSS3IZCzCr1KjeQ",
+      "id": "Ugy00UBKMEuVpsHh-AJ4AaABAg",
       "snippet": {
-        "videoId": "y2euBvdP28c",
+        "videoId": "lB734hc89x8",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "O5dhVo_vHhgoymdQeGsEyMBSJE8",
-          "id": "UgxZ2oC_itOv6pvlDcF4AaABAg",
+          "etag": "WLxqz8bm2vy0dElagbubyprenRw",
+          "id": "Ugy00UBKMEuVpsHh-AJ4AaABAg",
           "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "We were never in a position to stop it in the first place.  It already happened four times and we survived the last time.",
-            "textOriginal": "We were never in a position to stop it in the first place.  It already happened four times and we survived the last time.",
-            "authorDisplayName": "Muclutel",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhLxAb8ADlEuXtD3cUEOWqg2MuvpMjaCnutxlXPtg=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCUvnE11UCzHmhUOLI70FO8g",
+            "videoId": "lB734hc89x8",
+            "textDisplay": "thinking about the victims and how they’re feeling about this right now...everything must be so overwhelming.",
+            "textOriginal": "thinking about the victims and how they’re feeling about this right now...everything must be so overwhelming.",
+            "authorDisplayName": "The Truth",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhbSkKIpoN8o4O81Ujhtk1pzqktQ0b68DWGl6sF=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCVCnqqzFDb871VB531pAQzQ",
             "authorChannelId": {
-              "value": "UCUvnE11UCzHmhUOLI70FO8g"
+              "value": "UCVCnqqzFDb871VB531pAQzQ"
             },
             "canRate": true,
             "viewerRating": "none",
-            "likeCount": 1,
-            "publishedAt": "2020-10-27T14:13:01Z",
-            "updatedAt": "2020-10-27T14:13:01Z"
+            "likeCount": 102419,
+            "publishedAt": "2021-03-23T07:16:43Z",
+            "updatedAt": "2021-03-23T07:16:43Z"
           }
         },
         "canReply": true,
-        "totalReplyCount": 1,
+        "totalReplyCount": 462,
         "isPublic": true
       }
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "w_pY-IyGGr6HNCkFKj4T71nUZ6Y",
-      "id": "Ugwf5MhAroSymVBZ2cV4AaABAg",
+      "etag": "lxWQahEvReAakLJJO7eCyqTc-TM",
+      "id": "UgzC2oHZ6AtDy3Y4cpV4AaABAg",
       "snippet": {
-        "videoId": "y2euBvdP28c",
+        "videoId": "lB734hc89x8",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "TlowPSsfonOY-lBmiywR5MSd8tI",
-          "id": "Ugwf5MhAroSymVBZ2cV4AaABAg",
+          "etag": "49QARj-jBiY2ENsDKWf_3qrt6z4",
+          "id": "UgzC2oHZ6AtDy3Y4cpV4AaABAg",
           "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "I gave up on people. We are fucked.\u003cbr /\u003e(So long and thanks for all the fish)",
-            "textOriginal": "I gave up on people. We are fucked.\n(So long and thanks for all the fish)",
-            "authorDisplayName": "mistouko",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjEqNmnySZM9bhoXnbiCHeE35xNMFC0pFFSN2--=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCENwEckHmjlOiAgsFbCWRPg",
+            "videoId": "lB734hc89x8",
+            "textDisplay": "What David did was trash, but it’s Dom who needs to be fucking found and trialed\u003cbr /\u003e\u003cbr /\u003eEdit: after reading some of the replies I wasn’t aware of the full extent of what Dobrik did, so to add to my previous comment, both of them should be in a courtroom next week",
+            "textOriginal": "What David did was trash, but it’s Dom who needs to be fucking found and trialed\n\nEdit: after reading some of the replies I wasn’t aware of the full extent of what Dobrik did, so to add to my previous comment, both of them should be in a courtroom next week",
+            "authorDisplayName": "Ollie Crowley",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngYHEtBlxtwrzBcYbjlrh00xGl0wCFS1Uj22A=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCqhj2uIH5GPducrXXB6XyMw",
             "authorChannelId": {
-              "value": "UCENwEckHmjlOiAgsFbCWRPg"
+              "value": "UCqhj2uIH5GPducrXXB6XyMw"
             },
             "canRate": true,
             "viewerRating": "none",
-            "likeCount": 1,
-            "publishedAt": "2019-10-13T09:14:48Z",
-            "updatedAt": "2019-10-13T09:14:48Z"
+            "likeCount": 1019,
+            "publishedAt": "2021-04-04T11:49:35Z",
+            "updatedAt": "2021-04-05T22:19:19Z"
           }
         },
         "canReply": true,
-        "totalReplyCount": 0,
+        "totalReplyCount": 28,
         "isPublic": true
       }
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "Fg3jttOxtj8GVM_wXO7db_a9EWc",
-      "id": "UgxV_xk_JYRvu45Gqul4AaABAg",
+      "etag": "MOyoY1brvjdl2ifdRVMZOyeszmU",
+      "id": "Ugw8e50g2qzeMZ-9vVF4AaABAg",
       "snippet": {
-        "videoId": "y2euBvdP28c",
+        "videoId": "lB734hc89x8",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "tLOD1dizsPGNBV1QC5be2lROXLI",
-          "id": "UgxV_xk_JYRvu45Gqul4AaABAg",
+          "etag": "B5x20RKI0MJpc7pcZqUKgKY_Jkk",
+          "id": "Ugw8e50g2qzeMZ-9vVF4AaABAg",
           "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "Hi Joe, I am a resident of Kolkata,India . It&#39;s estimated that  by 2050 owing to the rise in Sea level , Our City Of Joy won&#39;t exist. I believe it&#39;s difficult for humanity to exist even another decade , but every Cloud Has A Silver Lining. I chose to protest.\u003cbr /\u003e\u003ca href=\"http://www.youtube.com/results?search_query=%23ExtinctionRebellion\"\u003e#ExtinctionRebellion\u003c/a\u003e.",
-            "textOriginal": "Hi Joe, I am a resident of Kolkata,India . It's estimated that  by 2050 owing to the rise in Sea level , Our City Of Joy won't exist. I believe it's difficult for humanity to exist even another decade , but every Cloud Has A Silver Lining. I chose to protest.\n#ExtinctionRebellion.",
-            "authorDisplayName": "Rongeet Banerjee",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjeo4KlGOUJxmI-lsHL0AptVOV6JYQxkqd9ns1obg=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCFwJfEcZCeRABWadoxh9C9Q",
+            "videoId": "lB734hc89x8",
+            "textDisplay": "imagine any normal non YouTuber celebrity would be in prison already but here we just witness how money can take over that dilemma.",
+            "textOriginal": "imagine any normal non YouTuber celebrity would be in prison already but here we just witness how money can take over that dilemma.",
+            "authorDisplayName": "Yusuf Onder",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngeB15nZiT7953tprrkfmnkzlL50jaxSeUvGfyO-g=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCrLF3oVNukJtEhZge_TezSQ",
             "authorChannelId": {
-              "value": "UCFwJfEcZCeRABWadoxh9C9Q"
+              "value": "UCrLF3oVNukJtEhZge_TezSQ"
             },
             "canRate": true,
             "viewerRating": "none",
-            "likeCount": 2,
-            "publishedAt": "2019-12-10T06:12:18Z",
-            "updatedAt": "2019-12-10T06:12:18Z"
+            "likeCount": 826,
+            "publishedAt": "2021-04-03T06:50:11Z",
+            "updatedAt": "2021-04-03T06:50:11Z"
           }
         },
         "canReply": true,
-        "totalReplyCount": 2,
+        "totalReplyCount": 27,
         "isPublic": true
       }
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "FG_6V1CyevotqJRVIbXc0MVEBdg",
-      "id": "UgzjHqVM7jmR72wZlTN4AaABAg",
+      "etag": "3yTfiTRsiOhra31iM2wM8AzYF0A",
+      "id": "UgwQnbySz-RbhTjY2Ud4AaABAg",
       "snippet": {
-        "videoId": "y2euBvdP28c",
+        "videoId": "lB734hc89x8",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "rEBXPhIB2isdAtdv0s-IE2YwI88",
-          "id": "UgzjHqVM7jmR72wZlTN4AaABAg",
+          "etag": "Sg0UJxJpQFQCrBEAV8yKGZfqdMM",
+          "id": "UgwQnbySz-RbhTjY2Ud4AaABAg",
           "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "Nailed it !",
-            "textOriginal": "Nailed it !",
-            "authorDisplayName": "Deathly Viper",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngxw7cEP7CXNWSNN4oNk9FVZG6IMbGNQd0gDudd=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCIg3NrWiBd5YVBs7LeIppvg",
+            "videoId": "lB734hc89x8",
+            "textDisplay": "I’m here very late but WTF he uploaded!",
+            "textOriginal": "I’m here very late but WTF he uploaded!",
+            "authorDisplayName": "CommenterBruh",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnh5VRSzFM3ixse2M6JvzK0ZBcFO0KAkPNtcXAHv4g=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCzmtEGMAELPbwB3A7gg2r_Q",
             "authorChannelId": {
-              "value": "UCIg3NrWiBd5YVBs7LeIppvg"
+              "value": "UCzmtEGMAELPbwB3A7gg2r_Q"
             },
             "canRate": true,
             "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-02-15T05:23:21Z",
-            "updatedAt": "2021-02-15T05:23:21Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "0IIt_Yp_e4NQI2yRdAMk4AWWJUU",
-      "id": "UgiXgrvGSbZZzHgCoAEC",
-      "snippet": {
-        "videoId": "y2euBvdP28c",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "H9v55hxKiJWO4AeujueSA_AjXYs",
-          "id": "UgiXgrvGSbZZzHgCoAEC",
-          "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "You can even turn it into a religious issue if you say that oil and fossil fuels are the devils piss.",
-            "textOriginal": "You can even turn it into a religious issue if you say that oil and fossil fuels are the devils piss.",
-            "authorDisplayName": "ETHAN WALLING",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwniCd1Na5vXdIGz_FDoC1K_YwmqYXvXxoAGe0A=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCjicU6dYt7UIDxF-w-p-kUA",
-            "authorChannelId": {
-              "value": "UCjicU6dYt7UIDxF-w-p-kUA"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 25,
-            "publishedAt": "2017-06-14T14:16:58Z",
-            "updatedAt": "2017-06-14T14:16:58Z"
+            "likeCount": 88,
+            "publishedAt": "2021-04-05T22:58:47Z",
+            "updatedAt": "2021-04-05T22:58:47Z"
           }
         },
         "canReply": true,
@@ -1289,93 +297,29 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "OxW4LttFodZlqFtBP6qeZe3Z_FA",
-      "id": "UgxmGfMH2yUgsK04N314AaABAg",
+      "etag": "Dbf9qzRee2iNOGvX4MBcugd_0Ho",
+      "id": "UgySgC-zADFVNK4GeCd4AaABAg",
       "snippet": {
-        "videoId": "y2euBvdP28c",
+        "videoId": "lB734hc89x8",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "3tAoiOzROwI-u8BKzbysXPp5Hyg",
-          "id": "UgxmGfMH2yUgsK04N314AaABAg",
+          "etag": "R-kucIYFDQhXC6lGkkjn0otcIwM",
+          "id": "UgySgC-zADFVNK4GeCd4AaABAg",
           "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "All I have to say is, if it becomes a thought, then chances are it does exist.\u003cbr /\u003e Pay attention to the wordings, &quot;Chance&quot; doesn&#39;t mean completely so it&#39;s not one or the other.",
-            "textOriginal": "All I have to say is, if it becomes a thought, then chances are it does exist.\n Pay attention to the wordings, \"Chance\" doesn't mean completely so it's not one or the other.",
-            "authorDisplayName": "Eric Pham",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhsnkXSZ_TKqbDVnJ3J4PtYIAHnJdtp9QyR0lYNpQ=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UClLtIZt-b4_Eh89FsfKamPw",
+            "videoId": "lB734hc89x8",
+            "textDisplay": "this is straight up crime. I feel so sorry for everyone that was involved in this video. and what YouTube and social media has done to some people",
+            "textOriginal": "this is straight up crime. I feel so sorry for everyone that was involved in this video. and what YouTube and social media has done to some people",
+            "authorDisplayName": "Lyla Wilb",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhAj-7HGCMS3fUbR1KESaag2b0iVvfDrnRmPA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCUV4usPUo54tT-lDpddDIEg",
             "authorChannelId": {
-              "value": "UClLtIZt-b4_Eh89FsfKamPw"
+              "value": "UCUV4usPUo54tT-lDpddDIEg"
             },
             "canRate": true,
             "viewerRating": "none",
-            "likeCount": 1,
-            "publishedAt": "2020-12-30T02:12:35Z",
-            "updatedAt": "2020-12-30T02:12:35Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "6zLJ0gcwb8utc7yfmpTjwDa1ufA",
-      "id": "Ugw7g1KemQ9d25OSpwx4AaABAg",
-      "snippet": {
-        "videoId": "y2euBvdP28c",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "l3KymMKlA_GajqUhiQ9bnagL1_A",
-          "id": "Ugw7g1KemQ9d25OSpwx4AaABAg",
-          "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "I think it would help if people were easily informed just as easy as finding out about the Kardashians.... but instead about things they can change everyday to help fight climate change, small things like recycling, buying used clothes or exchanging them with friends, reducing plastic waste, eating local seasonal foods, etc. It should be easy for everyone to do and understand as a start.",
-            "textOriginal": "I think it would help if people were easily informed just as easy as finding out about the Kardashians.... but instead about things they can change everyday to help fight climate change, small things like recycling, buying used clothes or exchanging them with friends, reducing plastic waste, eating local seasonal foods, etc. It should be easy for everyone to do and understand as a start.",
-            "authorDisplayName": "Sam Berkley",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjmCgJ1WSr487l8DSfjF4rk6hMUsCvgX0M_jsIGHQ=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCu8dDR5Wa_7Rxm-YGIropcA",
-            "authorChannelId": {
-              "value": "UCu8dDR5Wa_7Rxm-YGIropcA"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2019-11-05T15:05:59Z",
-            "updatedAt": "2019-11-05T15:05:59Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "QXqjoSTG6CmDTvQJjKATiwkHF4Q",
-      "id": "UgyTvV7hrMuVKU61j2l4AaABAg",
-      "snippet": {
-        "videoId": "y2euBvdP28c",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "geNxapzlbXJUMDcCgppxe8ocL8o",
-          "id": "UgyTvV7hrMuVKU61j2l4AaABAg",
-          "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "People with delusions of grandeur always think that THEIR time is the most important one ever and that their beliefs are all that matter.",
-            "textOriginal": "People with delusions of grandeur always think that THEIR time is the most important one ever and that their beliefs are all that matter.",
-            "authorDisplayName": "CHARLES CHAPMAN",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhre4ZqFdyZbtcaI9JiZPYovTxUvKSR_b9crw=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCc5P8ZqN4zs3XBoGEi36NNA",
-            "authorChannelId": {
-              "value": "UCc5P8ZqN4zs3XBoGEi36NNA"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 4,
-            "publishedAt": "2019-12-06T02:24:36Z",
-            "updatedAt": "2019-12-06T02:25:59Z"
+            "likeCount": 9,
+            "publishedAt": "2021-04-05T13:58:25Z",
+            "updatedAt": "2021-04-05T13:58:25Z"
           }
         },
         "canReply": true,
@@ -1385,29 +329,157 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "p1s6MWTC6Y6oSpr_Zi2VJ8ahjxo",
-      "id": "Ugyar7u6-VIZYQ5IoYp4AaABAg",
+      "etag": "pTv087KlVPuTSHC7N9w9jq60Igk",
+      "id": "UgzxdjTgto9maEYdU8d4AaABAg",
       "snippet": {
-        "videoId": "y2euBvdP28c",
+        "videoId": "lB734hc89x8",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "5PkOCHcEpwOj4mi0758GtLY6WAI",
-          "id": "Ugyar7u6-VIZYQ5IoYp4AaABAg",
+          "etag": "y5bPNtp92lcpqL87HZTuM8rDZvI",
+          "id": "UgzxdjTgto9maEYdU8d4AaABAg",
           "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "Am I the only one who is crying",
-            "textOriginal": "Am I the only one who is crying",
-            "authorDisplayName": "Audrey’s Film’s",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjHySaw20a4bl2i1YgDOWfDYD4BKo8Xex-034T5=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UC77sR8FwXwQQHVdVgMNFUWg",
+            "videoId": "lB734hc89x8",
+            "textDisplay": "Trisha literally saved Jason’s career by telling him to not buy the alcohol and leave.",
+            "textOriginal": "Trisha literally saved Jason’s career by telling him to not buy the alcohol and leave.",
+            "authorDisplayName": "Amanda",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngW6xLp4QEmtFuRKT91q2wp6-jBl6hopcbNGWZ7=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCBZUIuV912K2-DKj15WkkCg",
             "authorChannelId": {
-              "value": "UC77sR8FwXwQQHVdVgMNFUWg"
+              "value": "UCBZUIuV912K2-DKj15WkkCg"
             },
             "canRate": true,
             "viewerRating": "none",
-            "likeCount": 1,
-            "publishedAt": "2019-09-03T04:34:57Z",
-            "updatedAt": "2019-09-03T04:34:57Z"
+            "likeCount": 12642,
+            "publishedAt": "2021-03-24T16:27:36Z",
+            "updatedAt": "2021-03-24T16:27:36Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 152,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "eoSI5-OJXkm0q5YUxGSwH5cIZW0",
+      "id": "UgyCvep4PxSfFsp0Ku14AaABAg",
+      "snippet": {
+        "videoId": "lB734hc89x8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "h_VSi3HHsjX-EHl0KBmyTWwURYs",
+          "id": "UgyCvep4PxSfFsp0Ku14AaABAg",
+          "snippet": {
+            "videoId": "lB734hc89x8",
+            "textDisplay": "Here because of SNL but don’t even know who this dude is which makes me feel all the better.",
+            "textOriginal": "Here because of SNL but don’t even know who this dude is which makes me feel all the better.",
+            "authorDisplayName": "Dayron Leon",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhhyM9rEckzY95Sjd0R-drvxFybM10993OmRRD6Uw=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCqfrq8d4D68v7QvhE9nFbxg",
+            "authorChannelId": {
+              "value": "UCqfrq8d4D68v7QvhE9nFbxg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 129,
+            "publishedAt": "2021-04-04T20:03:55Z",
+            "updatedAt": "2021-04-04T20:03:55Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 8,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "IjO96MMLqnOIFqbqdADSpvLHqDo",
+      "id": "Ugzf0fkzx1_m2kh1Qyp4AaABAg",
+      "snippet": {
+        "videoId": "lB734hc89x8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "uYQmJXcqo9jE2iLYDDm7FHMttwU",
+          "id": "Ugzf0fkzx1_m2kh1Qyp4AaABAg",
+          "snippet": {
+            "videoId": "lB734hc89x8",
+            "textDisplay": "I&#39;ve been sexually assaulted and if that person were to make a video like this (I&#39;m not saying all experiences are the same; all trauma is unique) then I would feel nothing and no personal healing would come from it. The only healing that could come out of this is for future situations. Situations like this, where such awareness is raised, can allow people the opportunity to educate themselves more about consent and SA/SH/R.\u003cbr /\u003ePeace and love to all survivors; you are all beautiful and deserving of love. &lt;3",
+            "textOriginal": "I've been sexually assaulted and if that person were to make a video like this (I'm not saying all experiences are the same; all trauma is unique) then I would feel nothing and no personal healing would come from it. The only healing that could come out of this is for future situations. Situations like this, where such awareness is raised, can allow people the opportunity to educate themselves more about consent and SA/SH/R.\nPeace and love to all survivors; you are all beautiful and deserving of love. \u003c3",
+            "authorDisplayName": "Anna Stephens",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjy83s9x_rn3XkvqjqW8bV1_ZnOAjvzqO_-emU0=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCdRk0ZyGEcCz2u6aS4DwmyQ",
+            "authorChannelId": {
+              "value": "UCdRk0ZyGEcCz2u6aS4DwmyQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 11,
+            "publishedAt": "2021-04-05T12:14:01Z",
+            "updatedAt": "2021-04-05T12:14:01Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "PKrlg8lHWVgriEc0DiccF_BpDDs",
+      "id": "UgyDKqTWz9KZ3Q9U1kF4AaABAg",
+      "snippet": {
+        "videoId": "lB734hc89x8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "YB5R_flLfaZ5wARlCaWb4H7GkO8",
+          "id": "UgyDKqTWz9KZ3Q9U1kF4AaABAg",
+          "snippet": {
+            "videoId": "lB734hc89x8",
+            "textDisplay": "David isn’t even the one who did the crime and although the still fucked up, he looks like he cares more than dom does. He literally broke down midway thru a sentence and it wasn’t a “fake breakdown”. You could see him slowly break apart",
+            "textOriginal": "David isn’t even the one who did the crime and although the still fucked up, he looks like he cares more than dom does. He literally broke down midway thru a sentence and it wasn’t a “fake breakdown”. You could see him slowly break apart",
+            "authorDisplayName": "Ongkush Banik",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnj9v_B4oAV-Bu9Y5SJh6tFCXRIYlTbAOp3Aq2eEZQ=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCPlJQi727emm0DUePpZZKDQ",
+            "authorChannelId": {
+              "value": "UCPlJQi727emm0DUePpZZKDQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 81,
+            "publishedAt": "2021-04-05T03:05:43Z",
+            "updatedAt": "2021-04-05T03:05:43Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 3,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "6B6gJCZuGsjZfNfmJPnH9-gwi_U",
+      "id": "UgyDzEbDBzFycMfO3eJ4AaABAg",
+      "snippet": {
+        "videoId": "lB734hc89x8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "tTHfQ0OwPt7ocJWdqRh_X7DY4Ic",
+          "id": "UgyDzEbDBzFycMfO3eJ4AaABAg",
+          "snippet": {
+            "videoId": "lB734hc89x8",
+            "textDisplay": "Dim doesn&#39;t need a &quot;apology&quot; he needs to be in prison for this many years🔽",
+            "textOriginal": "Dim doesn't need a \"apology\" he needs to be in prison for this many years🔽",
+            "authorDisplayName": "jaybird kelley",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhwGEb6fb2muTp2FIZUugDTNtzzOs0iR4c8CkM=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC6ChVhdhTd3Dl1xKpNf9AxQ",
+            "authorChannelId": {
+              "value": "UC6ChVhdhTd3Dl1xKpNf9AxQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 15,
+            "publishedAt": "2021-04-06T03:20:23Z",
+            "updatedAt": "2021-04-06T03:20:23Z"
           }
         },
         "canReply": true,
@@ -1417,61 +489,445 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "e30nIQ__VSyI5W_rYrmazXul0qc",
-      "id": "Ugj2mqWZZmQiAXgCoAEC",
+      "etag": "VdsiKl3SV2Ufr5kDh7asJmmg8MA",
+      "id": "Ugy5RhveibHA-QVQIxJ4AaABAg",
       "snippet": {
-        "videoId": "y2euBvdP28c",
+        "videoId": "lB734hc89x8",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "fRgWgDmlKdoDiM0W9Ibne_4xgkM",
-          "id": "Ugj2mqWZZmQiAXgCoAEC",
+          "etag": "esxlUE0R6cj8GSC5E2syNX38Cdw",
+          "id": "Ugy5RhveibHA-QVQIxJ4AaABAg",
           "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "Haven&#39;t even finished watching, but I am super excited!  Communication science is something that I have been focusing on lately.  As a future nuclear engineer (fingers crossed), nuclear has a lot of the same communication problems that climate change does.",
-            "textOriginal": "Haven't even finished watching, but I am super excited!  Communication science is something that I have been focusing on lately.  As a future nuclear engineer (fingers crossed), nuclear has a lot of the same communication problems that climate change does.",
-            "authorDisplayName": "Christopher Willis",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhmIfCzrme6KUCSJla8AuwntZg0jNIjmBnKlaPx=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCHdoXygnvu16DlyhlMBH-SA",
+            "videoId": "lB734hc89x8",
+            "textDisplay": "Dom doesn’t need to do an apology, he needs to be in jail.",
+            "textOriginal": "Dom doesn’t need to do an apology, he needs to be in jail.",
+            "authorDisplayName": "Kevin L",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhuN3L_cL8SzIQbSJJrAOziyZNDJUM6KHpoz68C=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCw4SyeSKFSr97fQG33P4_Fg",
             "authorChannelId": {
-              "value": "UCHdoXygnvu16DlyhlMBH-SA"
+              "value": "UCw4SyeSKFSr97fQG33P4_Fg"
             },
             "canRate": true,
             "viewerRating": "none",
-            "likeCount": 74,
-            "publishedAt": "2014-12-15T23:08:33Z",
-            "updatedAt": "2014-12-15T23:08:33Z"
+            "likeCount": 12909,
+            "publishedAt": "2021-03-23T13:36:08Z",
+            "updatedAt": "2021-03-23T13:36:08Z"
           }
         },
         "canReply": true,
-        "totalReplyCount": 36,
+        "totalReplyCount": 77,
         "isPublic": true
       }
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "FtkyaM_YlIeJf_x4VWMR36KCmAo",
-      "id": "Ugwu3jPOfftALKkNnRh4AaABAg",
+      "etag": "atIIyasLXyL5IYng9x78gBIiyQY",
+      "id": "Ugx7YNUUYQsKu8UWNoJ4AaABAg",
       "snippet": {
-        "videoId": "y2euBvdP28c",
+        "videoId": "lB734hc89x8",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "Ic024j9sTABXUo3coHbTVQEL8u4",
-          "id": "Ugwu3jPOfftALKkNnRh4AaABAg",
+          "etag": "exT5MrBPaG1Lg_UVjXN0Jqa7eB0",
+          "id": "Ugx7YNUUYQsKu8UWNoJ4AaABAg",
           "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "\u003ca href=\"https://geology.utah.gov/map-pub/survey-notes/glad-you-asked/ice-ages-what-are-they-and-what-causes-them/\"\u003ehttps://geology.utah.gov/map-pub/survey-notes/glad-you-asked/ice-ages-what-are-they-and-what-causes-them/\u003c/a\u003e",
-            "textOriginal": "https://geology.utah.gov/map-pub/survey-notes/glad-you-asked/ice-ages-what-are-they-and-what-causes-them/",
-            "authorDisplayName": "M M",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnh58hf9gDS0-8heAJJwCjgQTRMIaYUNjA28TQ=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCNFZ52LVGptNMZrnU4R-fxQ",
+            "videoId": "lB734hc89x8",
+            "textDisplay": "This is the right way to address this.. I feel like he’s genuinely scared for his future though. His “jokes” caught up with him.",
+            "textOriginal": "This is the right way to address this.. I feel like he’s genuinely scared for his future though. His “jokes” caught up with him.",
+            "authorDisplayName": "S Gy",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnj8SpTKFizHdJ6klITVq5HanqCujEI_kW4guw=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCCOQ-YWYb47MRgMHCEeEKrQ",
             "authorChannelId": {
-              "value": "UCNFZ52LVGptNMZrnU4R-fxQ"
+              "value": "UCCOQ-YWYb47MRgMHCEeEKrQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 113,
+            "publishedAt": "2021-04-03T08:12:51Z",
+            "updatedAt": "2021-04-03T08:12:51Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 4,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "6mlY5hIh13QCzY0xApP1vOa8l_s",
+      "id": "Ugw5vZGJaZEtYIQ2A194AaABAg",
+      "snippet": {
+        "videoId": "lB734hc89x8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "YmHqlfXPYT3c80Y8_cHo3NuPpHk",
+          "id": "Ugw5vZGJaZEtYIQ2A194AaABAg",
+          "snippet": {
+            "videoId": "lB734hc89x8",
+            "textDisplay": "I never liked dom and this doesn’t change anything.",
+            "textOriginal": "I never liked dom and this doesn’t change anything.",
+            "authorDisplayName": "DrBenzedrine",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwniUDTuX7buBiPMLmPjgK7kPpZdNpO0uXn3QZXEkYA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCgLcElYtFGXT8kOL6ENXLOQ",
+            "authorChannelId": {
+              "value": "UCgLcElYtFGXT8kOL6ENXLOQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 46,
+            "publishedAt": "2021-04-03T23:42:57Z",
+            "updatedAt": "2021-04-03T23:42:57Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "steXm4D3f_gJVx2o2Od8pyNZ_RY",
+      "id": "UgxbX_EQDlV-NEk5yZZ4AaABAg",
+      "snippet": {
+        "videoId": "lB734hc89x8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "MLiEDmtHSKpP8FTaLc1gJh7rf6Q",
+          "id": "UgxbX_EQDlV-NEk5yZZ4AaABAg",
+          "snippet": {
+            "videoId": "lB734hc89x8",
+            "textDisplay": "Finally a video that’s longer then 4 minutes and 20 seconds",
+            "textOriginal": "Finally a video that’s longer then 4 minutes and 20 seconds",
+            "authorDisplayName": "Peso Plays",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwni1IzFhrjv2YgRb6h7JAQGVVXd7sl_PipQMZA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCJfCqPq-hYmH1OsR8J-6mPQ",
+            "authorChannelId": {
+              "value": "UCJfCqPq-hYmH1OsR8J-6mPQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 79,
+            "publishedAt": "2021-04-05T13:30:07Z",
+            "updatedAt": "2021-04-05T13:30:07Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 3,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "jPw_kJ5TovqJ6kwSGaVP8ALUc94",
+      "id": "UgzdW25cT2jwiFueDsV4AaABAg",
+      "snippet": {
+        "videoId": "lB734hc89x8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "PRD6rMjT9HT7-iOombThapZwv9g",
+          "id": "UgzdW25cT2jwiFueDsV4AaABAg",
+          "snippet": {
+            "videoId": "lB734hc89x8",
+            "textDisplay": "This is way to sad. I just can&#39;t with our world. It&#39;s not right.",
+            "textOriginal": "This is way to sad. I just can't with our world. It's not right.",
+            "authorDisplayName": "L&S",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngdQHrr60c0qbVn1XYz0WyjElnZY-KITiNcvdNs=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCaTE02wYEMGipC-TRGaR14g",
+            "authorChannelId": {
+              "value": "UCaTE02wYEMGipC-TRGaR14g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 34,
+            "publishedAt": "2021-04-03T02:57:59Z",
+            "updatedAt": "2021-04-03T02:57:59Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "sWTtiQM-jMDGus3m8voGZT90Xys",
+      "id": "Ugy5iC2U7kWZGoqjZv94AaABAg",
+      "snippet": {
+        "videoId": "lB734hc89x8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "cFjbPFpMsjvS09jQk6sQS4ByFzA",
+          "id": "Ugy5iC2U7kWZGoqjZv94AaABAg",
+          "snippet": {
+            "videoId": "lB734hc89x8",
+            "textDisplay": "“dom has to apologize”\r\u003cbr /\u003eno bro he need to go jail this isn’t some scandal this is a CRIME",
+            "textOriginal": "“dom has to apologize”\r\nno bro he need to go jail this isn’t some scandal this is a CRIME",
+            "authorDisplayName": "Cranekai",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhf57knew8EbUb6z9-rYNikepS26eU-BQoXTDRO=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCpct-fykki_GGfAgZzC1dGA",
+            "authorChannelId": {
+              "value": "UCpct-fykki_GGfAgZzC1dGA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 12831,
+            "publishedAt": "2021-03-23T14:51:22Z",
+            "updatedAt": "2021-03-23T14:51:22Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 129,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "r3hsPPPD-BNNFTudgKZCO8wD2pU",
+      "id": "Ugz8p2FLyX5lh0Sfw7l4AaABAg",
+      "snippet": {
+        "videoId": "lB734hc89x8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "bdtVQ-OwHgorUij59NpZQQgAHXk",
+          "id": "Ugz8p2FLyX5lh0Sfw7l4AaABAg",
+          "snippet": {
+            "videoId": "lB734hc89x8",
+            "textDisplay": "I feel like he’s just sad that he got canceled.",
+            "textOriginal": "I feel like he’s just sad that he got canceled.",
+            "authorDisplayName": "CheEzY_ HQ",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhrXXzQWrCXxm3nXo8Qrp2c8YeJzpYi98nmnz2rJg=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCgS-6UHOXNPYiMMxCeSnUbQ",
+            "authorChannelId": {
+              "value": "UCgS-6UHOXNPYiMMxCeSnUbQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 112,
+            "publishedAt": "2021-04-05T00:29:34Z",
+            "updatedAt": "2021-04-05T00:29:34Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 10,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "RK0bwIZN-s88mr3vmrOztR0fkuc",
+      "id": "Ugzvr6RKyO7k3Sw2YJ14AaABAg",
+      "snippet": {
+        "videoId": "lB734hc89x8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "LxeueO4D5nhEdEfIoR7K0SxAw7Y",
+          "id": "Ugzvr6RKyO7k3Sw2YJ14AaABAg",
+          "snippet": {
+            "videoId": "lB734hc89x8",
+            "textDisplay": "How are you guys forgetting that David was the one who orchestrated the whole situation and that it was HIS video that is monetized (i.e. he clearly benefitted from this content and the girl probably wouldn&#39;t have been raped but for him knowingly enabling this situation)? Both of them need to have harder consequences.",
+            "textOriginal": "How are you guys forgetting that David was the one who orchestrated the whole situation and that it was HIS video that is monetized (i.e. he clearly benefitted from this content and the girl probably wouldn't have been raped but for him knowingly enabling this situation)? Both of them need to have harder consequences.",
+            "authorDisplayName": "Jane",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngL1BLVvmXMXVWLKY1laKYGbqhPBjMt0AvWoQ=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCYTDjicd-NsXcoc9ludjlOg",
+            "authorChannelId": {
+              "value": "UCYTDjicd-NsXcoc9ludjlOg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 8,
+            "publishedAt": "2021-04-06T07:34:58Z",
+            "updatedAt": "2021-04-06T07:34:58Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "EEZNHFVer7WeBQwScAc7L5nxWyc",
+      "id": "Ugy_f5np3qpJaU5S5094AaABAg",
+      "snippet": {
+        "videoId": "lB734hc89x8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "7os8l77-RW02M3QHjKqrQQGfuJ4",
+          "id": "Ugy_f5np3qpJaU5S5094AaABAg",
+          "snippet": {
+            "videoId": "lB734hc89x8",
+            "textDisplay": "We all know he’s determined to express his feelings, he went over \u003ca href=\"https://www.youtube.com/watch?v=lB734hc89x8&amp;t=4m21s\"\u003e4:21\u003c/a\u003e🤯",
+            "textOriginal": "We all know he’s determined to express his feelings, he went over 4:21🤯",
+            "authorDisplayName": "Kevin Knotts",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhriLsRNMSYiXR4c4dk3IaugqsRWviiyZOx4CGH=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC9ml2-idJvnfW876ygoAIxA",
+            "authorChannelId": {
+              "value": "UC9ml2-idJvnfW876ygoAIxA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 10,
+            "publishedAt": "2021-04-04T12:23:39Z",
+            "updatedAt": "2021-04-04T12:23:39Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "abvejc8WXkHy2ijN5oGtGIFNVeU",
+      "id": "UgzIcbob0c_gJ8aBvM54AaABAg",
+      "snippet": {
+        "videoId": "lB734hc89x8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "5F8B1sQ41W0p_BM0ltJb3qpuf_I",
+          "id": "UgzIcbob0c_gJ8aBvM54AaABAg",
+          "snippet": {
+            "videoId": "lB734hc89x8",
+            "textDisplay": "Enablers need to be held accountable!!",
+            "textOriginal": "Enablers need to be held accountable!!",
+            "authorDisplayName": "Meli Havoc",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnh5Lbx2QWIxG_KK5wLqPs-3yoBRAQZgRMEcwDg8=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCduWyC-J4iN4keDaboIZ4zg",
+            "authorChannelId": {
+              "value": "UCduWyC-J4iN4keDaboIZ4zg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 3,
+            "publishedAt": "2021-04-03T07:08:33Z",
+            "updatedAt": "2021-04-03T07:09:33Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "PiM7ASW-vPEjmT-L44HEIwlEAWI",
+      "id": "UgxUcknQiWfVRcAEl1J4AaABAg",
+      "snippet": {
+        "videoId": "lB734hc89x8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Q0aohELxLY5rKcd5Cp9bvBN5Isw",
+          "id": "UgxUcknQiWfVRcAEl1J4AaABAg",
+          "snippet": {
+            "videoId": "lB734hc89x8",
+            "textDisplay": "1 week ago?! What was I doing all week?",
+            "textOriginal": "1 week ago?! What was I doing all week?",
+            "authorDisplayName": "Taizya Kaite",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwniR_tUwmMYemHz7a12sB3_wPrlvok-4vkkRSTt9=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCR5spNI9G2PEjzzLHzyXx6g",
+            "authorChannelId": {
+              "value": "UCR5spNI9G2PEjzzLHzyXx6g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 6,
+            "publishedAt": "2021-04-05T11:32:21Z",
+            "updatedAt": "2021-04-05T11:32:21Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "lUYV0-f6eb4_tsFYoVUcELwNqao",
+      "id": "Ugzfj4J5uovtj4pzKBt4AaABAg",
+      "snippet": {
+        "videoId": "lB734hc89x8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "6m-x6MAhkz3ki_1Y60ttNt-C0w4",
+          "id": "Ugzfj4J5uovtj4pzKBt4AaABAg",
+          "snippet": {
+            "videoId": "lB734hc89x8",
+            "textDisplay": "Everyone watching this. May you be blessed in every way possible 🙏🏻❤️",
+            "textOriginal": "Everyone watching this. May you be blessed in every way possible 🙏🏻❤️",
+            "authorDisplayName": "Rafeeq Adams",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwniOhX7eVnOcJ3Sb4iFV_hkYpokQHXbu-9LYzA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC-UPHectL3DxQXOBaI3NYNQ",
+            "authorChannelId": {
+              "value": "UC-UPHectL3DxQXOBaI3NYNQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 28,
+            "publishedAt": "2021-04-04T20:59:27Z",
+            "updatedAt": "2021-04-04T20:59:27Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "-Ud42yOXGhsG9mPJfeNaytj4GJE",
+      "id": "Ugys0-fyIt4TdPqzybZ4AaABAg",
+      "snippet": {
+        "videoId": "lB734hc89x8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "miXsZx2Chn8KPEo9D9XHD25xJDY",
+          "id": "Ugys0-fyIt4TdPqzybZ4AaABAg",
+          "snippet": {
+            "videoId": "lB734hc89x8",
+            "textDisplay": "I can&#39;t imagine how to victims are going through right now. This must be so horrible for them.",
+            "textOriginal": "I can't imagine how to victims are going through right now. This must be so horrible for them.",
+            "authorDisplayName": "Itz Axdii",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngzbxBilCnz5EgGVfw6XympIMTHgWidarcKYLMNnQ=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC_cJSCrnEJR1AH2aJm1mf-g",
+            "authorChannelId": {
+              "value": "UC_cJSCrnEJR1AH2aJm1mf-g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 28,
+            "publishedAt": "2021-04-04T01:32:26Z",
+            "updatedAt": "2021-04-04T01:32:26Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "JfZtrdMmDMP_G8KrqWe6gvnNWqA",
+      "id": "Ugwoq_ZEw6THsFkzuTB4AaABAg",
+      "snippet": {
+        "videoId": "lB734hc89x8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Mqhh3u3F8-nHRUheA0RVFo3gKnY",
+          "id": "Ugwoq_ZEw6THsFkzuTB4AaABAg",
+          "snippet": {
+            "videoId": "lB734hc89x8",
+            "textDisplay": "Crazy that I ended up here after the SNL parody. Things just took a dark turn.",
+            "textOriginal": "Crazy that I ended up here after the SNL parody. Things just took a dark turn.",
+            "authorDisplayName": "B.A.P",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhvXSzjaJFphZNVODBNO0zev2fbA7ixMm3-aA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCs6tHPLwjXmexVVdv-ycq5A",
+            "authorChannelId": {
+              "value": "UCs6tHPLwjXmexVVdv-ycq5A"
             },
             "canRate": true,
             "viewerRating": "none",
             "likeCount": 0,
-            "publishedAt": "2019-08-28T23:34:49Z",
-            "updatedAt": "2019-08-28T23:34:49Z"
+            "publishedAt": "2021-04-05T13:43:36Z",
+            "updatedAt": "2021-04-05T13:43:36Z"
           }
         },
         "canReply": true,
@@ -1481,29 +937,125 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "dHlSliNKx0jDQrsMM99pH2YHclk",
-      "id": "Ugwqb-8d6JBJnE0FVHd4AaABAg",
+      "etag": "jSDNnBa0bz588FF4NEmuwEFzeCI",
+      "id": "UgzzqwF59QAXZhfVN2F4AaABAg",
       "snippet": {
-        "videoId": "y2euBvdP28c",
+        "videoId": "lB734hc89x8",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "-2wy1b7hHG3QZYOABdBtO2X6Eq4",
-          "id": "Ugwqb-8d6JBJnE0FVHd4AaABAg",
+          "etag": "4yKR78dVNprupZYBkxAeX9sHy0A",
+          "id": "UgzzqwF59QAXZhfVN2F4AaABAg",
           "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "I care about the environment but I care about myself more🤣",
-            "textOriginal": "I care about the environment but I care about myself more🤣",
-            "authorDisplayName": "Hector Rodriguez",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhzDMeHwNYrnQZ8bgSIM29jvli7u-jNN8HqssyD=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCJiTXD5SfjEKB3S3PjCUY6A",
+            "videoId": "lB734hc89x8",
+            "textDisplay": "This just made SNL “Serious Vid (Not a Joke or Prank)”",
+            "textOriginal": "This just made SNL “Serious Vid (Not a Joke or Prank)”",
+            "authorDisplayName": "SoupLaLa !",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwniULrnaq_ltHRcT50cbzJwtBxiLR31nm78GiJmL=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCUvJEnfn46CJKiW2Jdn2Q2w",
             "authorChannelId": {
-              "value": "UCJiTXD5SfjEKB3S3PjCUY6A"
+              "value": "UCUvJEnfn46CJKiW2Jdn2Q2w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 29,
+            "publishedAt": "2021-04-04T03:55:58Z",
+            "updatedAt": "2021-04-04T03:55:58Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "FUVeCUeGRFf_9YRlRLRdBPCQGMo",
+      "id": "UgyLF6AR4B_wBPx7SEN4AaABAg",
+      "snippet": {
+        "videoId": "lB734hc89x8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "CMaloOAxMpZqy5CyA5-I-vB5YwQ",
+          "id": "UgyLF6AR4B_wBPx7SEN4AaABAg",
+          "snippet": {
+            "videoId": "lB734hc89x8",
+            "textDisplay": "I swear if his next video is &quot;SURPRISING ALL THE VICTIMS WITH A BRAND NEW TESLA!!&quot;",
+            "textOriginal": "I swear if his next video is \"SURPRISING ALL THE VICTIMS WITH A BRAND NEW TESLA!!\"",
+            "authorDisplayName": "Carlos Cobian",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjeKEfEwS0zBapcpP8xNHwWbqx3ZcH0Shu9FM7v=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCjO366QiqeaQuWgZj6Zq1nw",
+            "authorChannelId": {
+              "value": "UCjO366QiqeaQuWgZj6Zq1nw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 87,
+            "publishedAt": "2021-04-04T21:59:36Z",
+            "updatedAt": "2021-04-04T21:59:36Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 6,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "-38a22FVOXbto_dpIuW5CtYGkiA",
+      "id": "Ugz3XHKQI3hk4aXh6Eh4AaABAg",
+      "snippet": {
+        "videoId": "lB734hc89x8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "NJDotsbLXTRpuWZQDbBgA3833Yk",
+          "id": "Ugz3XHKQI3hk4aXh6Eh4AaABAg",
+          "snippet": {
+            "videoId": "lB734hc89x8",
+            "textDisplay": "We can’t keep letting famous people get away with things, an apology is always so empty. We need actions.",
+            "textOriginal": "We can’t keep letting famous people get away with things, an apology is always so empty. We need actions.",
+            "authorDisplayName": "Gabriel Duenez",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwng6gfKcxxIbMHendkv4jOPqwlWyUF9EwpbazA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCJt1Puzz54NjNax-bITVIrg",
+            "authorChannelId": {
+              "value": "UCJt1Puzz54NjNax-bITVIrg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-04-06T16:51:11Z",
+            "updatedAt": "2021-04-06T16:51:11Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "j-iqQvLvX4F_Wy4lEeNKj8l7PP4",
+      "id": "Ugwz7W3rqMYv3hx3oxl4AaABAg",
+      "snippet": {
+        "videoId": "lB734hc89x8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Aty8H0lFHzADXXSIswllxENTRlw",
+          "id": "Ugwz7W3rqMYv3hx3oxl4AaABAg",
+          "snippet": {
+            "videoId": "lB734hc89x8",
+            "textDisplay": "THIS VIDEO wouldn&#39;t BE possibly WITH OUT HONEY 😌😌",
+            "textOriginal": "THIS VIDEO wouldn't BE possibly WITH OUT HONEY 😌😌",
+            "authorDisplayName": "Romeo Saunders",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjAATaWHpFsf1RYYndUuGUEe38KrLTjA887AiZOxg=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCUoWTr5bDnQRjQRtVxOGJkA",
+            "authorChannelId": {
+              "value": "UCUoWTr5bDnQRjQRtVxOGJkA"
             },
             "canRate": true,
             "viewerRating": "none",
             "likeCount": 2,
-            "publishedAt": "2019-07-30T23:49:44Z",
-            "updatedAt": "2019-07-30T23:49:44Z"
+            "publishedAt": "2021-04-05T21:18:32Z",
+            "updatedAt": "2021-04-05T21:18:32Z"
           }
         },
         "canReply": true,
@@ -1513,97 +1065,545 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "b77UbaMScpxQ9iMswB8R0X2zB-w",
-      "id": "UgyR8ddqM0q3o0lFwwl4AaABAg",
+      "etag": "ONhIPgxiozEqMU_pse1R73JuIFA",
+      "id": "UgzeKlxQOzkewGQDj4F4AaABAg",
       "snippet": {
-        "videoId": "y2euBvdP28c",
+        "videoId": "lB734hc89x8",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "gQJYLRJgQfXdz7_PiwPV-j5iwW8",
-          "id": "UgyR8ddqM0q3o0lFwwl4AaABAg",
+          "etag": "ON_Wg0LlUz8-p3gQ8rL8VQPtSRM",
+          "id": "UgzeKlxQOzkewGQDj4F4AaABAg",
           "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "A video about the psychology of climate hysteria would be even more interesting. People love to get scared and fight for a noble cause, especially if they can look at themselves as the heroes.",
-            "textOriginal": "A video about the psychology of climate hysteria would be even more interesting. People love to get scared and fight for a noble cause, especially if they can look at themselves as the heroes.",
-            "authorDisplayName": "Birdie Nam",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwni3AVMmVHgAD9f7wuAK8mCaO3V3HVWoZ5WvTnT6=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UC6COhF7oHeZORAv4mUjSfpw",
+            "videoId": "lB734hc89x8",
+            "textDisplay": "“dom has to apologize”\r\u003cbr /\u003eno bro he need to go jail this isn’t some scandal this is a CRIME",
+            "textOriginal": "“dom has to apologize”\r\nno bro he need to go jail this isn’t some scandal this is a CRIME",
+            "authorDisplayName": "EzZ ClipS",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhxiOcWffjaVg9EQzOiuDieoSYoNOBHPsbiuCU-=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC7iOQR5S6_S-SapQ_LizWHQ",
             "authorChannelId": {
-              "value": "UC6COhF7oHeZORAv4mUjSfpw"
+              "value": "UC7iOQR5S6_S-SapQ_LizWHQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 9026,
+            "publishedAt": "2021-03-26T16:26:57Z",
+            "updatedAt": "2021-03-26T16:26:57Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 73,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "jTnwcrGPm4-mY2OrI7FUGknRqYk",
+      "id": "Ugzw5pZuSPPa56mA5gZ4AaABAg",
+      "snippet": {
+        "videoId": "lB734hc89x8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Cf-0mmFFDkuvyaIdNwJFhhDHV6s",
+          "id": "Ugzw5pZuSPPa56mA5gZ4AaABAg",
+          "snippet": {
+            "videoId": "lB734hc89x8",
+            "textDisplay": "I knew something was up with dom being all this and that but i never expected he would do something like that to somone.",
+            "textOriginal": "I knew something was up with dom being all this and that but i never expected he would do something like that to somone.",
+            "authorDisplayName": "Angie Escalera",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjTagDFr8DGwLSIUfISlS3CnjBy9ItxVyPm5vBkWw=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCp6nEPlaumg9lQrzJ2qUxPA",
+            "authorChannelId": {
+              "value": "UCp6nEPlaumg9lQrzJ2qUxPA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-04-05T22:21:16Z",
+            "updatedAt": "2021-04-05T22:21:16Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Kr674YTAViGp2K26EIKdTbpsutk",
+      "id": "Ugx38FXjJsSi2iLLKrF4AaABAg",
+      "snippet": {
+        "videoId": "lB734hc89x8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "g7q4jyVEkAZNJ7QLUDm9jUIyIos",
+          "id": "Ugx38FXjJsSi2iLLKrF4AaABAg",
+          "snippet": {
+            "videoId": "lB734hc89x8",
+            "textDisplay": "What a strange and controversial year for international YouTube. 1-2 weeks ago we heard about scandal with David Dobrik, now we are listening about James Charles😕",
+            "textOriginal": "What a strange and controversial year for international YouTube. 1-2 weeks ago we heard about scandal with David Dobrik, now we are listening about James Charles😕",
+            "authorDisplayName": "Bartek Mazur",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhsZoMTt8Ru8dspz0SnyqqoVeCKNnU2lEYhZg=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC3pBK66Iyt7iN48D7rGE2AQ",
+            "authorChannelId": {
+              "value": "UC3pBK66Iyt7iN48D7rGE2AQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2021-04-05T22:02:38Z",
+            "updatedAt": "2021-04-05T22:02:38Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "BfKpujTHROgRzI2MKTEmdTtUy2M",
+      "id": "UgyhfxpT8lCFlrILD3V4AaABAg",
+      "snippet": {
+        "videoId": "lB734hc89x8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "CIKSrYcXVJIlOIU6gMuYpgBAh_g",
+          "id": "UgyhfxpT8lCFlrILD3V4AaABAg",
+          "snippet": {
+            "videoId": "lB734hc89x8",
+            "textDisplay": "It’s disgusting the fact he made an apology video where he was lying about the situation really shows his true colours, now he’s doing this video in order to save his career. Certainly not because he’s sorry for his actions",
+            "textOriginal": "It’s disgusting the fact he made an apology video where he was lying about the situation really shows his true colours, now he’s doing this video in order to save his career. Certainly not because he’s sorry for his actions",
+            "authorDisplayName": "HAX",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnj2szNXpj7XR9_lL8OF1H8lFY3dbCEwBvDASr6Jvw=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCsSgtwQv5m9AC7jpa6v7FiA",
+            "authorChannelId": {
+              "value": "UCsSgtwQv5m9AC7jpa6v7FiA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2021-04-04T20:05:19Z",
+            "updatedAt": "2021-04-04T20:05:19Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "n7OPbri8QHXaZLi0JJqiEGZ1zBk",
+      "id": "UgxbV_dQKPN-7V7mpbx4AaABAg",
+      "snippet": {
+        "videoId": "lB734hc89x8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "h6HFhpWKJZmUVRy_U7lapMiOC30",
+          "id": "UgxbV_dQKPN-7V7mpbx4AaABAg",
+          "snippet": {
+            "videoId": "lB734hc89x8",
+            "textDisplay": "YouTuber apology video checklist\u003cbr /\u003e-obscure or simple title: ✔\u003cbr /\u003e-no music: ✔\u003cbr /\u003e-sigh in the beginning: ✖\u003cbr /\u003e-saying &quot;THIS time I&#39;m sincere&quot;, even though by the time his next apology video rolls by he&#39;ll admit once again he was lying about being sincere: ✔",
+            "textOriginal": "YouTuber apology video checklist\n-obscure or simple title: ✔\n-no music: ✔\n-sigh in the beginning: ✖\n-saying \"THIS time I'm sincere\", even though by the time his next apology video rolls by he'll admit once again he was lying about being sincere: ✔",
+            "authorDisplayName": "CraZGuy Kwan",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngEzjEczy15L__i3Fbql5YEe_3jsVmTW7EvXPkT=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCinSSuBEKGHiha3X39lxouA",
+            "authorChannelId": {
+              "value": "UCinSSuBEKGHiha3X39lxouA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 55,
+            "publishedAt": "2021-04-04T11:41:11Z",
+            "updatedAt": "2021-04-04T11:41:11Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "MWdCL2Z_IEELCgebBWYMw0b1epA",
+      "id": "UgwPl00c8TrcWpUdtQp4AaABAg",
+      "snippet": {
+        "videoId": "lB734hc89x8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "qi0Eyhrq9iN8HOiOFeEk6h9-FFU",
+          "id": "UgwPl00c8TrcWpUdtQp4AaABAg",
+          "snippet": {
+            "videoId": "lB734hc89x8",
+            "textDisplay": "Crazy how DurteDom posted a sponsored ad on tiktok 6 days ago like nothing was happening 😳 how long is he going to ignore this for?",
+            "textOriginal": "Crazy how DurteDom posted a sponsored ad on tiktok 6 days ago like nothing was happening 😳 how long is he going to ignore this for?",
+            "authorDisplayName": "Viral Vision",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngO2h70xLItJDwj8ZQO9DTp8jPo2ERQReyjlVQ2bw=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCbiT0LUIbQj6CQScvWHJeKQ",
+            "authorChannelId": {
+              "value": "UCbiT0LUIbQj6CQScvWHJeKQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 38737,
+            "publishedAt": "2021-03-23T09:39:14Z",
+            "updatedAt": "2021-03-23T09:39:14Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 222,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "XfAd8ZQsqa9zudhNzVDia08mFw4",
+      "id": "Ugzzzu1pKhOIs6G8ZtR4AaABAg",
+      "snippet": {
+        "videoId": "lB734hc89x8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "cQrB38j58YlHAtSC2B1ziNhTHjs",
+          "id": "Ugzzzu1pKhOIs6G8ZtR4AaABAg",
+          "snippet": {
+            "videoId": "lB734hc89x8",
+            "textDisplay": "I am noticing the classic “apology video hate” despite it being truthful or untruthful.",
+            "textOriginal": "I am noticing the classic “apology video hate” despite it being truthful or untruthful.",
+            "authorDisplayName": "Cearo",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjc9Llfj33InY8LYg7tXXqnayoLWJ_1QIae8w=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCeq82XgYUNB2hFCeM1XMJSQ",
+            "authorChannelId": {
+              "value": "UCeq82XgYUNB2hFCeM1XMJSQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2021-04-03T06:28:46Z",
+            "updatedAt": "2021-04-03T06:28:46Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "0-ygqK74NWNLYfma3sA7SVG21Cw",
+      "id": "UgyvvtA-sjbSv1z88r94AaABAg",
+      "snippet": {
+        "videoId": "lB734hc89x8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "TkDiwKprSn8UbanqSJbZBQnuJp8",
+          "id": "UgyvvtA-sjbSv1z88r94AaABAg",
+          "snippet": {
+            "videoId": "lB734hc89x8",
+            "textDisplay": "11 months ago: &quot;I&#39;m still not going to be uploading until this is all over&quot; 1 week ago: &quot;I&#39;m going to be taking a short break from social media&quot;",
+            "textOriginal": "11 months ago: \"I'm still not going to be uploading until this is all over\" 1 week ago: \"I'm going to be taking a short break from social media\"",
+            "authorDisplayName": "Naters_ Drawings",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjrBdNyi2AwsQaJMm53tIK8vDudXY4RE1rIHPZw=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCcRMgSth-TG-Kmc-KI2UsHA",
+            "authorChannelId": {
+              "value": "UCcRMgSth-TG-Kmc-KI2UsHA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-04-05T04:16:27Z",
+            "updatedAt": "2021-04-05T04:16:27Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "9w_Vcz7IY7qhLlQHHn-1TUSpcXU",
+      "id": "Ugw4OaDn8s1vg_AuDcd4AaABAg",
+      "snippet": {
+        "videoId": "lB734hc89x8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "MYaOSvixBsGhc7H_7blWsxtrYxA",
+          "id": "Ugw4OaDn8s1vg_AuDcd4AaABAg",
+          "snippet": {
+            "videoId": "lB734hc89x8",
+            "textDisplay": "13 Reasons Why?\u003cbr /\u003ePlease help get justice for those girls. An apology isn&#39;t enough without actions.",
+            "textOriginal": "13 Reasons Why?\nPlease help get justice for those girls. An apology isn't enough without actions.",
+            "authorDisplayName": "Samantha-Jane Mbangani",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwniqQSS-_HGRF_ffzFYkDomfE5cf0mX2TPC0kUz9=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC-1IHnKhj6O6bWElEEcBmwA",
+            "authorChannelId": {
+              "value": "UC-1IHnKhj6O6bWElEEcBmwA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 172,
+            "publishedAt": "2021-04-03T11:21:09Z",
+            "updatedAt": "2021-04-03T11:24:16Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 5,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "7VS0tt1961ctr7mWtWgdbJA0wr8",
+      "id": "UgxuofA571PjVAdRhFl4AaABAg",
+      "snippet": {
+        "videoId": "lB734hc89x8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "2izNqGU1ladnYll7T3fEzAautLo",
+          "id": "UgxuofA571PjVAdRhFl4AaABAg",
+          "snippet": {
+            "videoId": "lB734hc89x8",
+            "textDisplay": "Greg your only existence is being Dylan friend . When they think of you their thinking of me",
+            "textOriginal": "Greg your only existence is being Dylan friend . When they think of you their thinking of me",
+            "authorDisplayName": "citizen four",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnisZ3nqBDVKj8c0-pH9ve3FxkMbVm7Po6wbrzGB8Q=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCbMTJElJc-ldimoLMFvKsQA",
+            "authorChannelId": {
+              "value": "UCbMTJElJc-ldimoLMFvKsQA"
             },
             "canRate": true,
             "viewerRating": "none",
             "likeCount": 0,
-            "publishedAt": "2019-10-18T20:16:07Z",
-            "updatedAt": "2019-10-18T20:16:07Z"
+            "publishedAt": "2021-04-05T14:09:27Z",
+            "updatedAt": "2021-04-05T14:09:27Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "9B1Q1nu0992tkYfAs2AnJP9nfII",
+      "id": "UgxetpdHY6CFS19gLFl4AaABAg",
+      "snippet": {
+        "videoId": "lB734hc89x8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "OT2mq62I6lhIS0awqV-w6NI3ZhM",
+          "id": "UgxetpdHY6CFS19gLFl4AaABAg",
+          "snippet": {
+            "videoId": "lB734hc89x8",
+            "textDisplay": "Y’all are saying Dom needs to “apologize “ nah, he needs to go to prison WTF. This is not some internet scandal it’s a RAPE!",
+            "textOriginal": "Y’all are saying Dom needs to “apologize “ nah, he needs to go to prison WTF. This is not some internet scandal it’s a RAPE!",
+            "authorDisplayName": "Yxng_ A K.7",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwni927-D_YuVXDIlOczNLUwVMp18SSUoNUUypQSY=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCCEIPjs3PWHT7C-jSD1M_Eg",
+            "authorChannelId": {
+              "value": "UCCEIPjs3PWHT7C-jSD1M_Eg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 8128,
+            "publishedAt": "2021-03-23T16:38:39Z",
+            "updatedAt": "2021-03-23T16:38:39Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 74,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "dYYndf7nQIr6sqrk2Dk9Pg7FqTA",
+      "id": "UgwV_aTsHLWNMkI2-Ut4AaABAg",
+      "snippet": {
+        "videoId": "lB734hc89x8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "D2KmD5xO3USDEecdNDv4lCvKgxs",
+          "id": "UgwV_aTsHLWNMkI2-Ut4AaABAg",
+          "snippet": {
+            "videoId": "lB734hc89x8",
+            "textDisplay": "I’m here because of SNL. Who is this guy? Lol",
+            "textOriginal": "I’m here because of SNL. Who is this guy? Lol",
+            "authorDisplayName": "shaneighne",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhcd3SkkgXKDY3scKgFI0guUZy9PEby6d9hsw=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCEWpkmMHnoWGnz-otq9ltDg",
+            "authorChannelId": {
+              "value": "UCEWpkmMHnoWGnz-otq9ltDg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 26,
+            "publishedAt": "2021-04-04T20:10:39Z",
+            "updatedAt": "2021-04-04T20:10:39Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 6,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Q9jNUYf0_aWyr6fOGwN3nT-Z7Og",
+      "id": "UgxfWYf_FQrP7BeT0Ox4AaABAg",
+      "snippet": {
+        "videoId": "lB734hc89x8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "r1EyU2NP7kFX-a45xiXo1YRVWxw",
+          "id": "UgxfWYf_FQrP7BeT0Ox4AaABAg",
+          "snippet": {
+            "videoId": "lB734hc89x8",
+            "textDisplay": "Any1 else keep coming back to this even 2 weeks later?",
+            "textOriginal": "Any1 else keep coming back to this even 2 weeks later?",
+            "authorDisplayName": "the big rodney",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjixW7G1KTFeQstrEHk4UwqhC3pcugojdx2Sfs0=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCEV0MEdrrY8cCYkiBuymstg",
+            "authorChannelId": {
+              "value": "UCEV0MEdrrY8cCYkiBuymstg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-04-05T14:00:45Z",
+            "updatedAt": "2021-04-05T14:00:45Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "H_0DG7fVmH9UbQI2siTk1inZqQ4",
+      "id": "UgxmCqzaXSGN-xIZOVN4AaABAg",
+      "snippet": {
+        "videoId": "lB734hc89x8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "m37oT1Ad8qEcZA6uULZkN2xckfQ",
+          "id": "UgxmCqzaXSGN-xIZOVN4AaABAg",
+          "snippet": {
+            "videoId": "lB734hc89x8",
+            "textDisplay": "Here to compare this to the SNL version 😂",
+            "textOriginal": "Here to compare this to the SNL version 😂",
+            "authorDisplayName": "Max Tracker",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnigeeY8WhNGtyG8XndCw-CHIz9BKnpKOfHWwg=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UClxh7fqHqAlDmiZoxN4rNcg",
+            "authorChannelId": {
+              "value": "UClxh7fqHqAlDmiZoxN4rNcg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 6,
+            "publishedAt": "2021-04-04T05:59:24Z",
+            "updatedAt": "2021-04-04T05:59:24Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "h_6rDPoxK1pfaFrYSLo9A53WffU",
+      "id": "Ugx2pQizrMPpXyV-I4B4AaABAg",
+      "snippet": {
+        "videoId": "lB734hc89x8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "o_GfVgx0zOO3EQpq8rVMLYe3v44",
+          "id": "Ugx2pQizrMPpXyV-I4B4AaABAg",
+          "snippet": {
+            "videoId": "lB734hc89x8",
+            "textDisplay": "I’m here to support you through this David. Thank you for apologizing and clearing the air. Your fans are with you through this, it’ll be okay:)",
+            "textOriginal": "I’m here to support you through this David. Thank you for apologizing and clearing the air. Your fans are with you through this, it’ll be okay:)",
+            "authorDisplayName": "Haylee Cloninger",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwniUwiD6Xfept8P790eLZA6kUwvFelNj-AEBKA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCVZyV2d70e8Kotl3Anmwd1g",
+            "authorChannelId": {
+              "value": "UCVZyV2d70e8Kotl3Anmwd1g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-04-05T14:27:25Z",
+            "updatedAt": "2021-04-05T14:27:25Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "q2IhRL0rxPCL7YKRVuPgdJ1xnYM",
+      "id": "Ugz_1OlENowPPMGQ_Ax4AaABAg",
+      "snippet": {
+        "videoId": "lB734hc89x8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "qTlVJcXf8xFK4LjXYvqOVTAwrpo",
+          "id": "Ugz_1OlENowPPMGQ_Ax4AaABAg",
+          "snippet": {
+            "videoId": "lB734hc89x8",
+            "textDisplay": "For everyone saying Dom should make an apology, that probably wouldn’t be appropriate. He needs to go to jail.",
+            "textOriginal": "For everyone saying Dom should make an apology, that probably wouldn’t be appropriate. He needs to go to jail.",
+            "authorDisplayName": "pietro lovebot",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhvBiFa38lqzefflAxXS5wcS48XUn05jB5WHbHi=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCe6Fjm1_BkpBtjrZSQWJEsg",
+            "authorChannelId": {
+              "value": "UCe6Fjm1_BkpBtjrZSQWJEsg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 15455,
+            "publishedAt": "2021-03-23T11:02:19Z",
+            "updatedAt": "2021-03-23T11:02:19Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 104,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "ncVXEi-86aE_YoI_iy5tSTEkzjA",
+      "id": "Ugy-FnpjOy8FQg24GTt4AaABAg",
+      "snippet": {
+        "videoId": "lB734hc89x8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "2vI5U9T5oJva7uCKSXO9fWH38Xg",
+          "id": "Ugy-FnpjOy8FQg24GTt4AaABAg",
+          "snippet": {
+            "videoId": "lB734hc89x8",
+            "textDisplay": "I love how he is trying to play the victim slowly",
+            "textOriginal": "I love how he is trying to play the victim slowly",
+            "authorDisplayName": "Kaniz Sohana",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhQedbOeeE7rMBl05Mk0Q6XK_MTY9FcQ_dHkCFGew=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC3gtM5425RRDjV4XgC1Tm8Q",
+            "authorChannelId": {
+              "value": "UC3gtM5425RRDjV4XgC1Tm8Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-04-04T14:13:29Z",
+            "updatedAt": "2021-04-04T14:13:29Z"
           }
         },
         "canReply": true,
         "totalReplyCount": 1,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "8tfjILM8K0bPYC-1Qt0MLOBkP74",
-      "id": "UgyPqXiVY62eIgwqBZV4AaABAg",
-      "snippet": {
-        "videoId": "y2euBvdP28c",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "CSvIIKAUr-6VE35ftjDJuu_NpjE",
-          "id": "UgyPqXiVY62eIgwqBZV4AaABAg",
-          "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "If you enter &quot;a big old pile of trash jsrenner&quot; in the search, I hope it will connect you with a song I made-up about the human refuse in our oceans. Living right on the gulf coast (Galveston) I&#39;m certain we have impacted our environment. My simplistic impression of geologic time looks as if nature deals with critters that overpopulate.",
-            "textOriginal": "If you enter \"a big old pile of trash jsrenner\" in the search, I hope it will connect you with a song I made-up about the human refuse in our oceans. Living right on the gulf coast (Galveston) I'm certain we have impacted our environment. My simplistic impression of geologic time looks as if nature deals with critters that overpopulate.",
-            "authorDisplayName": "JS Renner",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhhbun3audtOW2ikgFm8P6cGuwFvCi4DMRgQBAM2w=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCHZnEKV8ZjuVf2ZjQFiQP-w",
-            "authorChannelId": {
-              "value": "UCHZnEKV8ZjuVf2ZjQFiQP-w"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 0,
-            "publishedAt": "2021-03-31T22:48:17Z",
-            "updatedAt": "2021-03-31T22:48:17Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "iPw1kXG1KHv-xYYE9low3lflEmo",
-      "id": "UgjwuMdvNnerBngCoAEC",
-      "snippet": {
-        "videoId": "y2euBvdP28c",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "3Ytn3nGt6bPteXFalazAd5DfDic",
-          "id": "UgjwuMdvNnerBngCoAEC",
-          "snippet": {
-            "videoId": "y2euBvdP28c",
-            "textDisplay": "People will only start to act once they are directly threatened. The problem is: Once we reach that point, it is not reverseable anymore.\u003cbr /\u003eAnd it&#39;s not even just about public opinion. Fighting climat change has to be profitable enough in order to take off.",
-            "textOriginal": "People will only start to act once they are directly threatened. The problem is: Once we reach that point, it is not reverseable anymore.\nAnd it's not even just about public opinion. Fighting climat change has to be profitable enough in order to take off.",
-            "authorDisplayName": "Seph Imaru",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjrU0dRalWSyUlU0hF3_Hsdn0A0ZD3KvblkXM2Q=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UC-6okEhwkopE0-lT5fMKcwQ",
-            "authorChannelId": {
-              "value": "UC-6okEhwkopE0-lT5fMKcwQ"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 4,
-            "publishedAt": "2016-11-08T17:39:07Z",
-            "updatedAt": "2016-11-08T17:39:07Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
         "isPublic": true
       }
     }
