@@ -10,19 +10,16 @@ with open('./comment_data.json') as c:
 with open('./video_data.json') as v:
     video_data = json.load(v)
 
-sentiments = [] # List of each comments' sentiments
-likes = [] # List of likes per comment
-comments = [] # List of text value per comment
+comments_list = []
 
 for c in comment_data["items"]:
     comment = YTComment(c)
-    sentiments.append(comment.sentiment)
-    likes.append(comment.likes)
-    comments.append(comment.value)
+    comments_list.append(comment)
 
-# comments_list.sort(key=lambda c: c.sentiment, reverse=False)
+comments_list.sort(key=lambda c: c.sentiment, reverse=True)
 
 title = get_title(video_data)
 
-response = get_response(title, comments, sentiments, likes)
+response = get_response(title, comments_list)
 print(response)
+print(get_sentiment("Good"))

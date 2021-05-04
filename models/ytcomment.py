@@ -1,5 +1,6 @@
 from helpers.get_sentiment import get_sentiment
 from helpers.spellcheck import spellcheck
+from helpers.get_emoji import get_emoji
 
 class YTComment:
     def __init__(self, data):
@@ -24,6 +25,7 @@ class YTComment:
         self.value = spellcheck(snippet["textDisplay"])
         self.sentiment = get_sentiment(self.value)
         self.likes = (snippet["likeCount"] + self.likes) if "likeCount" in snippet else 0
+        self.emoji = get_emoji(self.sentiment)
 
 
 #
