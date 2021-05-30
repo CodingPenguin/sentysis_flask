@@ -25,14 +25,13 @@ def process_video_id():
     if not request.json or "videoId" not in request.json:
         abort(400)
 
-    yt_video_id = request.get_json('videoId')
-
-    # comment_data = fetch_comments(yt_video_id) # from line 12, it gets "Bh_uMYaykyQ"
-    # video_title = fetch_title(yt_video_id)
-    with open('./comment_data.json') as c:
-        comment_data = json.load(c)
-    with open('./video_data.json') as v:
-        video_data = json.load(v)
+    yt_video_id = request.get_json('videoId')['videoId']
+    comment_data = fetch_comments(yt_video_id) # from line 12, it gets "Bh_uMYaykyQ"
+    # video_data = fetch_title(yt_video_id) DON'T NEED THIS FOR NOW MAYBE
+    # with open('./comment_data.json') as c:
+    #     comment_data = json.load(c)
+    # with open('./video_data.json') as v:
+    #     video_data = json.load(v)
 
     comments_list = []
 
@@ -42,10 +41,9 @@ def process_video_id():
 
     comments_list.sort(key=lambda c: c.sentiment, reverse=True)
 
-    title = get_title(video_data)
+    # title = get_title(video_data)
 
-    response = get_response(title, comments_list)
-    print(response)
+    response = get_response(comments_list)
 
     return jsonify(response), 201
 
