@@ -1,9 +1,10 @@
 import os, config
+import googleapiclient.discovery
 
-def get_comments(video_id):
+def fetch_comments(video_id):
     # Disable OAuthlib's HTTPS verification when running locally.
     # *DO NOT* leave this option enabled in production.
-    os.environ["OAUTHLIB_INSECURE_TRANSPORT"] = "1"
+    os.environ["OAUTHLIB_INSECURE_TRANSPORT"] = "1" # TODO: SET TO 0 ON PROD
 
     api_service_name = "youtube"
     api_version = "v3"
@@ -15,9 +16,9 @@ def get_comments(video_id):
 
     request = youtube.commentThreads().list(
         part="snippet",
-        video_id=videoId,
-        order="relevance"
+        maxResults=50,
+        order="relevance",
+        videoId=video_id
     )
     response = request.execute()
-
     return response

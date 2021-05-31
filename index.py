@@ -3,10 +3,11 @@ from flask_cors import CORS
 
 import config, googleapiclient.discovery, json, os
 
-from comments import get_comments
-from ytcomment import YTComment
-from helpers.analysis import calc_sentiment, find_quartiles
-
+from helpers.fetch_comments import fetch_comments
+from helpers.fetch_title import fetch_title
+from models.ytcomment import YTComment
+from helpers.get_response import get_response
+from helpers.get_title import get_title
 
 
 app = Flask(__name__)
@@ -16,27 +17,35 @@ comment_list = []
 
 @app.route('/')
 def create_UI():
-    return "<h1 style='color:red;'>loser</h1>"
+    return "<h1 style='color:red;'>what's up</h1>"
 
 @app.route('/api/ytVideoIds', methods=['POST'])
 def process_video_id():
 
-    if not request.json or not 'videoId' in request.json:
+    if not request.json or "videoId" not in request.json:
         abort(400)
 
-    yt_video_id = request.get_json('videoId')
-    comment_data = get_comments(yt_video_id) # from line 12, it gets "Bh_uMYaykyQ"
+    yt_video_id = request.get_json('videoId')['videoId']
+    comment_data = fetch_comments(yt_video_id) # from line 12, it gets "Bh_uMYaykyQ"
+    # video_data = fetch_title(yt_video_id) DON'T NEED THIS FOR NOW MAYBE
+    # with open('./comment_data.json') as c:
+    #     comment_data = json.load(c)
+    # with open('./video_data.json') as v:
+    #     video_data = json.load(v)
+
+    comments_list = []
 
     for c in comment_data["items"]:
         comment = YTComment(c)
-        comment_list.append(comment)
+        comments_list.append(comment)
 
-    comment_list.sort(key=lambda c: c.sentiment)
+    comments_list.sort(key=lambda c: c.sentiment, reverse=True)
 
-    quartiles = find_quartiles([c.sentiment for c in comment_list])
+    # title = get_title(video_data)
 
-    return jsonify({'yt_video_id': yt_video_id}), 201
+    response = get_response(comments_list)
 
+    return jsonify(response), 201
 
 
 if __name__ == '__main__':

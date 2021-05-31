@@ -1,19 +1,25 @@
 import json
-from ytcomment import YTComment
-from helpers.analysis import calc_sentiment, find_quartiles
+from models.ytcomment import YTComment
+from helpers.get_sentiment import get_sentiment
+from helpers.get_response import get_response
+from helpers.get_title import get_title
 
-with open('./comment_data.json') as f:
-    comment_data = json.load(f)
+with open('./comment_data.json') as c:
+    comment_data = json.load(c)
 
-comment_list = []
+with open('./video_data.json') as v:
+    video_data = json.load(v)
+
+comments_list = []
 
 for c in comment_data["items"]:
     comment = YTComment(c)
-    comment_list.append(comment)
+    comments_list.append(comment)
 
-comment_list.sort(key=lambda c: c.sentiment)
+comments_list.sort(key=lambda c: c.sentiment, reverse=True)
 
-print([c.sentiment for c in comment_list])
+title = get_title(video_data)
 
-quartiles = find_quartiles([c.sentiment for c in comment_list])
-print(quartiles)
+response = get_response(title, comments_list)
+print(response)
+print(get_sentiment("Good"))

@@ -1,0 +1,90 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "vTK9b_wdZSQAlzjM4gGyaduadMI",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "_gtIAdES5U3jA0XPMr-ZqmfxaIo",
+      "id": "y2euBvdP28c",
+      "snippet": {
+        "publishedAt": "2014-12-15T22:58:13Z",
+        "channelId": "UCH4BNI0-FOK2dMXoFtViWHw",
+        "title": "Why People Don't Believe In Climate Science",
+        "description": "Get the FACTS about climate change: http://youtu.be/ffjIyms1BX4 \nDon’t miss our next video! SUBSCRIBE! ►► http://bit.ly/iotbs_sub\n↓ More info and sources below ↓\n\nViewers like you help make PBS (Thank you 😃) . Support your local PBS Member Station here: https://to.pbs.org/PBSDSDonate\n\nScientists overwhelmingly agree that our climate is changing, Earth is getting warmer, sea levels are rising, and it's primarily because of humans putting lots of carbon dioxide in the atmosphere. Yet 4 in 10 Americans aren't convinced.  Here's what psychologists and sociologists have to say about why some people don't believe in climate science. \n\nLast week's video: Climate Science - What You Need to Know https://www.youtube.com/watch?v=ffjIyms1BX4\n\nRECOMMENDED READING/SOURCES:\n\n\"Don't Even Think About It\" by George Marshall: http://amzn.to/1DCX6HU \nAlso check out George Marshall's website: http://www.climateconviction.org/\n\n\"The Republican Brain\" by Chris Mooney: http://bit.ly/1GJew1C \n\"Unscientific America\" by Chris Mooney and Sheril Kirshenbaum: http://amzn.to/1BQsocf \n\"Fool Me Twice\" by Shawn Lawrence Otto: http://bit.ly/12Y2Gnc \n\nWant to learn about the science of climate change and why humans are causing it, but in layman's terms? I recommend these books:\n\nClimate Change: Evidence and Causes (National Academy of Sciences/Royal Society) FREE ebook: http://amzn.to/1w6itfl \nGlobal Weirdness (Climate Central) http://amzn.to/1BtZZbP \nHow to Change Minds About Our Changing Climate (Seth Darling + Douglas Sisterson) http://amzn.to/12jjcxN \n\nProduced by PBS Digital Studios: http://www.youtube.com/user/pbsdigitalstudios \n\nJoe Hanson - Creator/Host/Writer\nJoe Nicolosi - Director\nAmanda Fox - Producer, Spotzen Inc\nKate Eads - Associate Producer\nAndrew Matthews - Editing/Motion Graphics\nKatie Graham - Director of Photography\nJohn Knudsen - Gaffer\nDalton Allen - Post-Production Intern\n\nTheme music:\n\"Ouroboros\" by Kevin MacLeod\n\n-----------\nJoin us on Patreon! \nhttps://patreon.com/itsokaytobesmart\n\nTwitter \nhttp://www.twitter.com/DrJoeHanson\nhttp://www.twitter.com/okaytobesmart \n\nInstagram \nhttp://www.instagram.com/DrJoeHanson \nhttp://www.instagram.com/okaytobesmart \n\nMerch\nhttps://store.dftba.com/collections/its-okay-to-be-smart\n\nFacebook\nhttps://www.facebook.com/itsokaytobesmartpbs/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y2euBvdP28c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y2euBvdP28c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y2euBvdP28c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/y2euBvdP28c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/y2euBvdP28c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "It's Okay To Be Smart",
+        "tags": [
+          "science",
+          "pbs digital studios",
+          "joe hanson",
+          "it's okay to be smart",
+          "its okay to be smart",
+          "it's ok to be smart",
+          "its ok to be smart",
+          "Climate (Literature Subject)",
+          "climate change",
+          "global warming",
+          "Climatology (Field Of Study)",
+          "psychology",
+          "sociology",
+          "Energy",
+          "logical fallacy",
+          "earth",
+          "Global",
+          "denialism",
+          "skeptic",
+          "skepticism",
+          "Warming",
+          "Change",
+          "Green",
+          "pbs",
+          "itsokaytobesmart",
+          "environment",
+          "weather",
+          "climate",
+          "earth science",
+          "joe hanson (person)",
+          "climate change denial",
+          "why people don't believe in climate science"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Why People Don't Believe In Climate Science",
+          "description": "Get the FACTS about climate change: http://youtu.be/ffjIyms1BX4 \nDon’t miss our next video! SUBSCRIBE! ►► http://bit.ly/iotbs_sub\n↓ More info and sources below ↓\n\nViewers like you help make PBS (Thank you 😃) . Support your local PBS Member Station here: https://to.pbs.org/PBSDSDonate\n\nScientists overwhelmingly agree that our climate is changing, Earth is getting warmer, sea levels are rising, and it's primarily because of humans putting lots of carbon dioxide in the atmosphere. Yet 4 in 10 Americans aren't convinced.  Here's what psychologists and sociologists have to say about why some people don't believe in climate science. \n\nLast week's video: Climate Science - What You Need to Know https://www.youtube.com/watch?v=ffjIyms1BX4\n\nRECOMMENDED READING/SOURCES:\n\n\"Don't Even Think About It\" by George Marshall: http://amzn.to/1DCX6HU \nAlso check out George Marshall's website: http://www.climateconviction.org/\n\n\"The Republican Brain\" by Chris Mooney: http://bit.ly/1GJew1C \n\"Unscientific America\" by Chris Mooney and Sheril Kirshenbaum: http://amzn.to/1BQsocf \n\"Fool Me Twice\" by Shawn Lawrence Otto: http://bit.ly/12Y2Gnc \n\nWant to learn about the science of climate change and why humans are causing it, but in layman's terms? I recommend these books:\n\nClimate Change: Evidence and Causes (National Academy of Sciences/Royal Society) FREE ebook: http://amzn.to/1w6itfl \nGlobal Weirdness (Climate Central) http://amzn.to/1BtZZbP \nHow to Change Minds About Our Changing Climate (Seth Darling + Douglas Sisterson) http://amzn.to/12jjcxN \n\nProduced by PBS Digital Studios: http://www.youtube.com/user/pbsdigitalstudios \n\nJoe Hanson - Creator/Host/Writer\nJoe Nicolosi - Director\nAmanda Fox - Producer, Spotzen Inc\nKate Eads - Associate Producer\nAndrew Matthews - Editing/Motion Graphics\nKatie Graham - Director of Photography\nJohn Knudsen - Gaffer\nDalton Allen - Post-Production Intern\n\nTheme music:\n\"Ouroboros\" by Kevin MacLeod\n\n-----------\nJoin us on Patreon! \nhttps://patreon.com/itsokaytobesmart\n\nTwitter \nhttp://www.twitter.com/DrJoeHanson\nhttp://www.twitter.com/okaytobesmart \n\nInstagram \nhttp://www.instagram.com/DrJoeHanson \nhttp://www.instagram.com/okaytobesmart \n\nMerch\nhttps://store.dftba.com/collections/its-okay-to-be-smart\n\nFacebook\nhttps://www.facebook.com/itsokaytobesmartpbs/"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

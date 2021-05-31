@@ -1,9 +1,9 @@
 {
   "kind": "youtube#commentThreadListResponse",
-  "etag": "LOb6v_YbhSP3rUbLQwsBJklHkxI",
+  "etag": "BH6MLRe34Su6kBXzhyeEnafx9TU",
   "pageInfo": {
-    "totalResults": 10,
-    "resultsPerPage": 20
+    "totalResults": 14,
+    "resultsPerPage": 50
   },
   "items": [
     {
@@ -40,29 +40,29 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "r04fsPCDUghp6RS10o_4bsdcnfA",
-      "id": "UgwErqXskUYhuw8xjnl4AaABAg",
+      "etag": "gqowBI2yM83o59z7UWCCmQ4tIgo",
+      "id": "UgwjQQ_xCkX6PH1ifBp4AaABAg",
       "snippet": {
         "videoId": "qF9PpfBatBo",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "e0fqHzmTl8EmIDibsitEtf5L12o",
-          "id": "UgwErqXskUYhuw8xjnl4AaABAg",
+          "etag": "Vr4mJG-z5yiTSrEP0OTMf9W6wUM",
+          "id": "UgwjQQ_xCkX6PH1ifBp4AaABAg",
           "snippet": {
             "videoId": "qF9PpfBatBo",
-            "textDisplay": "Mangrove trees prevent flooding.",
-            "textOriginal": "Mangrove trees prevent flooding.",
-            "authorDisplayName": "Randall Bermudez",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhLD_z-pcxG09ichbLkR7QnNoeov1Hmq2DxcQ=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCtc6heuBDJxI1_3dKaqkG8w",
+            "textDisplay": "Hi guys! if u care for the environment, please use Ecosia as your search engine. For every 45 searches u make,  a tree will be planted somewhere. If you think this is fake, u can always check out their YouTube channel. Stay safe guys :) bai bai",
+            "textOriginal": "Hi guys! if u care for the environment, please use Ecosia as your search engine. For every 45 searches u make,  a tree will be planted somewhere. If you think this is fake, u can always check out their YouTube channel. Stay safe guys :) bai bai",
+            "authorDisplayName": "Allysandra Ilagan",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjwkmCmFBbrlTEdSe6oNf6a9wX-ncgefP1kqvyBFQ=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCBKt3KZO4gq1qkf-tXFEcPA",
             "authorChannelId": {
-              "value": "UCtc6heuBDJxI1_3dKaqkG8w"
+              "value": "UCBKt3KZO4gq1qkf-tXFEcPA"
             },
             "canRate": true,
             "viewerRating": "none",
-            "likeCount": 2,
-            "publishedAt": "2020-12-25T01:19:34Z",
-            "updatedAt": "2020-12-25T01:19:34Z"
+            "likeCount": 0,
+            "publishedAt": "2021-01-01T05:15:27Z",
+            "updatedAt": "2021-01-01T05:15:27Z"
           }
         },
         "canReply": true,
@@ -72,13 +72,13 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "EQ2QTCZ-g93iObjx4oYjMmmAPp4",
+      "etag": "-qzRig9LjiaMonbyx5jfedbEvok",
       "id": "Ugy461gJEC02SkiAAiB4AaABAg",
       "snippet": {
         "videoId": "qF9PpfBatBo",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "Fb8M9HTZSHx07ops0fYd7HY5UAQ",
+          "etag": "C74SVWvoDTtldaWbi_jyLx572HE",
           "id": "Ugy461gJEC02SkiAAiB4AaABAg",
           "snippet": {
             "videoId": "qF9PpfBatBo",
@@ -92,7 +92,7 @@
             },
             "canRate": true,
             "viewerRating": "none",
-            "likeCount": 2,
+            "likeCount": 4,
             "publishedAt": "2021-01-08T10:14:02Z",
             "updatedAt": "2021-01-08T10:14:02Z"
           }
@@ -104,29 +104,93 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "-CHauN_IjR4FshqrDvPBwS01TmI",
-      "id": "UgzLsHMHAjApgdGqPnR4AaABAg",
+      "etag": "JxyfqXA2Z263XKw72SIRTIFcGpY",
+      "id": "Ugyp2tqIkN9EJ-Z0-jh4AaABAg",
       "snippet": {
         "videoId": "qF9PpfBatBo",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "C1VHlDnm5p8HmhSMd4vdLz1Uk-A",
-          "id": "UgzLsHMHAjApgdGqPnR4AaABAg",
+          "etag": "nJWhZvsED2HNLVLUnHg41U8Dpv0",
+          "id": "Ugyp2tqIkN9EJ-Z0-jh4AaABAg",
           "snippet": {
             "videoId": "qF9PpfBatBo",
-            "textDisplay": "Let’s fight climate change by flying with private jets to a summit somewhere in the world",
-            "textOriginal": "Let’s fight climate change by flying with private jets to a summit somewhere in the world",
-            "authorDisplayName": "TheTruth76",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhezO4imOH1CzQeHBY0t--8p6IO4ThlJBEmPw=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCL5pPdGA2id7eSjxiad2lNw",
+            "textDisplay": "If you are looking for a way to help the environment you can use ecosia they are a search engine that plants trees with their profits",
+            "textOriginal": "If you are looking for a way to help the environment you can use ecosia they are a search engine that plants trees with their profits",
+            "authorDisplayName": "Aaron Oneal",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwniNYdsNfz5UryrIICo3vkZcaNmjDpI0KhZDWw=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCY7F_1S11P0JkIoaTCxSHcg",
             "authorChannelId": {
-              "value": "UCL5pPdGA2id7eSjxiad2lNw"
+              "value": "UCY7F_1S11P0JkIoaTCxSHcg"
             },
             "canRate": true,
             "viewerRating": "none",
-            "likeCount": 1,
-            "publishedAt": "2021-01-25T08:04:32Z",
-            "updatedAt": "2021-01-25T08:04:32Z"
+            "likeCount": 2,
+            "publishedAt": "2021-01-09T19:02:19Z",
+            "updatedAt": "2021-01-09T19:02:19Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "846Uxxmo3zzxMRyoBDQivjah7KQ",
+      "id": "UgwErqXskUYhuw8xjnl4AaABAg",
+      "snippet": {
+        "videoId": "qF9PpfBatBo",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "-18fsz71JMagukc6Es_oMSUFpss",
+          "id": "UgwErqXskUYhuw8xjnl4AaABAg",
+          "snippet": {
+            "videoId": "qF9PpfBatBo",
+            "textDisplay": "Mangrove trees prevent flooding.",
+            "textOriginal": "Mangrove trees prevent flooding.",
+            "authorDisplayName": "Randall Bermudez",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhLD_z-pcxG09ichbLkR7QnNoeov1Hmq2DxcQ=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCtc6heuBDJxI1_3dKaqkG8w",
+            "authorChannelId": {
+              "value": "UCtc6heuBDJxI1_3dKaqkG8w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 4,
+            "publishedAt": "2020-12-25T01:19:34Z",
+            "updatedAt": "2020-12-25T01:19:34Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "dXKfF9QZPZJ6BVdhqAanGYux7GY",
+      "id": "UgwcMPmyXB8DVr9AjV94AaABAg",
+      "snippet": {
+        "videoId": "qF9PpfBatBo",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "s5t0qJe_6xUXKlVhxicbOkFPHJU",
+          "id": "UgwcMPmyXB8DVr9AjV94AaABAg",
+          "snippet": {
+            "videoId": "qF9PpfBatBo",
+            "textDisplay": "Those who experience the greatest measure of fear in the face of the seemingly insurmountable issues such as global climate change will ofttimes opt for the defense mechanism of denial. This is even found in the bare faced lies perpetuated by anti-maskers. It makes it increasingly difficult to implement proactive solutions while those who are only capable of reactionary responses to problems are clouding the issues with unhelpfulness.",
+            "textOriginal": "Those who experience the greatest measure of fear in the face of the seemingly insurmountable issues such as global climate change will ofttimes opt for the defense mechanism of denial. This is even found in the bare faced lies perpetuated by anti-maskers. It makes it increasingly difficult to implement proactive solutions while those who are only capable of reactionary responses to problems are clouding the issues with unhelpfulness.",
+            "authorDisplayName": "Sam Lair",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhGQgNgR3S4hxjj_exmBSYEF_jUbOaxLa8z=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCov_MpgR7_57q7rmQPaCWPA",
+            "authorChannelId": {
+              "value": "UCov_MpgR7_57q7rmQPaCWPA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-04-06T11:22:59Z",
+            "updatedAt": "2021-04-06T11:22:59Z"
           }
         },
         "canReply": true,
@@ -168,39 +232,71 @@
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "tHzQ8MCImQzjygDH0Rs0ia8fxRs",
-      "id": "Ugyzq90ObWqixjK_a4d4AaABAg",
+      "etag": "83-m7SsdLxBhAyy1wwpP-gJnVik",
+      "id": "Ugx75gbS8ltFnyTadnh4AaABAg",
       "snippet": {
         "videoId": "qF9PpfBatBo",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "nOjdHEBJtQzf-vYrkw6fxraHXxs",
-          "id": "Ugyzq90ObWqixjK_a4d4AaABAg",
+          "etag": "kcPUY5xkVRvEf1XTqGvCk_T1JaA",
+          "id": "Ugx75gbS8ltFnyTadnh4AaABAg",
           "snippet": {
             "videoId": "qF9PpfBatBo",
-            "textDisplay": "Between 12/9/20 and 12/23/20 CDC logged 30,227 deaths attributed to C-19. There were 148,206 deaths due to all causes. The 65+ demographic was accountable for 85% of those C-19 deaths.\r\u003cbr /\u003e\u003cbr /\u003e85.6% of C-19 CASES are among those UNDER 65 years of age. (CDC)\r\u003cbr /\u003e80.7% of C-19 DEATHS are among those OVER 65 years of age. (16% of population)\r\u003cbr /\u003e24.8% of C-19 deaths occurred in nursing homes and hospice care.\r\u003cbr /\u003eOver half of the CASES never see a doctor, hospital or morgue.\r\u003cbr /\u003e\r\u003cbr /\u003eIf you are 65+ w multiple health issues in a crowded nursing home and the staff brings in C-19 you are screwed, but then you were screwed anyway. \r\u003cbr /\u003eIn other words: If you are already seriously ill, C-19 will probably finish you off, i.e. no different from the seasonal flu or pneumonia\r\u003cbr /\u003e\r\u003cbr /\u003eC-19 is not a problem for the young and healthy herd. Mother Nature and her buddy Grim Reaper are just doing their jobs, culling the herd of the too many, too old, too sick warehoused too close together as Medicare/Medicaid cash cows in poorly run contagious lethal elder care facilities.\r\u003cbr /\u003e\r\u003cbr /\u003eJapan has the highest percentage of 65+, 27%, yet still under 3,000 deaths. (WHO)\r\u003cbr /\u003eWhat do they know/do the rest of the world does not?\r\u003cbr /\u003e\r\u003cbr /\u003eIf C-19 is mostly killing off old sick people why are our elected morons suspending civil liberties, due process, bankrupting the country with lockdowns, distancing and masked clown shows? \r\u003cbr /\u003eGuess they can&#39;t impose the NWO Grand Reset with actual facts. \r\u003cbr /\u003eAnd the lying, fact free, fake news MSM left-wing propaganda coup machine has betrayed its responsibility to democracy and an informed public.",
-            "textOriginal": "Between 12/9/20 and 12/23/20 CDC logged 30,227 deaths attributed to C-19. There were 148,206 deaths due to all causes. The 65+ demographic was accountable for 85% of those C-19 deaths.\r\n\n85.6% of C-19 CASES are among those UNDER 65 years of age. (CDC)\r\n80.7% of C-19 DEATHS are among those OVER 65 years of age. (16% of population)\r\n24.8% of C-19 deaths occurred in nursing homes and hospice care.\r\nOver half of the CASES never see a doctor, hospital or morgue.\r\n\r\nIf you are 65+ w multiple health issues in a crowded nursing home and the staff brings in C-19 you are screwed, but then you were screwed anyway. \r\nIn other words: If you are already seriously ill, C-19 will probably finish you off, i.e. no different from the seasonal flu or pneumonia\r\n\r\nC-19 is not a problem for the young and healthy herd. Mother Nature and her buddy Grim Reaper are just doing their jobs, culling the herd of the too many, too old, too sick warehoused too close together as Medicare/Medicaid cash cows in poorly run contagious lethal elder care facilities.\r\n\r\nJapan has the highest percentage of 65+, 27%, yet still under 3,000 deaths. (WHO)\r\nWhat do they know/do the rest of the world does not?\r\n\r\nIf C-19 is mostly killing off old sick people why are our elected morons suspending civil liberties, due process, bankrupting the country with lockdowns, distancing and masked clown shows? \r\nGuess they can't impose the NWO Grand Reset with actual facts. \r\nAnd the lying, fact free, fake news MSM left-wing propaganda coup machine has betrayed its responsibility to democracy and an informed public.",
-            "authorDisplayName": "Nick Schroeder",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnipZxMEgUrREGfa2kWiI8N3t8fVKx336dWNlg=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UC6YM_zNbkXJ_ZBhC3MyjmPw",
+            "textDisplay": "He corrected himself: &quot;biggest producer of greenhouse gasses&quot; to consumer.  🤣   2060 carbon neutral too late.  Good I&#39;ll be dead by them.",
+            "textOriginal": "He corrected himself: \"biggest producer of greenhouse gasses\" to consumer.  🤣   2060 carbon neutral too late.  Good I'll be dead by them.",
+            "authorDisplayName": "Gebert Fyter",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhQ_fayxTHDVBAWvLFomCyOIVLdbtttkTcojw=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCIh_4TzL4CCIEE58CEJoMmA",
             "authorChannelId": {
-              "value": "UC6YM_zNbkXJ_ZBhC3MyjmPw"
+              "value": "UCIh_4TzL4CCIEE58CEJoMmA"
             },
             "canRate": true,
             "viewerRating": "none",
-            "likeCount": 2,
-            "publishedAt": "2020-12-25T15:31:51Z",
-            "updatedAt": "2020-12-25T15:31:51Z"
+            "likeCount": 0,
+            "publishedAt": "2021-03-14T01:57:50Z",
+            "updatedAt": "2021-03-14T01:57:50Z"
           }
         },
         "canReply": true,
-        "totalReplyCount": 1,
+        "totalReplyCount": 0,
         "isPublic": true
       }
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "MRoLW_6NfQD54BtapgoBrezCQro",
+      "etag": "gKnKP4vN9KdCsCH_RbqEA_BkHaA",
+      "id": "UgzLsHMHAjApgdGqPnR4AaABAg",
+      "snippet": {
+        "videoId": "qF9PpfBatBo",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "C1VHlDnm5p8HmhSMd4vdLz1Uk-A",
+          "id": "UgzLsHMHAjApgdGqPnR4AaABAg",
+          "snippet": {
+            "videoId": "qF9PpfBatBo",
+            "textDisplay": "Let’s fight climate change by flying with private jets to a summit somewhere in the world",
+            "textOriginal": "Let’s fight climate change by flying with private jets to a summit somewhere in the world",
+            "authorDisplayName": "TheTruth76",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhezO4imOH1CzQeHBY0t--8p6IO4ThlJBEmPw=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCL5pPdGA2id7eSjxiad2lNw",
+            "authorChannelId": {
+              "value": "UCL5pPdGA2id7eSjxiad2lNw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-01-25T08:04:32Z",
+            "updatedAt": "2021-01-25T08:04:32Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Q0EjOzNyA0D7b2Png4IpqNMw970",
       "id": "UgzJaHnl3lZwnl885EV4AaABAg",
       "snippet": {
         "videoId": "qF9PpfBatBo",
@@ -226,67 +322,35 @@
           }
         },
         "canReply": true,
-        "totalReplyCount": 0,
+        "totalReplyCount": 1,
         "isPublic": true
       }
     },
     {
       "kind": "youtube#commentThread",
-      "etag": "gqowBI2yM83o59z7UWCCmQ4tIgo",
-      "id": "UgwjQQ_xCkX6PH1ifBp4AaABAg",
+      "etag": "3v70yLxllotz-Xdkxwo_QPGX6c4",
+      "id": "Ugzou3IJo1Zcl7tAed54AaABAg",
       "snippet": {
         "videoId": "qF9PpfBatBo",
         "topLevelComment": {
           "kind": "youtube#comment",
-          "etag": "Vr4mJG-z5yiTSrEP0OTMf9W6wUM",
-          "id": "UgwjQQ_xCkX6PH1ifBp4AaABAg",
+          "etag": "pNWrjbRGJ58gREBIN1-0ldZA0Y8",
+          "id": "Ugzou3IJo1Zcl7tAed54AaABAg",
           "snippet": {
             "videoId": "qF9PpfBatBo",
-            "textDisplay": "Hi guys! if u care for the environment, please use Ecosia as your search engine. For every 45 searches u make,  a tree will be planted somewhere. If you think this is fake, u can always check out their YouTube channel. Stay safe guys :) bai bai",
-            "textOriginal": "Hi guys! if u care for the environment, please use Ecosia as your search engine. For every 45 searches u make,  a tree will be planted somewhere. If you think this is fake, u can always check out their YouTube channel. Stay safe guys :) bai bai",
-            "authorDisplayName": "Allysandra Ilagan",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnjwkmCmFBbrlTEdSe6oNf6a9wX-ncgefP1kqvyBFQ=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCBKt3KZO4gq1qkf-tXFEcPA",
+            "textDisplay": "What I think would help with climate change, is lower the speed limits down to 50 miles per hour. Just think of all the emissions that would not be put into the atmosphere  by driving slower.  Plus all the lives that would be saved by driving slower, win win situation.",
+            "textOriginal": "What I think would help with climate change, is lower the speed limits down to 50 miles per hour. Just think of all the emissions that would not be put into the atmosphere  by driving slower.  Plus all the lives that would be saved by driving slower, win win situation.",
+            "authorDisplayName": "scotsrfun scotsrfun",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngnt4GtuY6UZkcKNHEySr36c86sgR_nbJ8Klg=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC86pPjz5KVSLkqUggUr2kjw",
             "authorChannelId": {
-              "value": "UCBKt3KZO4gq1qkf-tXFEcPA"
+              "value": "UC86pPjz5KVSLkqUggUr2kjw"
             },
             "canRate": true,
             "viewerRating": "none",
             "likeCount": 0,
-            "publishedAt": "2021-01-01T05:15:27Z",
-            "updatedAt": "2021-01-01T05:15:27Z"
-          }
-        },
-        "canReply": true,
-        "totalReplyCount": 0,
-        "isPublic": true
-      }
-    },
-    {
-      "kind": "youtube#commentThread",
-      "etag": "0ZMXztmjhgSrgjYS-GuGxNUgYno",
-      "id": "Ugyp2tqIkN9EJ-Z0-jh4AaABAg",
-      "snippet": {
-        "videoId": "qF9PpfBatBo",
-        "topLevelComment": {
-          "kind": "youtube#comment",
-          "etag": "p5OokdyyxkFZ3tVHQSs54hVt4w8",
-          "id": "Ugyp2tqIkN9EJ-Z0-jh4AaABAg",
-          "snippet": {
-            "videoId": "qF9PpfBatBo",
-            "textDisplay": "If you are looking for a way to help the environment you can use ecosia they are a search engine that plants trees with their profits",
-            "textOriginal": "If you are looking for a way to help the environment you can use ecosia they are a search engine that plants trees with their profits",
-            "authorDisplayName": "Aaron Oneal",
-            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwniNYdsNfz5UryrIICo3vkZcaNmjDpI0KhZDWw=s48-c-k-c0xffffffff-no-rj-mo",
-            "authorChannelUrl": "http://www.youtube.com/channel/UCY7F_1S11P0JkIoaTCxSHcg",
-            "authorChannelId": {
-              "value": "UCY7F_1S11P0JkIoaTCxSHcg"
-            },
-            "canRate": true,
-            "viewerRating": "none",
-            "likeCount": 1,
-            "publishedAt": "2021-01-09T19:02:19Z",
-            "updatedAt": "2021-01-09T19:02:19Z"
+            "publishedAt": "2021-02-25T23:16:10Z",
+            "updatedAt": "2021-02-25T23:16:10Z"
           }
         },
         "canReply": true,
@@ -323,6 +387,70 @@
         },
         "canReply": true,
         "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "7w4uOK0yQgw82bdI2JXFCOcRvuc",
+      "id": "UgzqXCiK146AeEjSuNV4AaABAg",
+      "snippet": {
+        "videoId": "qF9PpfBatBo",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "jcNo7mHt5oNgfkas7b9e5G05X9o",
+          "id": "UgzqXCiK146AeEjSuNV4AaABAg",
+          "snippet": {
+            "videoId": "qF9PpfBatBo",
+            "textDisplay": "Biden is a disaster",
+            "textOriginal": "Biden is a disaster",
+            "authorDisplayName": "Kim Sessions",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwngt-WWD6MW4xceYX09_yudcN_5H6T7VyfEYkcsB=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCFOWjBETfGb2RnDfGIqqi1w",
+            "authorChannelId": {
+              "value": "UCFOWjBETfGb2RnDfGIqqi1w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-03-17T16:49:44Z",
+            "updatedAt": "2021-03-17T16:49:44Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "tHzQ8MCImQzjygDH0Rs0ia8fxRs",
+      "id": "Ugyzq90ObWqixjK_a4d4AaABAg",
+      "snippet": {
+        "videoId": "qF9PpfBatBo",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "nOjdHEBJtQzf-vYrkw6fxraHXxs",
+          "id": "Ugyzq90ObWqixjK_a4d4AaABAg",
+          "snippet": {
+            "videoId": "qF9PpfBatBo",
+            "textDisplay": "Between 12/9/20 and 12/23/20 CDC logged 30,227 deaths attributed to C-19. There were 148,206 deaths due to all causes. The 65+ demographic was accountable for 85% of those C-19 deaths.\r\u003cbr /\u003e\u003cbr /\u003e85.6% of C-19 CASES are among those UNDER 65 years of age. (CDC)\r\u003cbr /\u003e80.7% of C-19 DEATHS are among those OVER 65 years of age. (16% of population)\r\u003cbr /\u003e24.8% of C-19 deaths occurred in nursing homes and hospice care.\r\u003cbr /\u003eOver half of the CASES never see a doctor, hospital or morgue.\r\u003cbr /\u003e\r\u003cbr /\u003eIf you are 65+ w multiple health issues in a crowded nursing home and the staff brings in C-19 you are screwed, but then you were screwed anyway. \r\u003cbr /\u003eIn other words: If you are already seriously ill, C-19 will probably finish you off, i.e. no different from the seasonal flu or pneumonia\r\u003cbr /\u003e\r\u003cbr /\u003eC-19 is not a problem for the young and healthy herd. Mother Nature and her buddy Grim Reaper are just doing their jobs, culling the herd of the too many, too old, too sick warehoused too close together as Medicare/Medicaid cash cows in poorly run contagious lethal elder care facilities.\r\u003cbr /\u003e\r\u003cbr /\u003eJapan has the highest percentage of 65+, 27%, yet still under 3,000 deaths. (WHO)\r\u003cbr /\u003eWhat do they know/do the rest of the world does not?\r\u003cbr /\u003e\r\u003cbr /\u003eIf C-19 is mostly killing off old sick people why are our elected morons suspending civil liberties, due process, bankrupting the country with lockdowns, distancing and masked clown shows? \r\u003cbr /\u003eGuess they can&#39;t impose the NWO Grand Reset with actual facts. \r\u003cbr /\u003eAnd the lying, fact free, fake news MSM left-wing propaganda coup machine has betrayed its responsibility to democracy and an informed public.",
+            "textOriginal": "Between 12/9/20 and 12/23/20 CDC logged 30,227 deaths attributed to C-19. There were 148,206 deaths due to all causes. The 65+ demographic was accountable for 85% of those C-19 deaths.\r\n\n85.6% of C-19 CASES are among those UNDER 65 years of age. (CDC)\r\n80.7% of C-19 DEATHS are among those OVER 65 years of age. (16% of population)\r\n24.8% of C-19 deaths occurred in nursing homes and hospice care.\r\nOver half of the CASES never see a doctor, hospital or morgue.\r\n\r\nIf you are 65+ w multiple health issues in a crowded nursing home and the staff brings in C-19 you are screwed, but then you were screwed anyway. \r\nIn other words: If you are already seriously ill, C-19 will probably finish you off, i.e. no different from the seasonal flu or pneumonia\r\n\r\nC-19 is not a problem for the young and healthy herd. Mother Nature and her buddy Grim Reaper are just doing their jobs, culling the herd of the too many, too old, too sick warehoused too close together as Medicare/Medicaid cash cows in poorly run contagious lethal elder care facilities.\r\n\r\nJapan has the highest percentage of 65+, 27%, yet still under 3,000 deaths. (WHO)\r\nWhat do they know/do the rest of the world does not?\r\n\r\nIf C-19 is mostly killing off old sick people why are our elected morons suspending civil liberties, due process, bankrupting the country with lockdowns, distancing and masked clown shows? \r\nGuess they can't impose the NWO Grand Reset with actual facts. \r\nAnd the lying, fact free, fake news MSM left-wing propaganda coup machine has betrayed its responsibility to democracy and an informed public.",
+            "authorDisplayName": "Nick Schroeder",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AAUvwnipZxMEgUrREGfa2kWiI8N3t8fVKx336dWNlg=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC6YM_zNbkXJ_ZBhC3MyjmPw",
+            "authorChannelId": {
+              "value": "UC6YM_zNbkXJ_ZBhC3MyjmPw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2020-12-25T15:31:51Z",
+            "updatedAt": "2020-12-25T15:31:51Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
         "isPublic": true
       }
     }
