@@ -1,4 +1,4 @@
-import os, config, webbrowser
+import os
 
 import google_auth_oauthlib.flow
 import googleapiclient.discovery
@@ -15,7 +15,6 @@ def fetch_title(video_id):
     api_service_name = "youtube"
     api_version = "v3"
     client_secrets_file = config.client_secret
-    print(client_secrets_file)
 
     # Get credentials and create an API client
     flow = google_auth_oauthlib.flow.InstalledAppFlow.from_client_secrets_file(
