@@ -15,8 +15,4 @@ sentiment_emoji = {
 def get_emoji(n):
     if n in sentiment_emoji:
         return sentiment_emoji[n]
-    if round_to_nearest_fifth(n) in sentiment_emoji:
-        return sentiment_emoji[round_to_nearest_fifth(n)]
-
-def round_to_nearest_fifth(n):
-    return round(n*5)/5
+    return sentiment_emoji[round(n*5)/5]

@@ -26,5 +26,3 @@ class YTComment:
         self.sentiment = get_sentiment(self.value)
         self.likes = (snippet["likeCount"] + self.likes) if "likeCount" in snippet else 0
         self.emoji = get_emoji(self.sentiment)
-
-

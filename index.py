@@ -2,10 +2,8 @@ from flask import Flask, jsonify, request, abort
 from flask_cors import CORS
 
 from helpers.fetch_comments import fetch_comments
-from helpers.fetch_title import fetch_title
 from models.ytcomment import YTComment
 from helpers.get_response import get_response
-from helpers.get_title import get_title
 
 
 app = Flask(__name__)
@@ -17,30 +15,15 @@ comment_list = []
 def create_UI():
     return "<h1 style='color:red;'>what's up</h1>"
 
-@app.route('/api/ytVideoIds', methods=['POST'])
+@app.route('/api/ytVideoId', methods=['POST'])
 def process_video_id():
-
     if not request.json or "videoId" not in request.json:
         abort(400)
 
     yt_video_id = request.get_json('videoId')['videoId']
-    print("\n\n\n\n Good here \n\n\n\n")
-    comment_data = fetch_comments(yt_video_id) # from line 12, it gets "Bh_uMYaykyQ"
-    # video_data = fetch_title(yt_video_id) DON'T NEED THIS FOR NOW MAYBE
-    # with open('./comment_data.json') as c:
-    #     comment_data = json.load(c)
-    # with open('./video_data.json') as v:
-    #     video_data = json.load(v)
+    comment_data = fetch_comments(yt_video_id)
 
-    comments_list = []
-
-    for c in comment_data["items"]:
-        comment = YTComment(c)
-        comments_list.append(comment)
-
-    comments_list.sort(key=lambda c: c.sentiment, reverse=True)
-
-    # title = get_title(video_data)
+    comments_list = sorted([YTComment(c) for c in comment_data["items"]], key=lambda c: c.sentiment, reverse=True)
 
     response = get_response(comments_list)
 
