@@ -2,5 +2,5 @@ import html
 from textblob import TextBlob
 
 def spellcheck(value):
-    result = TextBlob(html.unescape(value))
-    return result
+    result = TextBlob.correct(TextBlob(html.unescape(value)))
+    return str(result)
