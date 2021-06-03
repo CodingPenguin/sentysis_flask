@@ -9,12 +9,6 @@ from helpers.get_response import get_response
 app = Flask(__name__)
 CORS(app)
 
-comment_list = []
-
-@app.route('/')
-def create_UI():
-    return "<h1 style='color:red;'>what's up</h1>"
-
 @app.route('/api/ytVideoId', methods=['POST'])
 def process_video_id():
     if not request.json or "videoId" not in request.json:
@@ -28,7 +22,6 @@ def process_video_id():
     response = get_response(comments_list)
 
     return jsonify(response), 201
-
 
 if __name__ == '__main__':
     app.run(debug=True)
